@@ -1,0 +1,179 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Univers vs. Relationships",
+      "annotations": []
+    },
+    {
+      "body": "In the article, \"Ask Ethan: How Can We See 46.1 billion Light-Years Away in A 13.8- BillionYear-Old Universe? \", Ethan Siegel supports the question, If the Universe began 13.8 billion years ago, how can we see objects more than 46.1 Lights years away. He emphasizes this by developing several essential ideas. First, Siegel declares that the Universe is rapidly expanding. The Big Bang is the cause of the Universe's expansion. The massive explosion over 13.8 billion years ago has expanded the Universe to approximately 93 billion light years. Next, he mentions that objects do not remain at a constant fixed distance from one another. Newton's first law easily defends this claim. Every planet, star, or object in the Universe will always be in motion from the Big Bang. The sheer size of the explosion leaves Everything it has created with an immensely large amount of inertia. In the Universe's frictionless environment, there is no counteracting force to stop the motion of the objects. Finally, Siegel informs us that redshift light lets us see beyond 13.8 billion years. An object emits the redshifted light when it is moving away from Earth. Using this information, we can estimate how fast an object moves away from us. Therefore, if we see an object's light from 13 billion years ago and it redshifted, we know it is now several light years further away from Earth than perceived.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Nice job experimenting with the template, signal verbs, and writing moves!",
+          "teacher_category": "Praise",
+          "context_left": "93 billion light years. Next, he mentions that objects do not remain at a constant fixed",
+          "context_right": " distance from one a"
+        },
+        {
+          "type": "note",
+          "comment": "Who is your audience for this essay? Let's talk :) And do you need _all_ of this summary? Which information is necessary to \"point\" your reader to your own ideas (the \"art\" of summary)?",
+          "teacher_category": "Task Constraints",
+          "context_left": "the objects. Finally, Siegel informs us that redshift light lets us see beyond 13.8 billion",
+          "context_right": " years. An object em"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Integrating Quotes: Your paragraph currently summarizes the article without including any direct quotations from the source text. Please incorporate at least two relevant quotes from Ethan Siegel’s article to support your explanation, ensuring each follows the \"quote burger\" format of introduction, signal phrase, citation, and explanation.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Siegel answers the most crucial question: \"How can we see 46.1 billion Light-Years away?\" Siegel explains why we can see 46.1 billion Light-years away in a complicated manner, but the simple explanation is that Everything is moving. The Universe and every object inside constantly move, expands, and changes. In the same sense, so are the people living on Earth. Everybody, including you and myself, constantly changes as we progress.",
+      "annotations": []
+    },
+    {
+      "body": "In High School, I had a group of friends; we were inseparable. We did Everything together; we played all the same sports in high school, and all four got the same job and worked together. However, one inevitable thing was coming that would jeopardize our relationship with one another, and that was graduation. All four of our orbits were taking us on different paths. Dylan's path took him to a college 3 hours away, where he is consumed with Football and class; Boulder's path took him to an electrician apprenticeship right outside of our hometown; Carter's path took him to senior year of High School, and my path took me 11 hours away from our hometown to the University of Pittsburgh.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": " orbits ",
+          "comment": "nice word choice for the metaphor :)",
+          "teacher_category": "Praise",
+          "context_left": "ion. All four of our",
+          "context_right": "were taking us on di"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To better align with the rubric criteria for \"Details & Examples,\" consider expanding on the significance of these specific friendships beyond the logistics of graduation. Explain how these shared experiences—such as playing sports or working together—contribute to your central claim about the nature of evolving relationships, rather than simply listing the paths each friend took.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "In months, we went from Hanging out every day to calling every week to now calling every month. As our lives expanded, we slowly drifted apart from each other. The communication between the two slowly redshifted after each call. According to Seigel, \"We discovered that the spiral and elliptical nebulae in the sky were galaxies beyond our own; we measured the distance to them; we discovered that the farther away they were, the greater their light was redshifted.\" In other words, Siegel is saying that the further away two objects are from one another, the more their light redshifts, similarly to the communication between me and my friends. With each conversation, we slowly have less and less to talk about with each other. The words coming through the phone did not sound as they did three months ago.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": " In other words,",
+          "comment": "",
+          "context_left": "ght was redshifted.\"",
+          "context_right": " Siegel is saying th"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": " we slowly have less",
+          "comment": "",
+          "context_left": "h each conversation,",
+          "context_right": " and less to talk ab"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "According to Seigel,",
+          "comment": "",
+          "context_left": "ed after each call. ",
+          "context_right": " \"We discovered that"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "and less to talk about with each other. The words coming through the phone did not sound as they did three months ago.",
+          "comment": "Compelling moment. Is this idea the \"friction\" at the heart of your essay? Let's talk :)",
+          "teacher_category": "Elaboration",
+          "context_left": "we slowly have less ",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "Great introducing and explaining templates, but we need an introductory sentence that bridges from your ideas to Seigel's.",
+          "teacher_category": "Task Constraints",
+          "context_left": "communication between the two slowly redshifted after each call. According to Seigel,",
+          "context_right": " \"We discovered that"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "INTEGRATING QUOTES: Your current quote integration lacks a clear signal phrase to introduce the evidence, making the transition from your personal narrative to the scientific concept feel abrupt. Please revise this section to include a formal signal phrase that attributes the quote to Ethan Siegel, ensuring the transition flows more naturally into your explanation of the \"redshift\" metaphor.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Even though relationships constantly evolve and change, they do not always have to be for the worst. In some relationships, you can take the same path, gravitate toward each other, orbiting the same object. This is the course of action my girlfriend Kayley and I took, although the road was not always paved. We started dating when she was a senior in high school, and I was a junior. This meant that the same inevitable graduation event was bound to rip us apart. The worst part was that I knew exactly where she was going and how far away it was. The only sliver of hope I had left was that her parents' house was still in my hometown. That was until they decided to sell their house and permanently move.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "and I took, although the road was not always paved.",
+          "comment": "I'm interested, though I'm not quite sure how this experience is connected to your experience of drifting apart from your friends. Let's talk!",
+          "teacher_category": "Elaboration",
+          "context_left": "y girlfriend Kayley ",
+          "context_right": " We started dating w"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Focus on the \"Details & Examples\" criterion by tightening your narrative flow. While your personal story is compelling, consider removing extraneous details—such as the specific grade levels or the parents' house sale—to keep the focus squarely on how the \"orbiting\" metaphor directly illustrates your central claim about relationship dynamics.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "The day she left for college honestly felt like the ending of a sad movie. Her parents made it so that when she left for college, they would leave the house in my hometown and could drive together. Being the good person I am, I came over that day and helped her get packed for college and helped her parents move out of the house. When we finished packing, we said our goodbyes, not knowing what the future had in store. We got in our separate cars and took off. We took a similar route and were side by side at a red light. She was in the turning lane, and I was going straight. She rolled down her window and blew me a kiss as the light turned green, and we went our separate ways. In that same car ride, she bought a plane ticket to come back to see me on the first break she got.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "She rolled down her window and blew me a kiss as the light turned green, and we went our separate ways.",
+          "comment": "This _is_ like a movie!",
+          "teacher_category": "Praise",
+          "context_left": "was going straight. ",
+          "context_right": " In that same car ri"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Details & Examples: While this narrative scene is descriptive, ensure that every personal detail serves to develop your central comparison between physical expansion and the evolution of relationships. Rather than focusing solely on the chronological events of the move, explicitly connect these specific actions to your analysis of how relationships can \"blueshift\" or flourish despite distance.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Even though she was over 1000 miles (about the distance from Georga to Pennsylvania) away, our communication over the phone was not redshifted. According to Siegel, \"The light that we perceive will be redshifted or blueshifted dependent on our relative velocity to the object we are observing, and the light-travel time will not necessarily be the same as the actual present-day distance between any two objects.\" Basically, Siegel says that if the object's velocity moves toward us rather than away the light will be blueshifted. The connection we had with each other felt blueshifted. Our relationship was flourishing rather than diminishing; the moment I realized this was when I committed to the University of Pittsburgh.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "again, connect your ideas to Seigel's. Show your reader the metaphor. :)",
+          "teacher_category": "Elaboration",
+          "context_left": "e was not redshifted",
+          "context_right": ". According to Siege"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "INTEGRATING QUOTES: Your explanation following the quote is slightly underdeveloped; ensure you explicitly connect the scientific concept of \"blueshifted\" light back to the specific actions or behaviors in your relationship that made it feel like it was moving toward you rather than away. By deepening this analysis, you will better demonstrate how the quote supports your unique claim about maintaining long-distance connections.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "In conclusion, relationships are always changing. Whether you are in middle school, high school, college, or the \"real world,\" it is up to both parties to decide how much that relationship means to them, whether they want the relationship to redshift and slowly fall apart or blueshift and flourish.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "In conclusion, relationships are always changing. Whether you are in middle school, high school, college, or the \"real ",
+          "comment": "True. But how does this idea address the \"so what?\" question? What is your essay's purpose? Who is your audience? We'll talk :)",
+          "teacher_category": "Task Constraints",
+          "context_left": "",
+          "context_right": "world,\" it is up to "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is strengthening the central claim. Your conclusion should do more than restate your points; synthesize your personal experiences with the scientific concepts to leave the reader with a broader insight into the nature of human connection. Revise this paragraph to clearly articulate the \"big idea\" or lasting lesson you want the reader to take away about how relationships mirror the physics of the universe.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    }
+  ]
+}

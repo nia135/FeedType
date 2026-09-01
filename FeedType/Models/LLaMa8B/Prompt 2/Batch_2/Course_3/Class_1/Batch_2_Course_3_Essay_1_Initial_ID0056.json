@@ -1,0 +1,450 @@
+{
+  "paragraphs": [
+    {
+      "body": "Live With Purpose",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "With Purpose",
+          "comment": "Natalie, this is WAY over the word limit — 25% longer than requested. Please do try to respect my and your classmates’ time and stick to the word count. ",
+          "context_left": "Live ",
+          "context_right": "",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You're close to capturing the essence of conflict-driven storytelling, but I'd like to encourage you to explore the underlying theme of self-discovery within your narrative. Consider delving deeper into how the protagonist's experiences shape his growth and transformation throughout the story. Think about ways to reveal his inner struggles and emotional shifts as he navigates his journey, rather than solely focusing on external conflicts. By examining the psychological dimensions of your character, you'll create a richer, more engaging tale that resonates with readers.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Ugh, my chest hurts and I'm running out of breath. I haven't done this much work since high school football. Shit, I feel him catching up. Like that instinctual feeling you get when you know someone’s staring at you from across a room. Like I can sense his aura growing and spreading into my own. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "my own. ",
+          "comment": "I love an action-packed opening! ",
+          "context_left": " and spreading into ",
+          "context_right": "",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In order to strengthen your narrative, consider clarifying the connection between the protagonist's physical sensations (\"my chest hurts and I'm running out of breath\") and the supernatural events unfolding around him. What does this physical sensation signify, and how does it relate to the mysterious presence chasing him? Establishing a clearer link between these elements will enhance the tension and cohesion of your story.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "\"You cannot run forever, little one. This fault is none but your own, you knew what shall become of you, as warned.\"",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "You cannot ",
+          "comment": "This should be indented. Who is speaking? ",
+          "context_left": "\"",
+          "context_right": "run forever, little ",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In order to strengthen your narrative, consider clarifying the connection between the events unfolding within the story and the prompt provided. Specifically, explore ways to explicitly link the phrase \"This fault is none but your own, you knew what shall become of you, as warned\" to the subsequent actions and themes presented throughout the passage. By establishing clearer connections between the initial statement and the rest of the narrative, you'll create a more cohesive and engaging storyline for the reader.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "He's right, but I couldn’t find myself to believe it. Ever since I started having those dreams 3 weeks ago, I knew something felt off but there was no way I could accept it. Nightly premonitions, warning me that if I failed to return the stone, consequence would follow.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "find myself to believe it",
+          "comment": "Phrasing is off — bring myself to believe it? ",
+          "context_left": "ght, but I couldn’t ",
+          "context_right": ". Ever since I start",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In order to strengthen this passage, consider clarifying the connection between the protagonist's nightly premonitions and the consequences mentioned - what does failing to return the stone entail, and what kind of consequences are hinted at throughout the narrative? Establishing clear cause-and-effect relationships within the story will enhance tension and engagement for the reader.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "After an unforgettable vacation in Chile, I had to return for my final year of undergrad and prep for medical school. I studied my ass off for the last few years, did well on the MCAT, sent in all my applications, and was getting ready for interviews. This vacation was a gift from my parents for all the hard work I've been putting in. We went into the mountains the day before we left to return home, my first dream occurring later that night. I never would've thought anything of it, just my own brain's anxiety making up an intriguing back-story for this awesome clump of orange quartz I found in one of the mini caves on our excursion. Unfortunately, I'm a little more concerned now, as it is glowing and pulsating.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "for the last few years, did well on the MCAT, sent in all my applications, and was getting ready for interviews",
+          "comment": "Do we need to know all of this? ",
+          "context_left": " studied my ass off ",
+          "context_right": ". This vacation was ",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " never would've thought anything of it, just my own brain's anxiety making up an intriguing back-story for this awesome clump of orange quartz I found in one of the mini caves on our excursion",
+          "comment": "This made me laugh, in a good way. I’m confused — is he concerned more about the pulsing orange quartz, or about the voice speaking to him, or the being chasing him? ",
+          "context_left": " later that night. I",
+          "context_right": ". Unfortunately, I'm",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In order to effectively engage the reader, consider clarifying the connection between the protagonist's initial experience in the forest and its relevance to the rest of the narrative. What does the glowing and pulsating stone symbolize, and how does it drive the events that unfold? Establishing a clear link between these elements will enhance the cohesion and impact of the story.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": " \tI dodged and I weaved, parkouring through the woods near my campus house at 3AM, bouncing off logs and rocks, hopping over little streams and shrubs. He seemed to outperform me in a straight line, but thankfully he isn't fully spectral, and is unable to pass through material objects. But then, how did he end up in my room in the first place? ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "campus house at 3AM",
+          "comment": "I love this image. ",
+          "context_left": "h the woods near my ",
+          "context_right": ", bouncing off logs ",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In order to strengthen your narrative, consider exploring the underlying theme of identity formation throughout the story. You touch on various elements that contribute to the protagonist's growth, such as physical strength gained through labor and emotional connection formed with the mysterious figure. However, delving deeper into how these experiences shape the protagonist's self-perception and relationships could add complexity to the narrative. Think about how the protagonist's interactions with the ancient figure influence their views on themselves, others, and the world around them. By examining these themes more explicitly, you'll create a richer exploration of the human experience within the constraints of your flash fiction.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\"You must be punished, just as a thief is shown no remorse, and a low born bears no excuse.\"",
+      "annotations": []
+    },
+    {
+      "body": "Low born? Is that racist? Just then it occurred to me that this is indeed the same individual who has been present in my dreams. An ancient figure, dressed in faded textile-like drapes with half of his large chest sticking out and man-made sandals. He was also decorated in large, hanging feathered earrings. Was this an ancient figure originating from the very mountains I visited? Just as I was trying to remember what the tour guide told us about the historic residents of the area, I was pleasantly startled by what was uttered next by this spectral being.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Is that racist? ",
+          "comment": "Okay, I genuinely LOL’d at this. ",
+          "context_left": "Low born? ",
+          "context_right": "Just then it occurre",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "dreams",
+          "comment": "I think it would make more sense if he got a good luck at the figure here — surely he would have recognized him before now? ",
+          "context_left": " been present in my ",
+          "context_right": ". An ancient figure,",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In order to strengthen your narrative, consider exploring the implications of the phrase 'low-born.' What does it mean within the context of your story? Does it relate to social status, family lineage, or perhaps a spiritual hierarchy? Delving deeper into this term could add layers to your protagonist's interactions with the ancient figure and enrich the themes of identity, belonging, and self-discovery that seem to emerge throughout the passage. By examining the significance of 'low-born,' you can create a richer, more nuanced exploration of your characters and their relationships.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\"Enough running...please..\"",
+      "annotations": []
+    },
+    {
+      "body": "Please? Why did he just say please. At first he was so stern and vengeant. Now he's pleading? I looked down at the stone and uttered to myself, \"what are you?\"",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "uttered to myself, \"what are you?\"",
+          "comment": "I find it funny that the guy doesn’t want to run! I do think that the narrator talking to the stone is confusing. Did he start having the dreams the night after he brought the stone back o his hotel? ",
+          "context_left": "wn at the stone and ",
+          "context_right": "",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In this scene, you're exploring the theme of transformation and growth, but consider delving deeper into the implications of the protagonist's journey. What does it mean for him to be taught by the ancient one, and how does this experience shape his perspective on life and purpose? Think about ways to reveal the emotional resonance of this transformative process, perhaps through subtle changes in dialogue, body language, or inner monologues. By probing further into the conceptual significance of this encounter, you'll add richness and complexity to your narrative.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": " \tAt that instant, everything froze, but I still heard leaves, branches, and shrubs crunching as slow footsteps approached me from behind. ",
+      "annotations": []
+    },
+    {
+      "body": "\"I told you boy, you were forewarned. So which hand will it be? Never mind that, I shall have both.\" ",
+      "annotations": []
+    },
+    {
+      "body": "As he swung down on my extended left arm from mid stride, a giant roar let out from the street above the woods. A garbage truck. Wow, is it 6AM already? This moment of distraction led the ancient one to just miss my wrist and strike the stone, which powerfully kicked him back. The stone now had a giant crack and started glowing and pulsating more aggressively. He then screamed, almost in agony: ",
+      "annotations": []
+    },
+    {
+      "body": "\"Nooo!\"",
+      "annotations": []
+    },
+    {
+      "body": "I unfroze but fell to the dirt, starstruck by what was happening in my own 2 hands. Then, in a flash, there was nothing.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "nothing",
+          "comment": "Love the garbage truck detail. ",
+          "context_left": " a flash, there was ",
+          "context_right": ".",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In order to better engage the reader, consider varying sentence structure within this scene; currently, many consecutive sentences are written in similar structures (\"Then, in a flash...\", \"There was nothing\"), which creates a somewhat monotonous reading experience. By mixing shorter and longer sentences, you'll create a more dynamic pace and draw the reader further into the narrative.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "When I woke up my eyes were still closed. I smelled something faintly familiar, like fresh pine and damp Earth, like recent rain fall. I felt sweat quickly accumulating around my hands, feet, and back. I finally opened my eyes. It looked like I was in a tent, a little sliver of daylight creeping inside from about 10 feet in front of me. I stood and walked out to see where I was. I looked around the bright green mountain scape that lay before me.",
+      "annotations": []
+    },
+    {
+      "body": "\"What the fu-\" *A large bird caws*",
+      "annotations": []
+    },
+    {
+      "body": "Seemingly I was on a great mountain full of lush greenery, surrounded by even larger ones. More astonished by my immediate surroundings, it took me a minute to look down upon the town that was before me. Nearly identical stone buildings, huts even, made up a simple layout of paths and sidewalks, filled with people walking, children running, and merchant carts loudly pronouncing their products for sale. I suddenly jumped and was startled by the footsteps behind me. It was him. It all came back to me now. He said something softly to me, but it sounded like total gibberish, I was so confused I couldn't even hide my expression. He then pulled out a small stone, resembling the one he broke back in the woods. He looked down and it flashed a small glow.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "with people walking, children running, and merchant carts loudly pronouncing their produc",
+          "comment": "Is this where he was in Chile? ",
+          "context_left": "d sidewalks, filled ",
+          "context_right": "ts for sale. I sudde",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In order to strengthen your narrative, consider exploring the implications of the phrase 'the universe makes no mistakes.' This theme seems central to the story, yet its significance and connection to the protagonist's journey remains somewhat unclear. Think about ways to deepen the symbolism of this statement throughout the narrative, perhaps by showing how the events unfold according to a greater plan or highlighting instances where the protagonist begins to grasp this truth. By delving further into this concept, you'll add layers to your storytelling and create a richer reading experience.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\"Welcome Boy,\" he uttered.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ",\" he uttered",
+          "comment": "All of these paragraph should be indented. I fixed it for you this time, please fix throughout. ",
+          "context_left": "\"Welcome Boy",
+          "context_right": ".",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It seems like you're struggling to establish clear stakes and consequences within your narrative. In order to create tension and drive the plot forward, consider introducing conflicts that raise the stakes for your protagonist beyond mere physical challenges. What does the protagonist stand to gain or lose throughout the journey? Are there higher-level risks involved, such as emotional harm, loss of identity, or spiritual growth? By clarifying these concepts, you'll add depth to your story and engage your readers emotionally.",
+          "model_category": "Concepts"
+        }
+      ]
+    },
+    {
+      "body": "\"Hello…\" I said hesitantly, \"here to finally finish the job?\" I couldn't hide my sarcasm nor could accept what was going on. I was just so pissed about having to run for my life for hours on end. ",
+      "annotations": []
+    },
+    {
+      "body": "\"This is my home, where I belong, and you certainly do not.\" He then sighed and whispered to himself, \"Did you truly choose one so bereft of light? A common thief?\" ",
+      "annotations": []
+    },
+    {
+      "body": "\"I didn’t steal anything, it’s just a stupid rock.\"",
+      "annotations": []
+    },
+    {
+      "body": "He scowled at me,\" Your ignorance knows no bounds, enough of you. You will labor under me until I know what to do with you.\"",
+      "annotations": []
+    },
+    {
+      "body": "\"I-\" ",
+      "annotations": []
+    },
+    {
+      "body": "Before I could finish saying whatever jerky thing that was exiting my mouth next, he flashed a sophisticated dagger, seemingly made of obsidian. Strange since I wouldn’t expect something so well-crafted from such an ancient-being. I played enough videogames and watched enough anime to appreciate the work, but also the threat that it posed. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that it posed. ",
+          "comment": "I did wonder why he didn’t pull the knife earlier. What happened to the exhaustion from the running? Is this dude still tired out? ",
+          "context_left": "but also the threat ",
+          "context_right": "",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In this scene, you effectively use sensory details to immerse the reader in the action unfolding before them; however, consider varying sentence structure to create a smoother pace and avoid abrupt transitions between thoughts. For example, the shift from describing the dagger to acknowledging familiarity with its craftsmanship comes across somewhat jarringly - breaking up longer sentences or rephrasing certain phrases could enhance overall clarity.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "\"Follow,\" he said sternly.",
+      "annotations": []
+    },
+    {
+      "body": "We went down a path behind the tent I woke up in, opposite of the busy town I first veered at. While walking, I examined the tent more closely and could also tell this was the work of some skillful hands. I then looked ahead and suddenly the mountain scape opened well and wide, revealing a magnificently large plot of farmland ahead. We went down to a small barn where he went in and right back out, tossing me a pile of cloth:",
+      "annotations": []
+    },
+    {
+      "body": "\"If you are to be here, at least look to belong.\"",
+      "annotations": []
+    },
+    {
+      "body": " \tI unfolded the pile of shit in my arms, and it revealed to look like what he was wearing. God this is ass but whatever. As I took off my dirty bedtime sweatpants and long sleeve shirt, he also tossed me some terribly thin and ugly sandals. I sighed but cooperated while glaring at the dagger hanging by a thread on his side. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "God this is ass but whatever. ",
+          "comment": "HA",
+          "context_left": "hat he was wearing. ",
+          "context_right": "As I took off my dir",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To add more depth to this scene, consider exploring the protagonist's thoughts and feelings beyond his initial reaction to receiving new clothes. What does he notice about the fabric, texture, or smell of the garments compared to his old clothes? How does he perceive the contrast between the rough, practical clothing he wore during his physical labor and the finer attire worn by the mysterious figure? By elaborating on these sensory details, you can create a richer atmosphere and draw the reader further into the narrative.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": " \tWeeks passed in a blur, though time seemed to flow differently here. To keep my sanity, I carved a makeshift calendar into the wall of my small sleeping barn. The work was grueling at first, cutting down trees for farmland, hoeing the Earth, and hauling heavy carts. As the days went on, I grew stronger, both physically and mentally. Somewhere between the soreness, sweat, and blisters, I found an unexpected sense of peace, and a deeper appreciation for nature and the Universe. The man and I always shared meals and over time we settled into an unspoken rhythm, cooking together over an indoor firepit and using terribly uneven ceramics, that somehow got the job done. How did I end up here and why? She always used to say everything happens for a reason.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Weeks passed in a blur, though ",
+          "comment": "So, generally, when you include a huge time jump like this, it’s a sign that the piece doesn’t quite work as flash fiction. It generally (not always) stays in a shorter time frame. ",
+          "context_left": " \t",
+          "context_right": "time seemed to flow ",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In developing your narrative, consider exploring the theme of self-discovery and growth through adversity. In the target paragraph, you effectively convey the protagonist's physical transformation (\"grew stronger\") and emotional shift (\"found an unexpected sense of peace\"), yet the connection to the broader context of the story remains somewhat unclear. Think about how you can further integrate the events described in this passage with the overall message of the story, perhaps highlighting how the challenges faced by the protagonist serve as catalysts for introspection and learning. By strengthening this link, you'll create a more cohesive and impactful narrative arc.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "After about 3 months I began getting quite agitated. When do I get to go home? After a particularly difficult couple-day span of work, I reached my limit. While cooking I grabbed the dagger from his hip and held it up against his throat. The ancient one didn’t even flinch, calmly looking me in my eyes.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "After about 3 months ",
+          "comment": "Yes, I wondered why he didn’t worry about missing classes or his family or his new job or his graduation…",
+          "context_left": "",
+          "context_right": "I began getting quit",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In this scene, the tension builds effectively as the protagonist reaches his breaking point and grabs the dagger to threaten the ancient one. However, the phrase \"The ancient one didn’t even flinch, calmly looking me in my eyes\" seems unclear - does this mean the ancient one remains calm despite the danger, or is he simply ignoring the situation altogether? Consider clarifying whether the ancient one responds verbally or nonverbally to the threat, as this ambiguity affects the pacing and intensity of the confrontation.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "\"What's going on? When will this be over? Who are you? Why are you here alone?\"",
+      "annotations": []
+    },
+    {
+      "body": "I kept spitting out questions, any and all that came to my mind. I began tearing up with frustration, not knowing how to deal with my emotions.",
+      "annotations": []
+    },
+    {
+      "body": " \tHe slowly put 2 fingers on the blade, pushing it down, leading me to drop it in weakness, my head falling with it. He suddenly embraced me with his big open arms. The man then said softly, \"Fear not, for there is always purpose.\"",
+      "annotations": []
+    },
+    {
+      "body": " \tLater that same night, I heard some impressive howling, which was a first. Certainly, some large dogs, but hopefully they weren't wild. I tried to fall asleep, and think I was able to for a short time. However, I was startled by a much closer sound of aggressive growling and yelling. I looked outside and it was the man, fighting off 3 giant wolves on his own, torch and dagger in hand. I froze, but quickly snapped out of it and grabbed a large walking stick I had (I thought it looked cool one day while cutting trees), which inherently had a roughly sharp tip from banging it on the ground all the time. I ran towards the commotion and impaled one of the unexpecting wolves from the side. This led to an opening for the man to swiftly take out the other two, as their attention sharply diverted towards me. The man was clearly not a stranger to fighting. Thinking back on it, could he have taken me out earlier in the night, even with the blade directly to his throat? Then, there was a short moment of silence as we gazed upon the lives we just took.",
+      "annotations": []
+    },
+    {
+      "body": "\"Follow.\"",
+      "annotations": []
+    },
+    {
+      "body": "He never allowed me inside the main cabin after sundown. ",
+      "annotations": []
+    },
+    {
+      "body": "\"Son, you've grown.\"",
+      "annotations": []
+    },
+    {
+      "body": "Well yeah, I definitely got stronger with all that work, he hasn’t noticed? However, he was looking directly into my eyes. He then began to tell me his story. How he once left behind the one he loved to progress to kingship. He tried to balance love with war, quality with council, but let the duty he sought take precedent. When he came to achieve the life he spent his youth creating, he also realized what he left behind. When he tried to salvage the relations, they were far too gone. This cursed him, internally and externally, leading to his love becoming one with an ancient relic. He had not known how to reverse this curse, but figured in some way he must learn. The best way to learn, is to teach. The man then said to me: ",
+      "annotations": []
+    },
+    {
+      "body": "\"Every insect flies with purpose just as every tree grows with intent. The Universe makes no mistakes. You are here for a reason and have heard my story for a reason, just as I am here and just as I have told. Go on and learn from my mistakes. Love with purpose.\"",
+      "annotations": []
+    },
+    {
+      "body": "With slow tears dripping from both of our eyes, there was a flash, and then nothing.",
+      "annotations": []
+    },
+    {
+      "body": " \tWhen I woke up my eyes were still closed. I smelled something faintly familiar, like fresh pine and damp Earth, with a musty undertone. I felt the wet moisture start seeping into my butt. I finally opened my eyes. I was back in the woods near my home. I stood, saw the rising sun, and heard the dump truck continue up the street above. ",
+      "annotations": []
+    },
+    {
+      "body": "\"Wow.\"",
+      "annotations": []
+    },
+    {
+      "body": "I walked home without a single thought in my head, went upstairs, and laid in my bed soaked with dirt, mud, and sweat. I picked up my phone on my bedside and decided to finally text Her again.",
+      "annotations": []
+    },
+    {
+      "body": "'Hey, we should get lunch this weekend'",
+      "annotations": []
+    },
+    {
+      "body": "Typing bubbles appeared quickly, much quicker than anticipated for so early in the morning.",
+      "annotations": []
+    },
+    {
+      "body": "'I would love that'",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "that",
+          "comment": "Ah, you came dangerously close to “this was all a dream”! But no, I enjoyed sections of this a lot, Natalie. You wrote your sarcastic narrator really well — I genuinely laughed out loud at times. And I love the use of the video game tropes. Your biggest issue is that what your narrator and main character wants isn’t really clear until the final few lines, when we learn, at last, that he needed courage to ask a girl out. You filled a lot of pages but you didn’t quite write that story yet. My suggestion is that you tighten your focus — cut the entire trip to the other realm and the three months of working, which, while well written, doesn’t make a ton of sense. Instead, have us go from the opening chase to the passing out and then awakening. Figure out a way to work in the women earlier so we know that the narrator is struggling to get the courage to text her, and than his experience in the woods somehow gives him that. You should end up closer to your word count, keep a lot of what works really well here, and also get us a story with a plot. Lots of fun — thank you and happy revising! I’ll need your revision or a note telling me you’re not going to revise by 9 AM on Thursday. Grade: A",
+          "context_left": "'I would love ",
+          "context_right": "'",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It seems like you're struggling to grasp the core concept of conflict driving the narrative in flash fiction. In particular, your story jumps abruptly from the protagonist's daily life to a fantastical realm, and although it explores themes of identity and growth, it doesn't establish clear opposition or tension throughout. Consider revisiting the prompt's emphasis on developing a central conflict and focusing on character interactions and relationships within that framework. Ask yourself: What does the protagonist desire, and what obstacles stand in their way? By clarifying this fundamental aspect of storytelling, you'll create a more engaging and cohesive narrative.",
+          "model_category": "Concepts"
+        }
+      ]
+    }
+  ]
+}

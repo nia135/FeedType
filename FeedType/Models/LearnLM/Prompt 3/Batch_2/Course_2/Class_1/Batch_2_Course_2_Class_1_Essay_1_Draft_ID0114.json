@@ -1,0 +1,150 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Strip District in Pittsburgh gained popularity as a neighborhood with its energetic food markets alongside diverse cultural aspects before my arrival. My mental pictures showed an active modern market like what cinema features with fashionable restaurants and fashionable architecture. A well-constructed setting shaped by a cosmopolitan customer base was what I anticipated to find. My expectation came from the pictures of urban America that commonly promote their digital urban dynamics. The place appeared sophisticated and modern in Spanish language description.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "arrival. My",
+          "comment": "I would add a few more sentences to enrich the content of the introduction; for instance, you may pose questions, include an anecdote, or add a quote, etc.",
+          "context_left": "l aspects before my ",
+          "context_right": " mental pictures sho",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The",
+          "comment": "Before the first paragraph, please include a title. I would also add a 0.5'' indentation at the beginning of each paragraph.",
+          "context_left": "",
+          "context_right": " Strip District in P",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is Elaboration. You have established your initial preconceptions, but you should expand on the specific \"digital urban dynamics\" or \"Spanish language descriptions\" that led to your mental image of a modern, fashionable market to help the reader better understand the origin of your expectations.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: To help the reader better understand your initial expectations, please expand on what specifically about the \"Spanish language description\" led you to believe the Strip District would be a sophisticated, modern space. Adding concrete details about the specific adjectives or cultural connotations that shaped your preconception will provide a stronger foundation for the contrast you present later in the essay.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "When I got to the Strip District it proved entirely different from what I imagined before visiting. The market stood in stark contrast to my expectations showing rich historical features and distinctive personality instead of clean contemporary architecture. Several factors including the historic brick structures beside snug streets together with an unusual range of vendors sold fresh produce along with vintage merchandise made the place special in ways I hadn't predicted. The market took me back to European traditional markets because they fuse history with modern life while maintaining a natural vibrant feel. I had expected something different but truly adore its genuine quality said my mind. A counterpart to the Strip District exists in La Boquería market in Barcelona. The two locations function as vibrant eating and cultural spaces that welcome local and visiting populations. However, there are notable differences. La Boquería displays its Mediterranean charm through its grand iron structure alongside colorful displays of fresh seafood and fruits and Iberian delicacies. The Strip District showcases an industrial rustic charm which exhibits worldwide international cuisine reflecting Pittsburgh's diverse immigrant roots. Face-to-face interactions prevail in the Strip District although La Boquería provides an established upscale atmosphere. The diverse cultural backgrounds in these markets create an interesting landscape even though their traditional expressions differ substantially. Every market operates with its own distinct personality according to my observations.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "fuse",
+          "comment": "fused",
+          "context_left": "arkets because they ",
+          "context_right": " history with modern",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Several",
+          "comment": "Several attractions made the location special in ways I hadn't expected: historical brick structures paired with snug streets and an unusual mix of vendors selling fresh produce alongside vintage merchandise.",
+          "context_left": "orary architecture. ",
+          "context_right": " factors including t",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The",
+          "comment": "By contrast,",
+          "context_left": "ed before visiting. ",
+          "context_right": " market stood in sta",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: You have provided a great start to your comparison, but please expand on the specific L1/L2 linguistic elements present in both markets to fulfill the assignment requirement of including words and phrases from your first language.",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The rubric requires the inclusion of words and phrases from your first language (L1) in the narrative; please revise this paragraph to incorporate specific linguistic elements from your native language to satisfy this assignment requirement.",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The prompt requires you to include words and phrases from your first language (L1) in the narrative; however, this paragraph currently uses only English. Please integrate specific terms or phrases from your native language to highlight the cross-cultural nature of your experience.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Through this cultural comparison I discovered new ideas about how American urban areas present their cultural environments. I had believed Pittsburgh markets would operate without the layered heritage and communal spirit which Spanish markets possessed. The Strip District experience revealed to me that cultural energy and historical significance can demonstrate through various expressions. The realization of the Strip District's historic community layers challenged my prejudice about American commercial modernity. Entertaining experiences regularly demonstrate that things frequently present differently from what they appear to be according to my lessons.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " I",
+          "comment": "I would add a comma here.",
+          "context_left": " cultural comparison",
+          "context_right": " discovered new idea",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: In this paragraph, you discuss how your initial assumptions were challenged, but you should deepen this analysis by specifically explaining how your preconceived notion of \"American commercial modernity\" was shaped by media or cultural stereotypes before you arrived in Pittsburgh. Adding a concrete example of a specific bias you held would make your reflection on the \"gap between preconception and realization\" much more compelling.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "My exposure to these diverse linguistic and cultural conditions expanded my knowledge of human interaction in minority contexts. Visiting the Strip District provided me opportunities to interact with multiple cultures through eating food while having interpersonal conversations together with observing people in the municipality. This experience proved that cultural areas evolve according to both their historical background and resident community dynamics. Since becoming aware of this realization, I have developed an atmosphere of openness and curiosity toward cultural differences instead of trusting preexisting assumptions. Learning to observe and listen establishes itself as a vital factor in my journey I articulated learn to observe and listen proves fundamental. My explorations helped me better value Pittsburgh and Barcelona because despite their differences they reveal similar characteristics of cultural diversity and richness. Understanding each place demands mental openness and a commitment to accept multiple views of their historical narratives.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " instead of",
+          "comment": ", rather than relying on preexisting assumptions",
+          "context_left": "cultural differences",
+          "context_right": " trusting preexistin",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "becoming aware of this ",
+          "comment": "Since this realization",
+          "context_left": "ity dynamics. Since ",
+          "context_right": "realization, I have ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "My explorations",
+          "comment": "The concluding paragraph can be expanded. Please also add non-English phrases/sentences from your mother tongue to enrich the content of the paper.",
+          "context_left": "proves fundamental. ",
+          "context_right": " helped me better va",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The sentence \"Learning to observe and listen establishes itself as a vital factor in my journey I articulated learn to observe and listen proves fundamental\" contains a grammatical error where two independent clauses are joined without proper punctuation or transition. Please revise this sentence to clarify your meaning and correct the run-on structure.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In the sentence \"Learning to observe and listen establishes itself as a vital factor in my journey I articulated learn to observe and listen proves fundamental,\" you have combined two distinct thoughts into a run-on sentence that disrupts the flow of your conclusion. Please revise this section to clearly separate these ideas and remove the repetitive phrasing to improve the clarity and impact of your final reflection.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The sentence \"Learning to observe and listen establishes itself as a vital factor in my journey I articulated learn to observe and listen proves fundamental\" contains a grammatical error where two independent clauses are joined without proper punctuation or transition. Please revise this sentence to clarify your meaning and correct the run-on structure.",
+          "model_category": "Mistakes"
+        }
+      ]
+    }
+  ]
+}

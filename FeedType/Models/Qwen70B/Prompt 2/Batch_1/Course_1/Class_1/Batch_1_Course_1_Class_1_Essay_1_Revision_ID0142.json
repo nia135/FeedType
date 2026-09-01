@@ -1,0 +1,332 @@
+{
+  "paragraphs": [
+    {
+      "body": "What drives conspiracy theorists? Why believe in conspiracies?",
+      "annotations": []
+    },
+    {
+      "body": "Shauna Bowes is a doctoral student in clinical psychology, that did research behind conspiracy theories. She published a paper, “The Conspiratorial Mind: A Meta-Analytic Review of Motivational and Personological Correlates” where she goes into detail on a variety of distinct factors as to why people are prone to believe in conspiracy theories. Factors like social relationships, insecurity, wanting to feel superiority over others, or just to make sense of something stressful and confusing. According to Bowes, “many turn to conspiracy theories to fulfill deprived motivational needs.” Bowes insists conspiracy theories can fulfill something we so desperately need to keep going in our current society: motivation. The power to keep pushing even through the overwhelming amount of negative daily news and media. Most of all, people are prone to believing in theories because they want to feel safe from the depressing stories that the media covers daily.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "According to Bowes, “many turn to conspiracy theories to fulfill deprived motivational needs.” Bowes insists",
+          "comment": "Nice quote burger templates",
+          "teacher_category": "Praise",
+          "context_left": "sful and confusing. ",
+          "context_right": " conspiracy theories"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Factors like social relationships, insecurity, wanting to feel superiority over others, or just to make sense of something stressful and confusing.",
+          "comment": "sentence fragment",
+          "teacher_category": "Mistakes",
+          "context_left": "onspiracy theories. ",
+          "context_right": " According to Bowes,"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The power to keep pushing even through the overwhelming amount of negative daily news and media. Most of all, ",
+          "comment": "sentence fragment",
+          "teacher_category": "Mistakes",
+          "context_left": "ociety: motivation. ",
+          "context_right": "people are prone to "
+        },
+        {
+          "type": "note",
+          "comment": "Nice job with summary, overall, but the summary templates we practiced in class will improve your writing even more!",
+          "teacher_category": "Task Constraints",
+          "context_left": "in theories because they want to feel safe from the depressing stories that the media covers daily.",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your introduction of Shauna Bowes and her research is detailed, but it could benefit from clearer transitions to help readers follow your points smoothly. For example, instead of listing various factors leading to belief in conspiracy theories, consider linking them explicitly to Bowes' findings. This will enhance the flow and ensure that the connection between her research and your discussion is crystal clear.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "These stories tend to be a mix of the following categories: Violence, Death, and Politics. There are constant stories on how many lives were lost in an attack, how many hostages were taken, how many children are missing, etc. The media will cover conflicts taking place in other countries as well. Overall, when you look at the news, you leave feeling an overwhelming pessimistic view of the world, not just your own country. But that is what we like, right? Being pessimistic?",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Are you still summarizing  Bowes' ideas in these paragraphs? Or are these your own ideas? It's unclear...",
+          "teacher_category": "Clarification",
+          "context_left": "c view of the world, not just your own country. But that is what we like, right? Being pessimistic?",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your paragraph effectively lists various types of negative news covered by the media, but it could benefit from clearer transitions and connections between points. Consider linking the examples more explicitly to the overall impact on readers' perceptions. For instance, instead of ending with \"But that is what we like, right? Being pessimistic?\" try connecting back to the broader theme of how this constant exposure influences people's beliefs and behaviors.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "As we chronically face all the negative news, people turn towards conspiracy theories to explain events or motivations that they do not understand. They believe these theories to feel safe and make sense of why we constantly see negative things happening in the world no matter how wacky they might be.",
+      "annotations": []
+    },
+    {
+      "body": "Now there is a percentage of the human population that chooses to deal with the constant negativity by counterbalancing it with positivity. Making their lives more positive. Using positive methodologies that most people would call “silliness” such as crystals, visualization exercises like positive affirmation phrases, journaling, manifestations, etc. Practices that I used to call “nonsense.” Due to the societal response to these methods, there is a weird obligation that people must hide this sort of activity. Which is a shame and something I did not acknowledge until I met my friend Caitlin.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Making their lives more ",
+          "comment": "fragment",
+          "teacher_category": "Mistakes",
+          "context_left": "it with positivity. ",
+          "context_right": "positive. Using posi"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Using positive methodologies that most people would call “silliness” such as",
+          "comment": "",
+          "context_left": "ives more positive. ",
+          "context_right": " crystals, visualiza"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "crystals, visualization exercises like positive affirmation phrases, journaling, manifestations, ",
+          "comment": "",
+          "context_left": "“silliness” such as ",
+          "context_right": "etc. Practices that "
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Due to the societal response to these methods, there is a weird obligation that people must hide this sort of activity.",
+          "comment": "What do you mean? Develop? Explain?",
+          "teacher_category": "Clarification",
+          "context_left": "to call “nonsense.” ",
+          "context_right": " Which is a shame an"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You mention that a portion of the population uses positive methodologies to counterbalance negativity, but you could elaborate further on the impact these practices have on individuals' mental health and overall well-being.\nConsider providing specific examples or anecdotes that illustrate how these practices help people cope with stress and maintain a positive outlook.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Caitlin was one of those people. One that woke up early every morning to journal her intentions for the day. One that kept crystals in her bags to bring her whatever energy she was looking for. One who was proudly using positive methodologies to deal with her problems and thoughts even if the rest of the friend group thought she was “weird” or hated how positive she was all the time. She once told me that she noticed that “Color is so much brighter”. Then she proceeded to tell me all the differences she had noticed in her life. I grew more intrigued and curious to know if what she was saying could be true. That positivity changes perception which could ultimately change your reality. I know I would at least want to see colors more vividly. I learned a lot about her “nonsense” practices during our friendship and for that I am grateful I no longer refer to them as nonsense or weird.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "That positivity changes perception which could ultimately change your reality.",
+          "comment": "",
+          "context_left": "ying could be true. ",
+          "context_right": " I know I would at l"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "for that I am grateful I no longer refer to them as nonsense or weird.",
+          "comment": "this is a fused/run-on sentence.",
+          "teacher_category": "Mistakes",
+          "context_left": " our friendship and ",
+          "context_right": ""
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "She once told me that she noticed that “Color is so much brighter”.",
+          "comment": "so much brighter because of... ? This idea is a bit confusing. It just needs a little bit more explanation.",
+          "teacher_category": "Clarification",
+          "context_left": "e was all the time. ",
+          "context_right": " Then she proceeded "
+        },
+        {
+          "type": "note",
+          "comment": "It's also cool how your rocks get so colorful too!",
+          "teacher_category": "Praise",
+          "context_left": "es during our friendship and for that I am grateful I no longer refer to them as nonsense or weird.",
+          "context_right": ""
+        },
+        {
+          "type": "note",
+          "comment": "Nice shift to the personal in this paragraph. The writing gets more concrete, specific, and clear.",
+          "teacher_category": "Praise",
+          "context_left": "es during our friendship and for that I am grateful I no longer refer to them as nonsense or weird.",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of Caitlin and her practices provides a vivid picture, but consider elaborating further on how these practices specifically impacted her life beyond just noticing that \"color is so much brighter.\" Adding more detailed examples or anecdotes about the changes she observed could help readers better understand the impact of these positive methodologies.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Conspiracy theories are also described as weird and nonsensical. Especially in the media. According to Bowes, conspiracy theorists are routinely portrayed as “simple minded and mentally unwell folk.” In other words, Bowes believes that the media continues to push this image that conspiracy theorists are crazy and weird. The same image given to people like my friend Cailtin. Even with this bias, why do people still choose these options for coping?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "The same image given to people like my friend Cailtin.",
+          "comment": "",
+          "context_left": "re crazy and weird. ",
+          "context_right": " Even with this bias"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "these options",
+          "comment": "which options, specifically? Do you mean either positivity or conspiracy?",
+          "teacher_category": "Clarification",
+          "context_left": "people still choose ",
+          "context_right": " for coping?"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "According to Bowes, conspiracy theorists are routinely portrayed as “simple minded and mentally unwell folk.” In other words,",
+          "comment": "nice quote burger templates.",
+          "teacher_category": "Praise",
+          "context_left": "ially in the media. ",
+          "context_right": " Bowes believes that"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your paragraph introduces several interesting points, but it could benefit from clearer connections between the portrayal of conspiracy theorists and the comparison to your friend Caitlin. Consider explicitly stating how the media’s portrayal of conspiracy theorists mirrors the stigma faced by individuals practicing positive methodologies, and how this shared stigmatization affects people's choices in coping mechanisms.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "It is because both options are an attempt to find meaning and control.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "It is because both options are an attempt to find meaning and control.",
+          "comment": "Interesting.",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your statement, \"It is because both options are an attempt to find meaning and control,\" is concise but could benefit from further elaboration to enhance clarity. Consider expanding on how both conspiracy theories and positive methodologies specifically help individuals find meaning and control in different contexts. This will help readers fully grasp the connection and significance of these approaches.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "We want so badly to be in control of everything in our lives. But we are not. I wanted nothing more than to be able to control the outcomes of everything around me. One I so desperately wanted to alter was the outcome of my grandmother. As I grew up, her Alzheimer’s Disease grew worse. Once I turned old enough to be told what Alzheimer’s Disease was and how it affected my grandmother, I immediately contributed to taking care of her. Every day after school, I would go over to my aunt's house (that is where she stayed once she reached the stage of not being able to take care of herself on her own) to solve puzzles with her or play scrabble, or even just keep her company while she watched television. It was painful to watch as she slowly faded away over the years, but I still stuck to our routine. Still prayed that the next day the regression in her memory would reverse. That the disease would magically disappear. I would say positive things like “It will get better” or “Grandma is super strong; she will fight for a long time” in hopes to manifest more hopeful progress in both our lives. For both our realities. Even if I, at the time, believed it was nonsense. Those positive affirmations in the end did not work.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "I wanted nothing more than to be able to control the outcomes of everything around me. One I so desperately wanted to alter",
+          "comment": "reword for simplicity and clarity?",
+          "teacher_category": "Clarification",
+          "context_left": "es. But we are not. ",
+          "context_right": " was the outcome of "
+        },
+        {
+          "type": "note",
+          "comment": "lovely. Nice concrete and specific details.",
+          "teacher_category": "Praise",
+          "context_left": "n if I, at the time, believed it was nonsense. Those positive affirmations in the end did not work.",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your paragraph provides a touching account of your efforts to help your grandmother cope with Alzheimer’s.\nTo deepen this section, consider reflecting on how these moments influenced your broader perspective on control and uncertainty.\nHow did caring for your grandmother shape your views on finding meaning and control in difficult situations?\nThis reflection will add richness and depth to your narrative.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Now that my grandmother has passed, I only say simple, positive phrases to myself. For my own reality.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Now that my grandmother has passed, I only say simple, positive phrases to myself. For my own reality.",
+          "comment": "I'm interested, but why only simple phrases? What do you mean? Develop, connect, and explain :)",
+          "teacher_category": "Clarification",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You mention saying simple, positive phrases to yourself for your own reality, but expanding on specific examples of these phrases and how they impact your mindset would strengthen your reflection. Consider sharing particular moments or situations where these phrases have helped you cope or shift your perspective.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "We must understand that some things are out of our control.",
+      "annotations": []
+    },
+    {
+      "body": "Both conspiracy theories and positive methodologies provide an understanding of things out of our control. All the negativity in the media, all the unexpected obstacles in our day to day, or even the rate of Alzheimer’s Disease. However, no amount of conspiracy theories or positive methodologies can fix the things that are out of our control.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "All the negativity in the media, all the unexpected obstacles in our day to day, or even the rate of Alzheimer’s Disease.",
+          "comment": "fragment",
+          "teacher_category": "Mistakes",
+          "context_left": "out of our control. ",
+          "context_right": " However, no amount "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your statement that \"no amount of conspiracy theories or positive methodologies can fix the things that are out of our control\" is insightful, but it could benefit from further clarification. Consider providing specific examples or elaborating on how these approaches help individuals cope despite not changing uncontrollable circumstances. This will strengthen the connection between your observations and the broader theme of finding meaning and control in uncertain times.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "At least you can choose how to get through this realization. I made the choice the day my grandmother passed that I would change my reality in a positive way. That I would genuinely believe in the practices. Although I recently started, I am nowhere near the outlook on life I am hoping to achieve. The same ultra vivid and positive outlook Caitlin had achieved. But I started with my day-to-day actions. So far that I have surrounded myself with more family and good friends. I also have gradually grown my collection of knickknacks that bring me joy due to their sentimental value. Such as the charms on my purse, the keychains on my backpack, the posters on my bedroom walls and the figurines on my shelf. Most of which were gifts from my loved ones and gifts to myself. Little reminders of things that bring me happiness. The shows I love, the authors I enjoy, the places I have traveled, etc. I also avoid listening to upsetting news most days, especially on my rough days. The choice I made has been hard, but the little things make the difference. As time goes on, I care less and less about what other people think. I focus on what I must do. I know this journey will be long but theoretically I believe the outcome will be better.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The same ultra vivid and positive outlook Caitlin had achieved.",
+          "comment": "Nice return to this moment from earlier in your essay. I wonder if the idea of brighter colors might work as a structural motif for your essay as a whole? Is there a way to develop this metaphor that might be a cool way to organize your essay's ideas? It's just a thought... :)",
+          "teacher_category": "Elaboration",
+          "context_left": " hoping to achieve. ",
+          "context_right": " But I started with "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "That I would genuinely believe in the practices.",
+          "comment": "",
+          "context_left": " in a positive way. ",
+          "context_right": " Although I recently"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Such as the charms on my purse, the keychains on my backpack, the posters on my bedroom walls and the figurines on my shelf.",
+          "comment": "",
+          "context_left": " sentimental value. ",
+          "context_right": " Most of which were "
+        },
+        {
+          "type": "note",
+          "comment": "Nice details, but watch out for those sentence fragments!",
+          "teacher_category": "Mistakes",
+          "context_left": "I must do. I know this journey will be long but theoretically I believe the outcome will be better.",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your reflection on changing your perspective and adopting positive practices is compelling. To deepen this section, consider providing more specific examples of how these small changes have impacted your mood or behavior. For instance, you might describe a particular moment when surrounding yourself with these items brought you comfort or joy. This will help readers fully grasp the significance of these choices in your life.",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

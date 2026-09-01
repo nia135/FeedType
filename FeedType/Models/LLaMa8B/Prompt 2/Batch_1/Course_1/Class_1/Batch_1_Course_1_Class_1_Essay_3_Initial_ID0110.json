@@ -1,0 +1,120 @@
+{
+  "paragraphs": [
+    {
+      "body": "Odd Object",
+      "annotations": []
+    },
+    {
+      "body": "It was a small four by six-inch frame right next to a big, comfortable, decorated bed. The picture in the frame holds an important and happy memory between me and my parents. Me in the middle, my dad on my right and my mom on my left with big smiles on our faces sucking up all the excitement in that moment. With my dad dressed up (somewhat at least) which happens very rarely, my mom looking beautiful in her blue cheetah top with her hair all done, then me in my little black dress and my hair all curled. Little does anyone know this picture holds an incredibly happy, cheerful, favorable moment, but it also holds an upsetting, sad, bittersweet moment. Our smiles cover it up pretty well, but we are happier than ever. This moment took place at my senior banquet for softball. Which means it was the end, and end of an era for me and my parents. That day was a very important day for us. It was our day; we looked forward to it every single year. This time it was different. We knew that day was going to be different this year. We knew it was going to be different ever since we woke up that day. But even now we know that we didn’t let it affect our moods. We put a big smile on our faces and believed it was a normal softball banquet like every other year. Yes, there were some tears at the end of the night when it all hit us, but now it’s one of my favorite memories.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "With my dad dressed up (somewhat at least) which happens very rarely, my mom looking beautiful in her blue cheetah top with her hair all done, then me in my little black dress and my hair all curled.",
+          "comment": "Nice details!",
+          "teacher_category": "Praise",
+          "context_left": "ent in that moment. ",
+          "context_right": " Little does anyone "
+        },
+        {
+          "type": "note",
+          "comment": "Great job starting with a descriptive paragraph :) I wonder, though, what idea, or revelation, these details add up to? What does this description reveal for your reader (in terms of your essay's overall purpose)? Could you extend the description?",
+          "teacher_category": "Elaboration",
+          "context_left": "the middle, my dad on my right and my mom on my left with big smiles on our faces sucking up",
+          "context_right": " all the excitement "
+        },
+        {
+          "type": "note",
+          "comment": "New paragraph here",
+          "teacher_category": "Mistakes",
+          "context_left": "are happier than eve",
+          "context_right": "r. This moment took "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your exploration of the large subject of love, consider incorporating more nuanced descriptions of the various types of love mentioned in your essay. While you provide a comprehensive overview of the term 'love' and its diverse interpretations, additional elaboration on the complexities of romantic love versus familial love, or platonic love, might enrich your analysis. By delving deeper into these distinctions, you'll create a richer tapestry of experiences and illustrate the multifaceted nature of love, allowing readers to better understand its profound impact on individuals and relationships.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Additionally, another one of my favorite memories is when my parents, my little sister and I went on a trip to South Carolina for me to play in a softball tournament. This trip wasn’t going to happen due to some personal issues, but my parents loved me so much that they figured out the issues and made it work for me. So, we got in our minivan and started driving to Columbia, South Carolina. This trip took about 9 hours or even a little longer. That is how I knew my parents loved me a lot because who really wants to sit in a car for 9+ hours, spend tons of money, sleep in a hotel bed just to watch their daughter play softball; they did. They powered through the grumpiness and the uncomfortable arrangements to make me happy. We finally got there around midafternoon which was good for parents so they could just relax for the rest of the day. I took my little sister to go get some food. We brought our food back to the hotel along with something for our parents. My parents were very much appreciative because they were exhausted from the drive. That car ride with my sister made us truly realize how thankful I am for them, especially because I know they didn’t have to take me on this trip. They wanted me to go and get to experience it so I can achieve my dreams. The next morning, we had to get up around 8am to head to the fields. It wasn’t horrible, but we did have to play 3 games that day. To get back to the hotel at 9pm to shower and go to bed. Many people would think of this as a vacation, but for my parents sadly, it wasn’t. They were running around like crazy, getting me food, drinks, candy, anything I possibly needed to keep my energy up. So, you would think this trip was horrible and not needed, but spending the whole time with my family and feeling loved made it feel 100% worth it.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I wonder if these important ideas (about sacrifice, commitment--your parents giving their time, energy, and money to you, etc.) might be more powerful in narrative? Let's talk :)",
+          "teacher_category": "Task Constraints",
+          "context_left": "day. I took my little sister to go get some food. We brought our food back to the hotel along with",
+          "context_right": " something for our p"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your exploration of the large subject of love, consider incorporating more nuanced descriptions of the experiences and emotions associated with the trips to South Carolina and the photo in the frame. While you provide vivid accounts of the events, additional sensory details such as sights, sounds, smells, tastes, and textures could help readers fully immerse themselves in your stories. By elaborating on these aspects, you may uncover new insights into why these moments are significant to you and deepen the impact of your message about the power of love.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "“Love hurts, love heals” that is the definition of love. Love does not necessarily have to mean happiness or having feelings for someone else. Love doesn’t solve all your problems or physically/ emotionally have to do with anyone else. Love does not always have to happen between two people. Love can come in many different ways. That could be happiness, anger, depression, and so much more. It can also come with a sport that you care very much about and enjoy playing. You can also love your pets, job, your best friend, you can love anything you want to. For example, not only do I love my parents, because of everything they have done for me, but because they did the things that they didn’t have to do for me, but they did it anyway. That is what shows in my picture frame next to my bed, it holds that photograph not only of us happy, but the love we hold for each other. No one or anything can break that love because it’s not only emotional but physical because we do actions to express it for each other. I love them, but they can also make me mad, upset, happy, but most importantly they make me feel loved.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Let's talk about the potential power of the definition paragraph to point your reader to your essay's central focusing idea. Is this paragraph doing that? Is it defining the \"right\" things?",
+          "teacher_category": "Task Constraints",
+          "context_left": "physically/ emotionally have to do with anyone else. Love does not always have to happen",
+          "context_right": " between two people."
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In order to fully explore the concept of love, consider delving deeper into the complexities of its various definitions and manifestations across cultures and historical periods. While you provide a range of examples and quotes, such as the evolution of love from a focus on duty and family connections to a emphasis on personal choice and emotional connection, further analysis of these shifts could help strengthen your argument and demonstrate a clearer understanding of the multifaceted nature of love. By examining the nuances of love within different contexts, you may uncover new insights that enrich your discussion and showcase your comprehension of this complex topic.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Love is a profoundly tender, passionate affection for another person, especially when based on sexual attraction. A feeling of warm personal attachment or deep affection. A person toward whom love is felt. It can mean multiple different things like, falling in love, being in love with something, love handles, love life, love beads, love affair, etc. Love has changed throughout the years. In the past, it often focused on duty and family connections, with arranged marriages being common. Today, love is more about personal choice and emotional connection, emphasizing romance and partnership. But love doesn’t always mean a love partner, it can also mean friendship. Some synonyms of love are affection, appreciation, deviation, emotion, fondness, friendship, infatuation, lust, passion, respect, amity, weakness, worship, and many more. Respect is one of the most interesting synonyms to me because I feel like in any type of relationship, you’re in there should be some sort of respect. I always stand by you “should treat others the way you want to be treated”. Some positive connotations of love are childishness, safety and comfort, receiving gifts, acts of service, words, or affirmation, employ, courage, quality time, easygoing, chatty. Some negative connotations include punishment, danger, suffering, loneliness, despair, suffering, abusive, conflict, violence, heartbreak, confinement, desolation, desperation, adversity, emotional turmoil, etc. An exceedingly popular quote of love is, “love is the greatest refreshment in life” by Pablo Picasso. I've heard this quote multiple times, and I totally agree with it. Love is what everyone needs. It doesn’t matter what type of love it is, but everyone should have it. I feel like love makes everyone happy especially when it’s the right love.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "An exceedingly popular quote of love is, “love is the greatest refreshment in life” by Pablo Picasso.",
+          "comment": ":)",
+          "teacher_category": "Praise",
+          "context_left": "ional turmoil, etc. ",
+          "context_right": " I've heard this quo"
+        },
+        {
+          "type": "note",
+          "comment": "I'm compelled and intrigued by all the various ways you're looking at \"love\" in this paragraph. I wonder, though, what idea does this paragraph \"point\" your reader to? How does it support your essay's central focusing idea?",
+          "teacher_category": "Task Constraints",
+          "context_left": "others the way you want to be treated”. Some positive connotations of love are childishness,",
+          "context_right": " safety and comfort,"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your exploration of love, consider incorporating more nuanced descriptions of the various types of love mentioned in your text. While you provide a comprehensive list of definitions and synonyms for love, the discussion feels somewhat superficial. Think about including vivid anecdotes or personal experiences that illustrate the complexities of romantic love, familial love, platonic love, self-love, or unrequited love. By doing so, you'll create a richer tapestry of emotions and relationships that readers can engage with on a deeper level.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Some discoveries I have noticed while researching love are that love has a lot of meanings and has changed a lot throughout the years. One thing that I read that really stops me is that love affects our brain and emotions. Scientists have found that love releases chemicals like dopamine, making us feel happy and connected. There was also research done that shows that love also can improve our health and wellbeing. Some claims I have found about love are that it can boost happiness and reduce stress, communication and trust are key for lasting love, love can change over time, adapting to different life stages. One question I have always wondered is, “what do you think is the most important quality in a loving relationship?” To answer that question, I feel like the most important quality is communication because I feel like if you have bad communication there’s always a handful of fights. Not even fights that make sense, there’s fights that happen over the smallest things you can get mad at. Another question I always ask is, “how does love change as people grow older?” This question makes me really think about my parents and how their love grew throughout the years they have known each other. There was a part of me that didn’t believe in love, but seeing my parents go through different stages of love has made me believe in it more these last couple of years.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "There was a part of me that didn’t believe in love, but seeing my parents go through different stages of love has made me believe in it more these last couple of years.",
+          "comment": "Well this is a compelling moment of friction. Let's talk!",
+          "teacher_category": "Elaboration",
+          "context_left": "e known each other. ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your exploration of the impact of love on individuals and relationships, consider incorporating more nuanced discussions of the scientific findings mentioned regarding love releasing chemicals such as dopamine. While you mention that scientists have discovered this phenomenon, elaborating on the specifics of how these chemical reactions influence human behavior and emotions might add greater depth to your argument. Additionally, discussing potential counterarguments or limitations of these studies could strengthen your analysis and demonstrate a more comprehensive understanding of the topic. By expanding upon these points, you'll create a richer and more engaging discussion that showcases your knowledge and critical thinking skills.",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

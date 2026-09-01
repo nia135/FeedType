@@ -1,0 +1,236 @@
+{
+  "paragraphs": [
+    {
+      "body": "Not Just a Form of Art",
+      "annotations": []
+    },
+    {
+      "body": "The memory of me getting my first tattoo will forever hold a special place in my heart. My mom, aunt, and I went up to Slippery Rock University to meet my older sister who attended there. We spent months planning out this day, to give each of us enough time to think about what tattoo we were going to get and the placement of them. When deciding on what I wanted my first tattoo to be, I wanted to get something that showed the biggest challenge I had to overcome in my life. I chose to get two small butterflies on the left side of my ribs that have a semicolon and the NEDA symbol as the body. My aunt picked out a tattoo that said mind over matter with an arrow representing the over on her forearm. She chose to get this tattoo to symbolize for all purposes in life: you can set your mind to with an arrow pointing away from her to say always look ahead, not behind. My mom got a fancy heart tattoo on her forearm because she simply just likes hearts. My sister got a small cross tattoo with a heart on her quad to express her faith and protection. Not only did getting this tattoo that meant a great deal to me hold a special place in my heart, but it was also the experience of getting my first tattoo with the people I love and care about. During the whole process of each of us getting our tattoos created a powerful bond between all of us. We were jamming out to whatever music the tattoo artist was playing, having the most random conversations, and laughing constantly at any jokes someone made. This experience created a safe space where vulnerability is welcomed and shared memories serve as a reminder of the bonds that hold us together.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "for all purposes",
+          "comment": "word choice?",
+          "teacher_category": "Mistakes",
+          "context_left": "tattoo to symbolize ",
+          "context_right": " in life: you can se"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "representing the over on her forearm.",
+          "comment": "",
+          "context_left": "atter with an arrow ",
+          "context_right": " She chose to get th"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " is ",
+          "comment": "",
+          "context_left": " where vulnerability",
+          "context_right": "welcomed and shared "
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "We were jamming out to whatever music the tattoo artist was playing, having the most random conversations, and laughing constantly at any jokes someone made.",
+          "comment": "nice :)",
+          "teacher_category": "Praise",
+          "context_left": " between all of us. ",
+          "context_right": " This experience cre"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " serve as",
+          "comment": "keep your verb tense consistent :)",
+          "teacher_category": "Mistakes",
+          "context_left": " and shared memories",
+          "context_right": " a reminder of the b"
+        },
+        {
+          "type": "note",
+          "comment": "I love that you included the pictures!!",
+          "teacher_category": "Praise",
+          "context_left": "my life. I chose to get two small butterflies on the left side of my ribs that have a semicolon and",
+          "context_right": " the NEDA symbol as "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "While this paragraph provides a warm, personal opening, your primary focus should be on **tightening the narrative focus** to ensure the reader understands the \"so what\" of your essay immediately. Currently, you spend a significant amount of time describing the tattoos of your family members (the heart, the cross, the \"mind over matter\" quote), which distracts from your central claim regarding your own journey of recovery and self-worth. To better align with your rubric’s goal of developing \"big ideas,\" I suggest trimming the details about your family’s tattoos and pivoting more quickly to the significance of your own ink; this will help you establish your \"center of gravity\" earlier and allow more space to connect your personal experience to the broader themes of the essay.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "Over the last three years I got more and more tattoos that represented something that hold great meaning and significance to my own personal life. Today I have a total of five tattoos, and I still have the desire to get more. After my first tattoo, my sister and I always talked about getting matching tattoos together. We wanted something to represent the difference between us, but also something that holds a special meaning. We spent months showing each other different matching tattoos on Pinterest, but we could never agree on one. It was not until I came across this one tattoo that said, “No matter where, no matter what,” that had a sun and moon at the end of one the two saying. To us, the sun and moon highlight our different personalities but the unbreakable bond that we share with each other. The two sayings symbolize the unwavering support, the unconditional love we have for each other, and that no matter what challenges faced, we will always be there for each other no matter where we are in the world. I got the saying, “no matter where,” with sun at the end, and my sister got the saying, “no matter what,” with the moon at the end. We decided to place these tattoos in the same spot on our upper thigh, so when we put them together it will read out the saying. My third tattoo was kind of spere of the moment type of thing. Originally, my aunt had planned a day for my brother, sister, mom and I to go to Kennywood for her work picnic. Sadly, the weather did not cooperate that day, and we were stuck deciding what to do for the day. Then, my sister had the great idea to go get tattoos because what else were we supposed to do on a rainy day. I had limited amount of time to decide on what was going to be my next tattoo, but I chose another saying that I tell myself multiple times a day. I picked the saying, “I am enough,” and placed it on my collarbone, so it can be noticeable when I am wearing low cut shirts. My fourth tattoo was one that I had to think long and hard on because I did not know if I wanted people to see it and know my story. But after a long time debating on it, I decided I wanted to get it. I chose the tattoo that had the NEDA symbol in it again, but the symbol was formed into an “S” and then wrote out survivor on my forearm. My fifth tattoo I got in remembrance of my grandfather who died of suicide two years prior. I wanted to get this tattoo because his death had a great big impact on not only me but my father, grandma, brother, and sister. I chose an angel wing with his birthday in Roman numerals that filled the whole side of my left thigh.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "hold",
+          "comment": "",
+          "context_left": "nted something that ",
+          "context_right": " great meaning and s"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "spere",
+          "comment": "",
+          "context_left": " tattoo was kind of ",
+          "context_right": " of the moment type "
+        },
+        {
+          "type": "note",
+          "comment": "Great concrete and specific details in this paragraph!",
+          "teacher_category": "Praise",
+          "context_left": "unconditional love we have for each other, and that no matter what challenges faced, we will",
+          "context_right": " always be there for"
+        },
+        {
+          "type": "note",
+          "comment": "Again--great details; engaging authentic voice; and the images are an excellent addition. Well done!",
+          "teacher_category": "Praise",
+          "context_left": "t after a long time ",
+          "context_right": "debating on it, I decided I wanted to get it. I chose the tattoo that had the"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "This paragraph currently functions as a list of your tattoos, which leans heavily into summary rather than analysis. To align with the \"Goes beyond summary\" rubric criterion, try to pivot away from the narrative of *how* and *when* you got these tattoos and instead focus on the \"big ideas\" they represent. For example, rather than detailing the weather at Kennywood or the Pinterest search process, could you group these tattoos by the themes they explore—such as resilience, familial connection, or grief—and explain how these specific choices collectively reinforce your central claim about reclaiming your voice?",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "My dad, grandparents, brother, friends, and outsiders do not understand the concept of getting something permanently inked onto your body for the rest of your life. They think tattoos are just silly pieces of art that represent no significant meaning at all. In some cases, they are correct. Sometimes people just get tattoos because they look “cool”, or they are “fashionable.” Other times people get tattoos to showcase their personalities, the hardships they overcome, motivation, or in memory of a loved one. I can recall at times when I would go visit my grandma and grandfather, or when my dad noticed a new tattoo my sister and I got. They would always make comments to us on why we waste our money on these things. They think we can use that money on more important things than a simple permanent piece of ink. Outsiders believe that tattoos are a form a rebellion, unprofessional or inappropriate, a fashion statement rather than meaningful expressions, or views them as negativity wrong. But for me, these tattoos hold great meaning to who I am as a person. To me, they are not just fragments of art or random sayings. Each one of my tattoos has a significant meaning to them. I always must think long and hard before I commit to getting something permanently tattooed onto my body.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "think we can ",
+          "comment": "verb tense :)",
+          "teacher_category": "Mistakes",
+          "context_left": " these things. They ",
+          "context_right": "use that money on mo"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "My dad, grandparents, brother, friends, and outsiders do not understand the concept of getting something permanently inked onto your body for the rest of your life.",
+          "comment": "Nice job introducing the friction!",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": " They think tattoos "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "views them as negativity wrong.",
+          "comment": "word choice?",
+          "teacher_category": "Mistakes",
+          "context_left": "ful expressions, or ",
+          "context_right": " But for me, these t"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is **developing your central claim by contrasting your perspective with that of others.** While you effectively establish the tension between your view and your family's, you could strengthen this by moving beyond the summary of their objections. Instead of listing their criticisms, try to analyze *why* their misunderstanding exists—perhaps connect it to the broader societal norms you mentioned earlier—to further elevate this from a simple recount of a conversation into an exploration of your \"big idea\" regarding vulnerability and self-expression.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "To speak in tattoos is not just a form of art, It gives us the ability to freely voice concerns without being dismissed, It symbolizes my reclaiming of my voice, It helps me remember that my needs and opinions have equal value, It holds meaning or significance, Whether it is small, discreet tattoos or a full sleeve, Tattoos can be a beautiful and meaningful addition. Out of the five tattoos that I have, three of them symbolize the one challenge I had to overcome in my life: anorexia nervosa. At the start of my eating disorder, no one noticed the changes in my eating habits or the constant changes in my behavior. Everyone around me just thought I was eating “healthier” and trying to get into better “shape” for my upcoming soccer season. But these changes overtook my life. At first, I would only eat one meal a day that consisted of only a protein bar while spending hours working out. Then as months went on and I saw I was losing weight, I switched to eating the same three meals every day, never going outside my comfort zone, and still spending hours working out in order to get to my ideal body. As my eating disorder progressed, I would never wanted to leave my house to go out with friends or family in fear that I would have to be faced with my “fear foods.” No one realizes the cost of having an eating disorder can have on your body. After months of fainting spells, serve chest pain, tiredness, and the inability to sleep at night, eventually it brought light to my parents’ eyes to finally realized it was not a minor change but a major problem. From then on forward, I was in and out of doctor’s offices and hospitals hoping to get some with these health issues and my eating disorder. But none of those doctors thought my eating disorder was life-threatening. Since they could not physically see anything wrong at the time, all they recommended was for me to increase my consumption of food. Another sixteen months still suffering from this awful disease, I had my fifteenth birthday well visit. It was this day that changed my life for the better. My pediatrician, Anne Marie, did the usual check-up routine, taking my vitals, weight, and looking for abnormal markings. After she was done, she pulled my mom out of the room to talk to her. Once they came back in, I saw that my mom was crying. Anne Marie starts to discuss the results of my appointment by stating that my weight was drastically low, and my heart rate was below normal. She says if I continue down this path and do not make any changes in my behaviors, then I will not make it to my sixteenth birthday or even to the end of the month. From this point on, my mom and Anne Marie worked together to find an ed treatment center in Philadelphia, so I can save my own life. I spent a little over a month at the treatment center where I was able to get to the point of expanding my food bubble, maintaining a healthy weight, and increasing the numbers of my vitals. After months of being in recovery, I soon relapsed back into bad habits and started struggling again. It took multiple relapses in my ed recovery, to make me realize I did not want to suffer anymore from this disease. It took a lot of hard work and determination to be able to get to the point where I was able to handle stressful situations and not let my eating disorder take over my life anymore. Tattoos are the spoken language I speak with not only my sister, mother, and aunt, but also to young girls and women who are battling an eating disorder. My reasonings behind getting these three tattoos is to help encourage other girls or women who are suffering through the same gosh awful disease. I choose to have the NEDA symbol in two of my tattoos to represent a reminder of hope, strength, recovery, and the awareness for those who are affected by an eating disorder. I also pick to have “survivor” permanently inked on my forearm, so these girls and women can see that it is possible to recover and survive from this disease. I purposely decided on having the saying, “I am enough,” tattooed on my collarbone, so anytime I wear low cut shirts people can see it. This saying signifies the self-worth and understanding that you are worthy of love, respect, and all the good things that life has to offer, just as you are. Tattoos are a language that is not just a form of art but holds great significance to that specific person and holds a deep message.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "I would never wanted to leave my house to go out with friends or family in fear that I would have to be faced with my “fear foods.”",
+          "comment": "wow. great detail.",
+          "teacher_category": "Praise",
+          "context_left": "isorder progressed, ",
+          "context_right": " No one realizes the"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "will not make it",
+          "comment": "",
+          "context_left": "y behaviors, then I ",
+          "context_right": " to my sixteenth bir"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "can ",
+          "comment": "",
+          "context_left": " Philadelphia, so I ",
+          "context_right": "save my own life. I "
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "serve",
+          "comment": "",
+          "context_left": "of fainting spells, ",
+          "context_right": " chest pain, tiredne"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "starts to discuss",
+          "comment": "",
+          "context_left": " crying. Anne Marie ",
+          "context_right": " the results of my a"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " says if I continue ",
+          "comment": "",
+          "context_left": "as below normal. She",
+          "context_right": "down this path and d"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Tattoos are the spoken language I speak with not only my sister, mother, and aunt, but also to young girls and women who are battling an eating disorder.",
+          "comment": "",
+          "context_left": "er my life anymore. ",
+          "context_right": " My reasonings behin"
+        },
+        {
+          "type": "note",
+          "comment": "Great job creating a poem that speaks directly to the ideas at the heart of your essay! I'd love to see more concrete and specific details, though--the kind only you could write :)",
+          "teacher_category": "Praise",
+          "context_left": "It symbolizes my reclaiming of my voice,",
+          "context_right": " It helps me remembe"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your reflection on how tattoos serve as a \"spoken language\" to reclaim your voice is incredibly powerful and central to your essay's claim. To strengthen this paragraph, I recommend focusing on **sentence structure and flow** in the opening section. The first seven lines are currently a list of independent clauses separated by commas, which creates a \"run-on\" effect that distracts from your insightful point. Consider using periods or semicolons to break these into distinct, impactful sentences; this will allow your ideas about voice, value, and significance to land with the weight they deserve.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "To live in recovery means knowing I can live life without worrying about calories I can eat food that I actually enjoy with friends and family No longer experiencing fainting, chest pains, or tiredness Finding new hobbies to enjoy in my life Feeling free from the negative voice in my mind.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Nice job speaking to your own lived experience :)",
+          "teacher_category": "Praise",
+          "context_left": "I can live life without worrying about calories",
+          "context_right": " I can eat food that"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your final paragraph is a powerful conclusion that effectively summarizes your journey toward recovery, but it currently lacks the grammatical structure needed to convey that weight. Because these ideas are presented as a list of fragments, the rhythm of your reflection is interrupted; try weaving these points into a cohesive, flowing sentence or two to emphasize the transformation you have undergone. For example, consider starting with \"To live in recovery means...\" and using commas to connect your points into a fluid statement, which will help your reader fully grasp the significance of your personal growth.",
+          "model_category": "Mistakes"
+        }
+      ]
+    }
+  ]
+}

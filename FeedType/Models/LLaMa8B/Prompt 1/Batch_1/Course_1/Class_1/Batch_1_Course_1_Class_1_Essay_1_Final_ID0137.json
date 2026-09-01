@@ -1,0 +1,137 @@
+{
+  "paragraphs": [
+    {
+      "body": "Dogs and Emotions",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "so cute!!",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To strengthen your essay, consider revisiting Part 2 of the rubric, specifically the RESPONSE section, where you identify your essay's center of gravity - your central focusing idea. Currently, your essay jumps between discussing your personal anecdotes and relating them back to the provided resource, making it challenging to pinpoint a single, overarching claim or central focusing idea. To improve clarity, try distilling down your thoughts and identifying a primary assertion that ties your entire essay together, ensuring that your responses build upon and support this core idea throughout the essay.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "In the article \"Dogs and our Emotions,\" Aaron Llera insists that dogs understand human emotions through visual cues. Llera is a practicing veterinarian who started writing about what pets might be going through. He wanted pet owners to understand their companions better. He asserts his point by developing several essential ideas. First, Llera observes that dogs can respond to human emotions without fully understanding them. According to Llera, \"Dogs, like toddlers, are susceptible to emotional contagion. This means dogs can respond to the emotions of humans without fully understanding what the person is feeling.\" Next, he believes dogs' ability to understand human emotions stems from the century-long relationship between humans and canines. Dogs were domesticated thousands of years ago, leaving vast amounts of time to pick up on human tendencies to learn from us. Finally, Llera claims noise helps dogs pick up on human emotions.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Nice summary templates :)",
+          "teacher_category": "Praise",
+          "context_left": "understand human emotions stems from the century-long relationship between humans and",
+          "context_right": " canines. Dogs were "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To strengthen your writing, consider varying your sentence structure within Part 1 of the essay, particularly in the initial paragraph introducing the target text. Currently, the majority of the sentences are simple statements providing background information on Aaron Llera and his article. To improve engagement and clarity, try incorporating more complex sentence structures, such as compound or compound-complex sentences, to convey nuanced ideas and transitions between thoughts. For example, instead of stating \"He wants pet owners to understand their companions better,\" you could rephrase it as \"By sharing insights gained from his veterinary practice, Llera aims to empower pet owners with a deeper comprehension of their canine companions' needs and behaviors.\"",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "My dogs mean everything to me. Melody was the first dog I ever knew, coming home to her when I was born. I grew up with her and went through many significant moments in my life together. When I was seven, my parents told my sister and I we were moving. I was leaving my friends and family to go to a state I had never been to. I went to a room where I could be alone. I did not want to see anyone knowing I was going to be leaving them shortly, but Melody knew something was wrong and followed me. I had never felt more anxious in my life until that point; what if the people were different in this new state? What if they made fun of the toys I played with? Would I ever see my friends and family again? While all these questions went through my mind, Melody could understand and be there for me when I did not want anyone else to be.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "nice transition to the personal :)",
+          "teacher_category": "Praise",
+          "context_left": "My dogs mean everything to me. Melody was the first dog I ever knew, coming home to",
+          "context_right": " her when I was born"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To strengthen your writing, consider varying your sentence structure within paragraphs to maintain a consistent flow of ideas. For example, in the target paragraph, you start with a simple declarative statement (\"My dogs mean everything to me\") followed by a series of complex sentences describing your childhood memories with Melody. To improve cohesion, try mixing shorter and longer sentences throughout the paragraph to keep the reader engaged.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "As Melody got older and eventually passed away, my family got two more dogs, Daisy and Chloe. I spent far more time with them, helping train, feed, and play with them. They were there for me through the four nerve-racking years of high school. With all the stress that high school brought on, they started learning when I wasn't feeling myself. Countless nights before finals, SATs, or tests, I would be endlessly studying. I would worry I would not know anything, thinking I would fail or not do well. Eventually, I noticed my dogs would follow me when I felt like this. The weeks leading up to college were stressful with packing, picking classes, and everything in between. Every so often, I would hear the quiet footsteps of one of my dogs outside my room, looking to enter. Their support is a source of relief and security in my stressful times.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Every so often, I would hear the quiet footsteps of one of my dogs outside my room, looking to enter. Their support is a source of relief and security in my stressful times.",
+          "comment": ":)",
+          "teacher_category": "Praise",
+          "context_left": "rything in between. ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To strengthen your writing, consider varying your sentence structure within paragraphs to maintain a consistent flow of thought. For example, in the third paragraph, three consecutive complex sentences (\"I would worry I would not know anything, thinking I would fail or not do well\", \"Eventually, I noticed my dogs would follow me when I felt like this\", \"Every so often, I would hear the quiet footsteps of one of my dogs outside my room\") may feel overwhelming and disrupt the narrative pace. Consider breaking these down into simpler sentences or combining similar ideas to improve clarity and coherence.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "After reading Llera's article about how dogs understand human emotions, I could not help but think how my dogs distinguish my emotions. Llera states, \"It’s not bad to show your emotions in front of your dog. The more emotions we share with our dogs, the closer our relationship becomes.\" Llera suggests that by allowing dogs to witness and respond to a range of human emotions, we create a deeper bond with them. Dogs are keen observers of body language, tone of voice, and facial expressions, which helps them interpret and react to our emotional states. This mutual understanding fosters trust and connection, allowing dogs to better support their human companions.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Does the white one smile like this all the time? :)",
+          "teacher_category": "Clarification",
+          "context_left": "their human companions.",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To strengthen your writing, consider varying your sentence structure within the target paragraph. Currently, three consecutive sentences start with the subject (\"Lera states\", \"Dogs are keen observers\", \"This mutual understanding\") creating a repetitive pattern. Experiment with starting some sentences with subordinating conjunctions or transitional phrases to add variety and enhance flow. For example, instead of starting with \"Dogs are keen observers,\" try rephrasing it as \"Moreover, dogs are keen observers...\" or \"Additionally, canine sensitivity allows them to observe...\".",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "For as long as I can remember, I have struggled with anxiety, and my dogs have always been there to support me. Thousands of nights before tests, big games, and large social events, my dog sat by me when I needed it. Not only do they come to comfort me when I am anxious, but they share their excitement and sadness. They jump on me when excited, cry to be pet when sad, and cuddle next to me when nervous. My dogs have supported me a lot on my journey into college. I have had plenty of anxiety around meeting new people, living far away from home, and the stress of classes. My dogs comforted me every step of the way until I moved in. Now that I am in college without my dog's support, who will be there to understand me? Moving into college, I did not know anyone, but that quickly changed. There were many freshman events, dorm neighbors, and people in classes with whom I quickly became friends. These friends soon became the ones in my life who were supporting me. Being with my friends all day, they know when I am stressed because I have an upcoming exam. When I am annoyed because the dining hall food is not good. When I am excited because I got a package. My friends do not just understand my emotions but know what to do in these situations. They are the ones who are supporting me now that my dogs are not around.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "For as long as I can remember, I have struggled with anxiety, and my dogs have always been there to support me. Thousands of nights before tests, big games, and large social events, my dog sat by me when I needed it. Not only do they come to comfort me when I am anxious, but they share their excitement and sadness. They jump on me when excited, cry to be pet when sad, and cuddle next to me when nervous. My dogs have supported me a lot on my journey into college. I have had plenty of anxiety around meeting new people, living far away from home, and the stress of classes. My dogs comforted me every step of the way until I moved in. Now that I am in college without my dog's support, who will be there to understand me?",
+          "comment": "excellent paragraph",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": " Moving into college"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You tend to rely heavily on transitional phrases such as \"Not only...but also\" and \"Moving into college...\" to link your ideas, whereas varying your transition strategies can enhance the flow and cohesion of your writing. Consider experimenting with alternative linking devices, such as cause-and-effect relationships, comparisons, or contrasts, to add depth and nuance to your narrative.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "My dogs have not only shown me how I need to be supported by friends but how to support them. As my friends have picked up on my emotions, I have learned to read theirs just like my dogs did with me. They have shown me how little or much space to give in situations. If friends want you to be there but not say anything, or what to say. My dogs have made me comfortable being there for others when I did not think I could be, inspiring me to learn and grow in my relationships.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "My dogs have not only shown me how I need to be supported by friends but how to support them. As my friends have picked up on my emotions, I have learned to read theirs just like my dogs did with ",
+          "comment": "Great connection! Nice move.",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": "me. They have shown "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To strengthen your writing, consider varying your sentence structure within the target paragraph. Currently, all three sentences start with \"my\", creating a repetitive pattern that makes the paragraph feel somewhat flat. Experiment with starting some sentences with different elements, such as transitional phrases or independent clauses, to add variety and enhance the flow of your ideas.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "The connections I have made with friends at college have been short. This brings me to how I can pick up on my friends' emotions. There are many things I do not know about them, including their family or friends from home. I do not know how they grew up and what their friends and family did to be there for them. How can I understand their emotions when I hardly know them? This is the same question I ask with my dogs, picking up on my feelings. The connection I have with my friends at college is strong, just like the connection I have with my dogs. My dogs have shown me that being there for someone does not matter how long you have known someone, how they smell, or what their past is like. Showing up and supporting the people around you when they need it most is the most important thing, even if you are not entirely positive about what that is.",
+      "annotations": []
+    },
+    {
+      "body": "Works Citied “Dogs and Our Emotions | VCA Animal Hospitals.” Vca, https://vcahospitals.com/know-your- pet/dogs-and-our-emotions.",
+      "annotations": []
+    }
+  ]
+}

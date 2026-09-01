@@ -1,0 +1,101 @@
+{
+  "paragraphs": [
+    {
+      "body": "How AI can help and hurt education",
+      "annotations": []
+    },
+    {
+      "body": "Introduction Artificial intelligence (AI) is changing many aspects of our lives, including the way we learn and teach. In recent years, AI tools such as smart tutoring systems, automatic grading software, and personalized learning platforms have become more common in schools and universities. These tools can help students learn better and make teachers' jobs easier. However, there are concerns. Some worry that AI could replace teachers or that it could treat students unfairly. Others say AI tools are expensive or might collect too much personal data.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Introduction",
+          "comment": "Please format the headings according to APA",
+          "context_left": "",
+          "context_right": " Artificial intellig",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Task Constraints: Your current draft is an argumentative essay about AI in education, but the rubric requires you to write a cross-cultural narrative outline about a specific place in Pittsburgh that connects to your home country. Please rewrite your submission to follow the required narrative structure, including the title, main point, exposition, conflict, rising action, climax, and resolution sections as specified in the rubric.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Many studies have looked at how AI can support learning. For example, Holmes et al. (2019) show that AI can provide personalized feedback to students to help them learn at their own pace. But Selwyn (2019) points out that not all students and schools have access to the same tools. My research question is: How can we use AI in education to help all students while avoiding issues such as bias, privacy risks, and inequality?",
+      "annotations": []
+    },
+    {
+      "body": "I believe schools should use AI to support teachers, not replace them. We need clear rules to ensure AI is fair, safe, and useful for all students. I will explain the benefits and problems of using AI in education and offer a solution to make its use more fair and effective.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "believe",
+          "comment": "Certain paragraphs are bit short. You may consider expanding these paragraphs to enrich their content.",
+          "context_left": "I ",
+          "context_right": " schools should use ",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Task Constraints: This paragraph does not meet the requirements of the rubric, which asks for a cross-cultural narrative outline regarding a specific location in Pittsburgh rather than an argumentative essay about AI in education. Please revise your draft to focus on the required narrative structure, including the exposition, conflict, rising action, climax, and resolution concerning your experience with a Pittsburgh landmark.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "The Benefits of Using AI in Education Benefits of using AI One of the biggest benefits of AI in education is personalized learning. AI can track students’ progress and provide learning materials that match their level and style. For example, platforms such as Carnegie Learning or Squirrel AI use machine learning to recommend courses and quizzes based on student performance. According to Luckin et al. (2016), such systems can help students who struggle in regular classes because it gives them more opportunities to practice and learn at their own pace.",
+      "annotations": []
+    },
+    {
+      "body": "AI can also save teachers time by marking homework or providing feedback. Instead of spending hours checking assignments, teachers can use AI tools to do some of the work. This allows teachers to focus more on helping students one-on-one. In addition, AI can help students with disabilities by providing speech-to-text tools, reading support, or other assistive tools (Holmes et al., 2019).",
+      "annotations": []
+    },
+    {
+      "body": "The Problems with AI in Education Despite its many benefits, AI also has its problems. One major issue is bias. If the data used to train the AI is biased, the tool may treat students unfairly. For example, if an AI grading system is trained using data from primarily one group of students, it may not grade students from other backgrounds fairly. According to Binns et al. (2018), biased algorithms in education can harm minority or low-income students.",
+      "annotations": []
+    },
+    {
+      "body": "Another issue is privacy. Many AI systems collect personal data about students, such as test scores, study habits, and even moods. Without strict rules, this data could be used in the wrong way. Williamson and Eynon (2020) warn that AI companies may collect more information than they need, and schools may not always understand how the data is used.",
+      "annotations": []
+    },
+    {
+      "body": "Finally, there is the issue of access. Not all schools have the funding or internet to use AI tools. This means that some students may receive more help than others simply because they go to a better-funded school. Selwyn (2019) argues that this makes educational disparities even greater. My Solution: Fair and Helpful Use of AI in Schools I suggest three steps. First, AI should be used to support teachers, not replace them. AI can be a helpful assistant, but students still need human connection, especially when they are having a hard time. Second, we need clear rules and standards for the use of AI in education. Governments and schools should check AI tools to make sure they are fair, safe and transparent. For example, every AI system should be tested to see if it treats all students equally, and students and parents should know what data is being collected.",
+      "annotations": []
+    },
+    {
+      "body": "Third, we need to ensure that all schools have access to useful AI tools. This may mean providing more funding to schools in disadvantaged areas or providing free versions of certain tools. Education should be equitable, which means giving everyone an equal chance to succeed.",
+      "annotations": []
+    },
+    {
+      "body": "Conclusion (optional but added here for clarity)",
+      "annotations": []
+    },
+    {
+      "body": "AI has the power to change education for the better. It can help students learn more effectively and save teachers time. But if we’re not careful, it can also lead to new problems, such as bias, privacy issues, and inequality. By using AI to assist rather than replace teachers, and by having strong rules and equal opportunities, we can ensure AI supports a better future for all students.",
+      "annotations": []
+    },
+    {
+      "body": "References Binns, R., Veale, M., Van Kleek, M., & Shadbolt, N. (2018). 'It's reducing a human being to a percentage': Perceptions of justice in algorithmic decisions. CHI Conference on Human Factors in Computing Systems, 1-14. https://doi.org/10.1145/3173574.3173951 Holmes, W., Bialik, M., & Fadel, C. (2019). Artificial Intelligence in Education: Promises and Implications for Teaching and Learning. Center for Curriculum Redesign. Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). Intelligence unleashed: An argument for AI in education. Pearson Education. Selwyn, N. (2019). Should robots replace teachers? AI and the future of education. Polity Press. Williamson, B., & Eynon, R. (2020). Historical threads, missing links, and future directions in AI in education. Learning, Media and Technology, 45(3), 223–235. https://doi.org/10.1080/17439884.2020.1798995",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Binns,",
+          "comment": "Please add a hanging indent of 0.5''",
+          "context_left": "References ",
+          "context_right": " R., Veale, M., Van ",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Task Constraints: Your current draft is an expository essay about AI in education, but your assignment requires a cross-cultural narrative outline about a specific place in Pittsburgh. Please revise your draft to follow the required outline format, which includes sections for exposition, conflict, rising action, climax, and resolution, while also incorporating DALL-E images and reflections on your home culture.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    }
+  ]
+}

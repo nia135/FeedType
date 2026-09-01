@@ -1,0 +1,377 @@
+{
+  "paragraphs": [
+    {
+      "body": "Steel Forest: Built For No One",
+      "annotations": []
+    },
+    {
+      "body": "I’ve dreamed about Pittsburgh couple of times before I came here. Apparently, pictures on the internet, whether it’s from the publicity websites or from upper-class students, made a deep mark in my mind—the second biggest city in Pennsylvania, the city of steel, of course, the Pittsburgh Steelers team that prevails in audiences of American football.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "in ",
+          "comment": "the audiences",
+          "context_left": " team that prevails ",
+          "context_right": "audiences of America",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "mind—the",
+          "comment": "representing the second biggest city...",
+          "context_left": "e a deep mark in my ",
+          "context_right": " second biggest city",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "it’s",
+          "comment": "they were",
+          "context_left": "e internet, whether ",
+          "context_right": " from the publicity ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "I’ve",
+          "comment": "You may consider enriching the introduction with quotes, anecdotes, and/or questions.",
+          "context_left": "",
+          "context_right": " dreamed about Pitts",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "made",
+          "comment": "left",
+          "context_left": "per-class students, ",
+          "context_right": " a deep mark in my m",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The details in this paragraph feel somewhat disjointed and lack a clear focus. Instead of listing general facts about Pittsburgh, try to create a more vivid and specific picture of *your personal* expectations of the city, based on what you saw in the images. What specific details in those images led you to believe Pittsburgh would be a certain way?",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph feels a bit list-like. Instead of simply listing influences, try to weave them together to create a more vivid and cohesive sense of your initial expectations of Pittsburgh. How did these specific sources (internet pictures, Steelers team, etc.) contribute to the overall impression you had?",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The target paragraph serves as the introduction and exposition, but it lacks a clear, concise statement of your initial expectations of Pittsburgh. While you mention the internet pictures and your impression of similar Asian metropolises, try to explicitly state what you *expected* Pittsburgh to be like in terms of specific features and atmosphere to better set up the contrast you'll explore later.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph feels a bit cluttered with too many details in the first few sentences. Consider streamlining the description of your initial impressions by focusing on the most relevant elements (steel and the Steelers) and eliminating the less crucial detail of Pittsburgh's ranking as Pennsylvania's second-largest city.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph feels a little unfocused right now. While it introduces your initial impressions of Pittsburgh, it jumps between different aspects (city size, Steelers, general urban expectations) without a clear central idea. To strengthen this paragraph, focus on developing ONE key aspect of your preconception of Pittsburgh and providing specific details related to that aspect. This will make your introduction more impactful and easier for the reader to follow.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "Back then, my impression on such cities was somehow single: skyscrapers which stood in the center of the city, in Pittsburgh that is downtown, and prosperous civil business, like shopping malls or grand public facilities—just like what I’ve observed in metropolitans around Asia. Meanwhile, I was expecting to rent an apartment in the downtown, since it seemed engaging to me, for integrating to the city’s culture atmosphere. Pittsburgh, imaged like a generous mother in my dreams, was going to embrace me by her warm arms.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "the downtown area",
+          "context_left": "gh that is downtown,",
+          "context_right": " and prosperous civi",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "I’ve observed in",
+          "comment": "observed - Please use the past tense more consistently throughout the paragraph.",
+          "context_left": "ties—just like what ",
+          "context_right": " metropolitans aroun",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " to me, for integrating",
+          "comment": "for me to integrate into the city's cultural atmosphere",
+          "context_left": "e it seemed engaging",
+          "context_right": " to the city’s cultu",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "single:",
+          "comment": "singular",
+          "context_left": " cities was somehow ",
+          "context_right": " skyscrapers which s",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph relies heavily on general impressions and lacks specific details to support your initial expectations of Pittsburgh. To strengthen your writing, try to incorporate sensory details (sights, sounds, smells) that contributed to your pre-conceived image of the city, and consider showing instead of telling (e.g., instead of saying \"prosperous civil business,\" describe a specific store or facility you imagined).",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The language in this paragraph is a bit vague and relies on clichés (\"generous mother,\" \"warm arms\"). To strengthen your writing, try to use more specific and evocative language to paint a clearer picture of your initial expectations of Pittsburgh. For example, instead of saying Pittsburgh was going to embrace you with \"warm arms,\" describe the specific feelings or experiences you anticipated, and connect those feelings to concrete details about the city that led you to believe that.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph introduces your initial impressions and expectations, but the writing is a bit wordy and could be more concise. Try to streamline your sentences to clearly convey your preconceptions of Pittsburgh before visiting. For example, instead of \"Pittsburgh, imaged like a generous mother in my dreams, was going to embrace me by her warm arms,\" you could say something like, \"I envisioned Pittsburgh as a welcoming place that would embrace me.\"",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph feels a bit disjointed. The first sentence sets up your initial impression, which is good, but then you immediately shift to your expectation of renting an apartment downtown. Try to stay focused on developing your initial impression of the city as a \"Steel Forest\" in this paragraph. You can introduce the apartment idea later when you discuss the conflict between your expectations and reality.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "Well, sometimes things are a far cry from what we anticipated. I still remember that was about the third or fourth day I arrived in the city. After a bus ride of roughly half an hour, the bus stopped under the PNC Bank building that almost goes through the sky. We suddenly fell to our anticipated mother Pittsburgh without realizing so. We took a little walk, the sense of contrast almost eaten me: the city seemed merely possess uncountable tall buildings, but there was nothing that engages normal people like us. To me, this is the actualization of the concept “Steel Forest”. Everything is built for business—what I mean by this is for those large-scale business that looks irrelevant to people’s daily life. Not to mention the idea of renting apartment, there’s barely any residential area there. That is, people there were separated, in other words, alienated, from those buildings; only few interactions with the city itself, and consequently, I may regard people there and buildings, or the business order, as two entities. This was exactly the point I was surprised about. This scene was never witnessed by me within the very limiting 18 years of my life. In my city, Fuzhou, the most flourish region would be Dongjiekou (东街口), it shares basically the same function with downtown of Pittsburgh, but diverges from it in mainly two respects: first, as what I mentioned above, although Dongjiekou has numerous commercial skyscrapers, but it’s centered by 东方百货 (Eastern Mall), which gathers people from everywhere of this city, and indeed, this mall isn’t as tall as other buildings, maybe this is the reason why it expresses certain intimate to people. Second, the residential area and business area are intersected—which implies that we live right in the place where the large-scale, maybe even international, trades are taking place. Additionally, I can feel genuine humanity and life (烟火气) there.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "that was about the third or fourth day",
+          "comment": "the third or fourth day after I arrived",
+          "context_left": "d. I still remember ",
+          "context_right": " I arrived in the ci",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": "Forest”. Everything ",
+          "context_right": "built for business—w",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " eaten ",
+          "comment": "consuming",
+          "context_left": "e of contrast almost",
+          "context_right": "me: the city seemed ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "",
+          "context_left": "eemed merely possess",
+          "context_right": " uncountable tall bu"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "are a",
+          "comment": "were",
+          "context_left": "l, sometimes things ",
+          "context_right": " far cry from what w",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "I would start a new sentence here.",
+          "context_left": "Well,",
+          "context_right": " sometimes things ar",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": ":",
+          "context_left": "f renting apartment,",
+          "context_right": "there’s barely any r",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph contains vivid descriptions and a clear narrative voice, but it could benefit from a more focused structure. The initial anecdote about arriving in Pittsburgh is engaging, but the paragraph then shifts abruptly to a comparison with Fuzhou. To improve clarity and coherence, try breaking this long paragraph into two. The first should focus solely on your initial impressions of Pittsburgh, developing the \"Steel Forest\" metaphor more fully. The second could then introduce Fuzhou as a contrasting point, setting up the subsequent comparison.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph contains some vivid descriptions, but it would be more impactful if you focused on showing rather than telling. For instance, instead of simply stating \"the sense of contrast almost eaten me,\" try to elaborate on *how* you experienced that contrast through specific sensory details (sights, sounds, smells). This will help the reader feel the disconnect you experienced more deeply.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph feels a bit disjointed in its flow. Try to create smoother transitions between your initial expectations of Pittsburgh, your actual experience upon arrival, and your comparison to Fuzhou. For example, you could elaborate more on the specific details that led to your disappointment in Pittsburgh before immediately launching into the Fuzhou comparison. This will help the reader better understand the contrast you're trying to highlight.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph contains vivid imagery and recounts your initial experience effectively. However, it jumps abruptly from describing your arrival in Pittsburgh to introducing Fuzhou. To improve the flow and clarity, consider adding a transitional sentence or two that explicitly states the connection you're about to make between your experience in Pittsburgh and the similar place in Fuzhou. This will help the reader understand the purpose of the comparison and prevent the paragraph from feeling disjointed.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph contains vivid details and a clear contrast between your expectations and reality. However, it could benefit from a stronger, more concise thesis statement early on. Consider revising the first few sentences to clearly articulate the central conflict or surprise you experienced upon arriving in Pittsburgh, setting the stage for the rest of the paragraph.",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph jumps abruptly from your arrival in Pittsburgh to a comparison with Fuzhou. While the comparison is insightful, the paragraph needs stronger transitions and more specific sensory details about your initial experience in Pittsburgh to truly immerse the reader in your perspective and set up the contrast effectively. Focus on elaborating on your initial impressions and feelings upon seeing the \"Steel Forest\" before introducing Fuzhou.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "What is the reason behind this tremendous contrast? The answer appeared in my mind almost immediately: the strategy of urban planning in two countries/cultures is different. As a result of this difference, I observed another major contrast between Fuzhou and Pittsburgh, that is, people in Pittsburgh mostly live in houses that are concentrated in one area, while in Fuzhou, super-tall apartment buildings are most common choices (This also caused the atmosphere in residential community in Fuzhou is a lot indifferent than that in Pittsburgh, people in Pittsburgh might be more familiar with their neighbors and warmer to neighbors as well), in order to fit in the crowded downtown area. In short, this experience challenged my stereotype on city centers to a great extent—not all countries adopt solely one planning strategy; in China, commercial area overlaps residential area, but in the U.S. it’s the opposite, two areas are clearly separated.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "(This",
+          "comment": "This difference also resulted in residents in Pittsburgh acting more indifferent than those in Fuzhou.",
+          "context_left": "most common choices ",
+          "context_right": " also caused the atm",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " two",
+          "comment": ", and the two areas",
+          "context_left": ". it’s the opposite,",
+          "context_right": " areas are clearly s",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "overlaps with",
+          "context_left": "ercial area overlaps",
+          "context_right": "residential area, bu",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Pittsburgh,",
+          "comment": "Fuzhou?",
+          "context_left": " between Fuzhou and ",
+          "context_right": " that is, people in ",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph introduces the idea of different urban planning strategies but lacks specific examples to fully support this claim. To strengthen your argument, provide concrete details about the urban planning strategies in both Fuzhou and Pittsburgh (e.g., zoning laws, transportation infrastructure, government policies) to illustrate how these differences lead to the contrasts you observe.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph introduces the idea of different urban planning strategies, but it needs more concrete examples to fully support this claim. Instead of stating that the strategies are different, provide specific details about how these strategies manifest in the physical layout and daily life of people in both cities. For instance, elaborate on the types of businesses found in each area and how residents interact with these spaces.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph introduces the idea of different urban planning strategies but then veers into a comparison of housing types. To strengthen your argument, focus on how urban planning *specifically* leads to the separation (or integration) of commercial and residential areas in each city. Provide concrete examples of planning policies or historical factors that influenced these differences. This will make your analysis more insightful and directly address the question posed at the beginning of the paragraph.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "This paragraph introduces a potentially insightful explanation for the contrast you observed, but it feels a bit rushed. You mention the urban planning strategies but don't elaborate on *how* they differ and *why* that leads to the separation of residential and commercial areas. Expanding on the specific differences in urban planning approaches between the two cultures would strengthen your analysis and make the connection between planning and observed differences more convincing.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "What I recognized as a piece of take-away information was that, there are multiple ways to arrange the city, while what I’ve seen was not the only way, obviously. Otherwise, I believe all of them possess their own merits and demerits. Take Fuzhou as an example, the cost of integrate residences and business is everyone lives in crowded places, while much more people in Pittsburgh own larger space for daily activities. Again, 万物并育而不相害，道并行而不相 悖 (Everything could prosper without harming each other, paths could be parallel without contradict each other), cultures are beautiful due to the fact that it’s plural.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "from the cross-cultural comparison",
+          "context_left": "a piece of take-away",
+          "context_right": " information was tha",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "it’s ",
+          "comment": "they are",
+          "context_left": "ue to the fact that ",
+          "context_right": "plural.",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "contradicting",
+          "context_left": "l without contradict",
+          "context_right": " each other), cultur",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "Please fix the run-on sentence: , and that what I've seen is not the only way.",
+          "context_left": "to arrange the city,",
+          "context_right": "while what I’ve seen",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "integrate residences and business",
+          "comment": "combing residential and business areas is that...",
+          "context_left": "xample, the cost of ",
+          "context_right": " is everyone lives i",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "This paragraph feels a bit disconnected from the rest of the essay. Try to more explicitly tie this concluding thought back to your initial experiences and expectations of Pittsburgh, emphasizing how those expectations were challenged and broadened by your cross-cultural comparison.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph feels a bit disjointed. While the concluding sentence effectively summarizes your takeaway, the paragraph would benefit from a clearer connection between the initial statement about recognizing multiple ways to arrange a city and the specific examples of Fuzhou and Pittsburgh. Consider explicitly linking your realization to the observed differences in urban planning.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "This paragraph feels a bit tacked on and doesn't fully resolve the tension you've built throughout the essay. Consider expanding on the \"merits and demerits\" you mention, giving specific examples for both Pittsburgh and Fuzhou. This would strengthen your overall conclusion and provide a more nuanced reflection on the cultural differences you've explored.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph introduces a valuable reflection on urban planning and cultural differences, but it feels somewhat disconnected from the personal narrative that precedes it. To strengthen the connection, consider elaborating on *how* this takeaway information specifically impacts your own understanding or future perspectives. What will you do, think, or feel differently now that you recognize these multiple approaches to city arrangement?",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph feels somewhat disjointed and could benefit from a clearer connection between the general statement about urban planning and the specific example of Fuzhou versus Pittsburgh. Consider starting with the specific example and then generalizing to your takeaway, or finding a more cohesive way to integrate the quotation.",
+          "model_category": "Mistakes"
+        }
+      ]
+    }
+  ]
+}

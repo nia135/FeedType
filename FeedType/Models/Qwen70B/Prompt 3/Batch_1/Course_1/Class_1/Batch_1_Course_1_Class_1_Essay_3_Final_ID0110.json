@@ -1,0 +1,146 @@
+{
+  "paragraphs": [
+    {
+      "body": "Picture Frame",
+      "annotations": []
+    },
+    {
+      "body": "It was a small four by six-inch frame right next to a big, comfortable, decorated bed. The picture in the frame holds an important and happy memory of me and my parents. Me in the middle, my dad on my right and my mom on my left with big smiles on our faces sucking up all the excitement in that moment. Little does anyone know this picture holds an incredibly happy, cheerful, favorable moment, but it also holds an upsetting, sad, bittersweet moment. Our smiles cover it up pretty well, but we are happier than ever. This moment took place when I was receiving a very important award for softball. My parents were so happy and beyond proud of me. You would think I’d be happy about it as well, but in reality, we weren’t. The same day as I got this award my parents had a huge fight, there was a lot of yelling, doors slamming, and even some name calling. My dad threatened that he wouldn’t go with us to get my award, but he knew how important it was to me, so he went anyway. Therefore, my parents pushed it aside for the few hours the ceremony took just for me and to show how much they truly love me.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The same day as I got this award my parents had a huge fight, there was a lot of yelling, doors slamming, and even some name calling. My dad threatened that he wouldn’t go with us to get my award, but he knew how important it was to me, so he went anyway.",
+          "comment": "revealing detail.",
+          "teacher_category": "Praise",
+          "context_left": "eality, we weren’t. ",
+          "context_right": " Therefore, my paren"
+        },
+        {
+          "type": "note",
+          "comment": "Great descriptive opening!",
+          "teacher_category": "Praise",
+          "context_left": " parents. Me in the ",
+          "context_right": "middle, my dad on my right and my mom on my left with big smiles on our faces sucking up all"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You provide a vivid description of the photograph and the emotions behind it, but consider elaborating further on the specific details of the environment or setting. For example, describe the room where the photo sits, the lighting, or any objects nearby that add context to the scene. This additional detail will help readers fully immerse themselves in the moment and understand its deeper significance.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "So, what is love? Love to me is Hallmark movies you watch during Christmas time. It is when the guy buys flowers for the girl for every single date they go on. Love is where the guy goes out of their way to make the girl they truly care about happy, no matter the cost of it. The movie Notebook really showed me how love was supposed to feel and look like. The way Noah and Allie, two young lovers go through a really hard and difficult break up, get back together after 14 years of being apart. Noah wrote to her every month, but he didn’t receive anything back from her. When she came back to New Bern (where she and Noah met) they fell in love all over again. But not only was the movie based on their love, but it was based on how much Noah truly loved Allie. So, throughout the movie, old Noah visits the lady in the hospital with dementia, we then later find out the lady is Allie that Noah was visiting almost every single day. His love for her was so strong that he did all of that for her just for her to not remember him and be a stranger to her. That’s love, everyone believes that’s love, someone that cares for you unconditionally.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Love to me is Hallmark movies you watch during Christmas time.",
+          "comment": "",
+          "context_left": "So, what is love? ",
+          "context_right": " It is when the guy "
+        },
+        {
+          "type": "note",
+          "comment": "Great job making connections to culture and the ways we develop romantic, idealized concepts about love.",
+          "teacher_category": "Praise",
+          "context_left": "when the guy buys flowers for the girl for every single date they go on. Love is where the guy",
+          "context_right": " goes out of their w"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of love through the lens of the movie \"The Notebook\" provides a vivid example, but consider elaborating further on how this romantic ideal compares to real-life relationships. How might the unconditional love portrayed in the film translate to everyday interactions and challenges faced by couples outside of Hollywood narratives? This deeper exploration will enrich your readers' understanding of the complexities of love.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Love is a profoundly tender, passionate affection for another person, especially when based on sexual attraction. A feeling of warm personal attachment or deep affection. A person toward whom love is felt. It can mean multiple different things like, falling in love, being in love with something, love handles, love life, love beads, love affair, etc. Loe has changed throughout the years. In the past, it often focused on duty and family connections, with arranged marriages being common. Today, love is more about personal choice and emotional connection, emphasizing romance and partnership. But love doesn’t always mean a love partner, it can also mean friendship. Some synonyms of love are affection, appreciation, deviation, emotion, fondness, friendship, infatuation, lust, passion, respect, amity, weakness, worship, and many more. Respect is one of the most interesting synonyms to me because I feel like in any type of relationship, you’re in there should be some sort of respect. I always stand by you should treat others the way you want to be treated. Some positive connotations of love are childishness, safety and comfort, receiving gifts, acts of service, words, or affirmation, employ, courage, quality time, easygoing, chatty. Some negative connotations include punishment, danger, suffering, loneliness, despair, suffering, abusive, conflict, violence, heartbreak, confinement, desolation, desperation, adversity, emotional turmoil, etc. An exceedingly popular quote of love is, “love is the greatest refreshment in life” by Pablo Picasso. I've heard this quote multiple times, and I totally agree with it. Love is what everyone needs. It doesn’t matter what type of love it is, but everyone should have it. I feel like love makes everyone happy especially when it’s the right love.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I love (ha) the way you're exploring your word so thoroughly and from so many different angles. But I wonder if you need _all_ of these definitions to make your point?",
+          "teacher_category": "Clarification",
+          "context_left": "fondness, friendship, infatuation, lust, passion, respect, amity, weakness, worship, and many",
+          "context_right": " more. Respect is on"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your exploration of the various meanings and dimensions of love is quite comprehensive, but consider delving deeper into how these different aspects of love relate specifically to your chosen object—the photo frame—and the broader theme of your essay. For example, how does the complexity of love reflected in the photo connect to the changing nature of love over time, or to the importance of respect in relationships? This will help tie your reflections more closely to the central focus of your essay.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Unfortunately, this is not what I believed… at least not at first. In the very beginning I never believed in love. Love was a very difficult, complicated, and rough topic in my household. I did have loving and caring parents, but they had many hard times throughout the years. Ever since I was younger the only thing, I really remember is them arguing all the time. Being young and not knowing what was going on and if this was supposed to be normal or not really messed with my head. When I started getting older, I knew this wasn’t supposed to be normal and this isn’t how parents were supposed to treat each other. Parents are supposed to be there for each other when there's a problem, miscommunication, or any type of disagreement. I’m not saying parents can’t argue and yell at each other a little, but it shouldn’t be every day and constantly. So, seeing my parents do the total opposite and argue every single day and never be happy with each other hurts. It hurt as a kid, I didn’t believe they loved each other or even cared for one another. Every time they argued or got into a big disagreement they talked about divorce. They always threw that word around not thinking anything of it. That’s the main reason why I didn’t believe in love. They didn’t look in love or even act like it. Till something bad happened…",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "That’s the main reason why I didn’t believe in love. They didn’t look in love or even act like it.",
+          "comment": "",
+          "context_left": "ing anything of it. ",
+          "context_right": " Till something bad "
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Unfortunately, this is not what I believed… at least not at first. In the very beginning I never believed in love. Love was a very difficult, complicated, and rough topic in my household.",
+          "comment": "Nice transition!",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": " I did have loving a"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You provide a powerful account of your early struggles with believing in love due to your parents' constant arguments. To deepen this reflection, consider sharing a specific instance or example of a particularly impactful argument or event that solidified your doubts about love. This would give readers a clearer sense of the intensity and impact of those moments on your belief system.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "My father got really sick in January of the year 2022. The doctors told him he has covid, so they treated him for that, then he got even more sick where they weren’t really sure what was wrong. So, they ran more and more tests till late April, they told him his heart was failing. That news hit my family like a train hitting a matchbox car. After that news my family tried doing everything, we possibly could do to help him feel better and make everything easy on him. Shockingly my mother did the most. She made sure his medicine was all correct and it was all organized for him, so he just had to grab and go. Shortly after they told us his heart was failing, they then told us he needed a whole brand-new heart. He was put on the transplant list. We weren’t sure if he was going to make it when we heard the news. Since my siblings and I had school and work, plus with all the covid rules still in effect in the hospital, we weren’t allowed to visit him, only our mom was. She was by his side every possible day she could, even if it was only for an hour or two. She made sure to keep him company, so he wasn’t lonely. Then, in July of the same year we got the call… the call that he will get his second chance… they found him a heart. My mom rushed up, told us kids, got ready, and drove straight to the hospital. This whole process really showed me the love my mom has for my dad.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "That news hit my family like a train hitting a matchbox car.",
+          "comment": "great metaphor :)",
+          "teacher_category": "Praise",
+          "context_left": " heart was failing. ",
+          "context_right": " After that news my "
+        },
+        {
+          "type": "note",
+          "comment": "Nice writing throughout this paragraph!",
+          "teacher_category": "Praise",
+          "context_left": "chool and work, plus with all the covid rules still in effect in the hospital, we weren’t allowed to",
+          "context_right": " visit him, only our"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You provide a powerful account of your father's illness and your mother's dedication, but consider elaborating further on how this experience specifically shifted your perspective on love. For example, you might explore moments or thoughts that illustrate the transformation in your belief system, such as reflections on how your mother's actions contrasted with previous arguments or doubts you had about their relationship. This deeper exploration will strengthen the emotional impact and clarity of your message.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "There was a part of me that didn’t believe in love, but seeing my parents go through this hard time made me believe in it. I learned that love doesn’t only have one definition to it. It has multiple definitions and everyone experiences it definitely. My parents didn’t show their love for each other till they believed it was the end. While some parents show their love for each other all the time doing the little things. It’s okay, it’s totally okay to be different in the way you show your feeling of love. I’m happy my parents showed me love because it taught me that love is beautiful, it’s a wonderful thing, and you must work for it. So yes, at first, I didn’t believe in love, but seeing my parents go through their different stages of love, it has made me believe in it.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Great ideas in this paragraph! I'd love to see you \"echo\" your intro here, though :)",
+          "teacher_category": "Task Constraints",
+          "context_left": "each other till they believed it was the end. While some parents show their love for each other all",
+          "context_right": " the time doing the "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You effectively convey the shift in your belief about love, but consider elaborating on the specific moments or actions that led to this transformation. For example, describing particular instances where your parents demonstrated their love despite their struggles could add deeper layers to your reflection and make your journey more vivid for the reader.",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

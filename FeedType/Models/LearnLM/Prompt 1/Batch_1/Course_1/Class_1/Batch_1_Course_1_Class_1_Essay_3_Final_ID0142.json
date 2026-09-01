@@ -1,0 +1,183 @@
+{
+  "paragraphs": [
+    {
+      "body": "Gold Ballpoint Pen",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I love this image here!",
+          "teacher_category": "Praise",
+          "context_left": "Gold Ballpoint Pen",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The single most important focus for this paragraph is **establishing a clear central claim (thesis)** that connects the physical object (the gold pen) to your larger thematic argument. While you introduce the pen and mention your grandfather, the paragraph currently functions as a loose collection of memories rather than an introduction that sets up the essay’s \"center of gravity.\" To improve this, refine your opening to explicitly state how the gold pen serves as a bridge between your family’s legacy of resilience and your own personal journey of finding balance through journaling; this will provide the \"roadmap\" for your reader to understand why this object is the focal point of your exploration.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Dear Grandpa, Is it okay that I use all the ink in your gold pen? Ever since you passed, I have found myself needing to use it quite often. In the beginning, I promised to use it for school. School, you told me, was super important and should be my priority always. I keep faint memories of you helping me in the dining room with my homework. Especially, my math homework, that is where I need the most help. I always had a hard time with those assignments. I couldn’t see the process like you could. How could you just see it? I wish I had you there to help me with my high school algebra homework. Algebra was something I don’t think I will ever understand beyond just the basics.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Interesting beginning as a letter :)",
+          "teacher_category": "Praise",
+          "context_left": "Dear Grandpa,",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your opening paragraph does a wonderful job of establishing an intimate, reflective tone, but it currently functions more as a biographical introduction than a clear introduction to your essay's central claim. To better align with the rubric’s requirement for a clear \"center of gravity,\" consider revising this paragraph to explicitly bridge the gap between the memory of your grandfather's pen and the \"big idea\" you introduce later regarding algebra as a metaphor for life balance. By explicitly stating your thesis here, you will provide the reader with a clearer roadmap for how this personal narrative connects to your broader philosophical claims.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "As I’ve gotten older, I did learn something beyond those basics.",
+      "annotations": []
+    },
+    {
+      "body": "Sometimes algebra goes beyond math and secretly teaches us a valuable lesson that we should be implementing into other factors of our lives. A lesson that my mom says some are lucky to learn and even few can learn early on in their lifetime.",
+      "annotations": []
+    },
+    {
+      "body": "Other times, algebra just feels like the most boring class of the day. In the context of my essay, I want to develop the idea of the former statement. The etymology of Algebra is “the analysis of equations, the art of reasoning about quantitative relations by the aid of a compact and highly systematized notation”. We learn how to reunite, reintegrate, and consolidate broken parts to solve algebraic equations. Simply put, we learn the process of balancing problems.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "We learn how to reunite, reintegrate, and consolidate broken parts to solve algebraic equations. Simply put, we learn the process of balancing problems.",
+          "comment": "interesting!",
+          "teacher_category": "Praise",
+          "context_left": "ematized notation”. ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The single most important focus for this paragraph is **bridging the gap between your research and your personal narrative.** You have provided a formal definition of algebra, but you need to explicitly explain *why* this specific definition serves as a lens for your life. Instead of just stating that you want to \"develop the idea,\" use the \"quote burger\" method to connect the etymology of algebra directly to your personal experience of balancing family expectations and internal stressors; show the reader how the \"reuniting and reintegrating\" of parts mirrors your own process of finding balance through journaling.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Now taking that idea, let's transfer it to goal setting or problem solving in a more personal context. The definition of algebra to me is that process of balancing. I realize there is no one specific way to do it in life. Just like how there are multiple different concepts under the overall umbrella of “Algebra” like polynomial fractions and quadratic formulas, etc. But they all do the same thing of balancing whatever equation.",
+      "annotations": []
+    },
+    {
+      "body": "Journaling has become my most recent attempt at balancing all the stressors in my life.",
+      "annotations": []
+    },
+    {
+      "body": "My grandfather’s ballpoint pen matters to me because it is a representation of my family and to me it represents my family’s success. The success of making a comfortable living despite all the obstacles we were bound to face as a colored family living in the United States. My definition of success is surpassing the limitations imposed by others. I view my grandfather’s pen as a connection to my family's history. Although other family members of mine have different objects that come to mind when they think of success, I felt a connection to my grandfather’s pen because it was the first shiny thing I saw as a kid that he constantly used. Over the years, it has become a reminder to me of the hardships/obstacles my ancestors faced and sacrifices they made. Which ultimately paid off and allowed my current living family members and I to have the privileged life we grew up in.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "My grandfather’s ballpoint pen matters to me because it is a representation of my family and to me it represents my family’s success.",
+          "comment": "I'm interested! Though I'm not quite sure how the pen and your family's success is logically connected to algebra and journaling to find balance?",
+          "teacher_category": "Clarification",
+          "context_left": "",
+          "context_right": " The success of maki"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is **developing the connection between your personal definition of success and the specific, concrete image of the pen**. While you establish that the pen represents \"surpassing limitations,\" you could strengthen this by explaining *how* the pen’s physical presence—perhaps its wear or the way it feels in your hand—mirrors the specific \"hardships and sacrifices\" you mention. Instead of telling the reader that the pen connects to family history, show us how using this specific tool bridges the gap between your grandfather’s past struggles and your present-day ambitions.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "As a larger universe significance, those ideas I feel are relatable to everyone in one way or another. The feeling of having a purpose and wanting to be proud, whether that given by whoever we call family or earned for yourself. Having a connection with their family gives people a strong sense of pride in the uniqueness of their family history. Strong connections are specially made through family heirlooms or valuables, for example a pen. The feeling is universal even if every object differs. For some, it also comes with the feeling of inspiration I mentioned earlier. Inspired to continue that success, for me personally means fulfilling my life with what makes me happy and exceeding the expectations my family has of me.",
+      "annotations": []
+    },
+    {
+      "body": "Although to be that ambitious comes with a major challenge of being able to have a proper life balance. Thats why I try different strategies, like planners, but the one strategy I seem to find myself returning to the most is journaling.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I'm interested in both ideas you're presenting in this draft (algebra/balance/journaling and the pen/heritage/family pride) but, right now, the essay feels as if it could be two different essays.",
+          "teacher_category": "Mistakes",
+          "context_left": " strategy I seem to ",
+          "context_right": "find myself returning to the most is journaling."
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The single most important focus for this paragraph is **transitioning from your broader thematic discussion to your personal narrative.** While the previous paragraphs establish the \"algebra of life\" metaphor and the significance of the pen, this paragraph feels like a sudden jump into your journaling habits without fully grounding the reader in how those habits connect to the \"balancing\" theme you just defined. To improve this, try adding a bridging sentence that explains *why* journaling is your specific way of \"solving for x\" or balancing your own life’s equations, rather than just listing it as a strategy. This will help maintain the intellectual weight of your central metaphor while moving into your personal experience.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Dream journals, Goal journals, Ranting journals, Sketchbooks, and a bunch of random ones with small prompts that most of the time I do not remember the context for. I rarely wrote in hyper-detail because I always assumed that my memory would remember of detail that happened that day. It never has.",
+      "annotations": []
+    },
+    {
+      "body": "Every time I write in my journal, I use a pen. Only pen. The ball point pen was the first pen I used in the first journal I received.",
+      "annotations": []
+    },
+    {
+      "body": "It’s annoying when you misspell in pen but at some point, you stop caring because your thoughts and emotions are going faster than your hands. You have to catch up and there is no time to fix a silly misspelling. It only becomes frustrating when I am attempting to read back my thoughts, and I must autocorrect every other sentence in my head.",
+      "annotations": []
+    },
+    {
+      "body": "For me to feel like my thoughts were “organized”, I would have to dedicate a journal for every mood I could be feeling. I very quickly realized that emotions are too complex to categorize into a journal. Reading back some of my daily journals, I could see the swing in my emotions just based off of the angle I was writing at, or the spacing in between each word. Even after that realization, I continued to journal in different journals because I had to feel organized, but one thing that stood out to me was that it never bothered me to write in each of these journals with the same pen.",
+      "annotations": []
+    },
+    {
+      "body": "Maybe writing with my grandfather’s pen brought comfort. The familiar hold, the familiar gold details and the shiny black body all brought some sort of immediate ease and focus to my thoughts.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Maybe writing with my grandfather’s pen brought comfort. The familiar hold, the familiar gold details and the shiny black body all brought some sort of immediate ease and focus to my thoughts.",
+          "comment": "nice",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The single most important focus for this paragraph is **deepening the connection between your concrete image and your abstract claims.** While you describe the pen well, this section currently functions as a bridge between your anecdote and your analysis; to make it stronger, explain *why* the pen’s physical traits (the gold, the weight, the hold) facilitate that specific \"clear-headed space\" you mentioned. By explicitly linking the sensory experience of the object to your internal process of \"solving the equation\" of your life, you can elevate the pen from a simple tool to a powerful symbol that anchors your central argument.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "That clear headed space was the only space which I could find solutions. The only space where I can “see the math”. Where I can see how to solve the missing part of my equation. The space where I relate to my grandfather the most.",
+      "annotations": []
+    },
+    {
+      "body": "I admire my grandfather because the only stories my mom or my aunts tell me are stories where he sounds like the perfect, most down to earth, smartest person to ever walk. They talk about how all his patients loved him, how caring and protective he was of his family, how neighbors loved him, how mothers he helped would bring the kids he delivered to come meet him. Some of those kids are lifetime friends with my mom and aunts. Those stories continue his legacy in such an inspiring way.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "I admire my grandfather because the only stories my mom or my aunts tell me are stories where he sounds like the perfect, most down to earth, smartest person to ever walk. They talk about how all his patients loved him, how caring and protective he was of his family, how neighbors loved him, how mothers he helped would bring the kids he delivered to come meet",
+          "comment": "lovely memories--I wonder if you could write them in more concrete and specific detail. Perhaps with a narrative?",
+          "teacher_category": "Task Constraints",
+          "context_left": "",
+          "context_right": " him. Some of those "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is moving beyond mere description to connect these details to your central claim. While you provide a lovely portrait of your grandfather, the paragraph currently functions as a summary of family stories rather than an analysis of how these stories shape your own perspective on \"success\" or \"legacy.\" To strengthen this, try to bridge the gap between his reputation and your personal goal-setting; for example, you might explain how the *specific* qualities you admire in him (like his care for his patients) serve as the blueprint for the \"balanced\" life you are trying to build through your own journaling.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Therefore, the pen is an inspiration for me to achieve my goals of providing a comfortable life for myself and my future family. For me to have a legacy told in the same angelic narrative that my grandfather’s is told.",
+      "annotations": []
+    },
+    {
+      "body": "Would I have wanted to meet my grandfather right now, at a sentient age? Probably not, I would not take the risk of tainting the perfect idea I have of him in my head. That could be the reason why people say, “Never meet your idols”.",
+      "annotations": []
+    },
+    {
+      "body": "Either way, my grandfather’s gold ball point pen is strong, and tenacious even on its dying page, I was able to finish my thoughts all the way to the bottom right-side corner. The pen could handle stress rant writing, life planning maps and even just plain old algebra homework. It could handle anything that I used it for. If my pen can do that, then I can handle anything life throws at me.",
+      "annotations": []
+    }
+  ]
+}

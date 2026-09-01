@@ -1,0 +1,263 @@
+{
+  "paragraphs": [
+    {
+      "body": "Emperor-Zilla: Hirohito’s Heir",
+      "annotations": []
+    },
+    {
+      "body": "\tThere is a strange anecdote from the life of Hirohito. It comes from a time when the passions of he and his wife could produce no heir, and he strolled the halls of his stone palace looking for warmth and life in low places. He watched insects pass through crevices, he inspected all the flowers in their gardens- but oh, how the Empress had grown cold to him.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "to him.",
+          "comment": "I loved this opening — it felt like a fairy tale and your narrator immediately told me all I needed to know. ",
+          "context_left": "ress had grown cold ",
+          "context_right": "",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've started strong by introducing a unique anecdote from Hirohito's life, hinting at his struggles with infertility and emotional distance from his wife. However, consider whether this opening effectively sets up the central conflict driving the rest of the narrative. Think about how you can use this initial scenario to establish a clear tension between Hirohito's desires and obstacles, making it easier for the reader to follow the story's progression.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "\tOn one of these days that he pondered in the gardens, the honorable General Genda appeared before him. The shadow of this great man could fold the boyish emperor into an Origami Crane, if it so chose. Years of combat tattered his weary face and sunk his dreary eyes, and the Emperor could not resist but to forget his position before him.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The shadow of this great man could fold the boyish emperor into an Origami Crane, if it so chose. ",
+          "comment": "Such a vivid line and you set up the difference between these two men well. ",
+          "context_left": "ppeared before him. ",
+          "context_right": "Years of combat tatt",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "could not resist but to forget ",
+          "comment": "Strange phrasing ",
+          "context_left": "es, and the Emperor ",
+          "context_right": "his position before ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In this passage, you've started strong by introducing the contrast between the worn-out General Genda and the youthful Emperor Hirohito. However, consider whether the image of the origami crane effectively conveys the power dynamic between the two figures. Does it accurately reflect the relationship between the mighty warrior and the inexperienced ruler? Think about ways to strengthen this moment by making it more nuanced and revealing of their personalities. How does this introduction set the tone for the rest of the story, particularly regarding themes of leadership, authority, and perception versus reality?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Falling to one knee, “Great General Genda, what news do you bring for me?” ",
+      "annotations": []
+    },
+    {
+      "body": "\t“Off the shore of Hokone… with our new binoculars… we saw a great beast of the sea.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“A beast you say,” considered Hirohito, “What kind of monster is this?”",
+      "annotations": []
+    },
+    {
+      "body": "\tAnd Genda handed Hirohito the photographs taken by their new cameras. The pictures were muddled and difficult to read. Hirohito saw one great forehead rising out from the sea.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "photographs taken by their new cameras",
+          "comment": "I was surprised that this story is set in modern times — it felt more like an older fable to me. But that’s fine! ",
+          "context_left": "handed Hirohito the ",
+          "context_right": ". The pictures were ",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a great job incorporating historical figures and events into your narrative, drawing parallels between real-life scenarios and fictional ones. However, consider exploring the implications of having the Emperor's heir being \"born\" from the sea - does this represent a commentary on imperial succession, national identity, or perhaps the power dynamics between humans and nature? Delve deeper into the symbolic significance behind this choice to add another layer of complexity to your story.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\t“Should we shoot it… your Majesty the Emperor?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“No, it doesn’t look American. Americans have fatter bones and are never camera shy. This beast appears quite skinny….” Hirohito thought of his own frail figure which followed him from childhood, which rendered him awkward in every photograph. Even though he knew they’d fein defeat before the heir to the throne, he was too cowardly to play with the other boys his age. “Send an unarmed vessel to it and make careful observation,” said Hirohito, “I have reason to believe it is Japanese.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "American. ",
+          "comment": "Wow. I did find it hard to picture this “beast” might look like. They appear to be talking about humans? ",
+          "context_left": "No, it doesn’t look ",
+          "context_right": "Americans have fatte",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You're getting close to effectively conveying the inner thoughts and emotions of Emperor Hirohito, particularly in this moment where he's observing the photos of the \"beast\" and making connections between himself and the creature. However, I'd suggest clarifying why Hirohito thinks the beast looks \"skinny.\" What specifically does he mean by this comparison, and how does it relate to his own physical appearance? Consider showing rather than telling - perhaps describe Hirohito's self-perception or insecurities related to his physique, and use sensory details to illustrate his observations of the beast. This will help create a stronger emotional connection between the reader and the protagonist.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "\t“How wise,” said General Genda, “Your Majesty the Emperor always offers the most creative solutions to our problems.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "our problems.”",
+          "comment": "I enjoy this, which is obviously insincere. I did wonder how much the Emperor might also be pretending, or at least hoping to impress the General? ",
+          "context_left": "eative solutions to ",
+          "context_right": "",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a great job capturing the essence of conflict between the Emperor's desire for a solution and General Genda's skepticism. However, consider exploring ways to deepen the contrast between their perspectives beyond surface-level dialogue. What underlying motivations drive each character's actions, and how does their differing worldview impact the narrative tension? By delving deeper into the conceptual heart of the story, you'll create a richer exploration of themes and ideas.",
+          "model_category": "Concepts"
+        }
+      ]
+    },
+    {
+      "body": "\tYet, weathered by combat as he was, General Genda ever maintained suspicions of foreign threats. He knew Americans were clever, and the Emperor had lived a sheltered life. Upon arriving in Hokone, he ordered a great warship to be sent to the beast. “Blast that creature to smithereens,” commanded the honorable general. “We don’t know what dangers it may hold within its secrets.”",
+      "annotations": []
+    },
+    {
+      "body": "\tMeanwhile, within the palace, Emperor Hirohito summoned the courage to see his wife for the first time in three months. She had boarded herself into her room, drowning in the shame of her husband, who the countrymen hailed a God- but who couldn’t give her a child.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " God",
+          "comment": "Lower- case.I’m a little confused about why she would barricade herself away from him if they want to have kids? ",
+          "context_left": " countrymen hailed a",
+          "context_right": "- but who couldn’t g",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a great job incorporating historical figures and events into your narrative, particularly with the inclusion of Emperor Hirohito's struggles with infertility and the introduction of the \"beast\" from the sea. However, consider exploring the implications of the conflict between Hirohito's desire for a biological heir versus his potential acceptance of a symbolic or spiritual successor. How does this tension shape the dynamics between Hirohito and Nagako, as well as his relationship with General Genda? Delving deeper into this conceptual aspect will add complexity to your story and create a richer reading experience.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\t“Nagako, do you remember how the crowds cheered my name?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Yes, your Majesty,” she said without looking to see the face she resented most.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Do you remember how they said, no promise of mine should go undone?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Yes, your Majesty,” she said, withholding her tears.",
+      "annotations": []
+    },
+    {
+      "body": " \t“Do you remember how they lauded the purity of my blood, that my offspring should be greater in every way?”",
+      "annotations": []
+    },
+    {
+      "body": "\t“Yes, your Majesty,” The honorable General Genda had told her in privacy that if she caused any further psychology unrest in the Emperor, she would be promptly executed for treason. The honorable general suspected her as an American.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "The honorable General Genda had told her in privacy that if she caused any further psychology unrest in the Emperor, she would be promptly executed for treason. The honorable general suspected her as an American.",
+          "comment": "This probably belongs when she first agrees with him. Again, slightly confusing — she’s not supposed to upset him, but she’s barricaded herself away? ",
+          "context_left": "Yes, your Majesty,” ",
+          "context_right": "",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a great job incorporating historical figures and events into your narrative, particularly in depicting the relationship between Emperor Hirohito and his wife Nagako. However, consider exploring the psychological motivations behind the Emperor's actions and decisions more deeply. What drives his obsession with finding an heir, and how does this relate to his insecurities and fears? Delving deeper into the emotional complexities of your characters will add richness and nuance to your storytelling.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\t“I believe he is born. Born of his true mother, not you, my cousin, but the mother of Japan itself- born of the sea. Genda spotted him off the coast of Hokone, and is delivering a test to determine if he is truly my son.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "he is born",
+          "comment": "I didn’t know who was speaking or who the “he” in this sentence is. ",
+          "context_left": "\t“I believe ",
+          "context_right": ". Born of his true m",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In this passage, you've introduced a compelling twist where Emperor Hirohito believes his unborn son is actually a mythical being \"born of the sea.\" However, upon closer examination, it seems that this revelation stems more from the Emperor's desire to justify his inability to father a child rather than a genuine concern for the truth. Consider exploring ways to deepen the psychological complexity behind this decision, perhaps revealing why Hirohito clings to this notion despite the obvious flaws in his reasoning. How does this fantasy serve as a coping mechanism for his insecurities, and what implications does it have for his relationships and leadership? By delving deeper into the emotional motivations driving this choice, you'll add nuance to the narrative and create a richer reading experience.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "“Yes, your Majesty. Your reason and wisdom is truly unparalleled.”",
+      "annotations": []
+    },
+    {
+      "body": "On the shores of Hokone, General Genda watched as the Mikaho blazed artillery into the beast’s now exposed torso. It let out an animalistic cry, and brought a fin-like extremity onto the ship’s hull. Genda could hear the cries of his men as the ship filled with water. Then the scene became obscured by smoke, and the Mikaho was no more.",
+      "annotations": []
+    },
+    {
+      "body": "When the honorable General Genda returned to Hirohito’s palace, the emperor met him with the enthusiasm of a religious fanatic.",
+      "annotations": []
+    },
+    {
+      "body": "“Why, great general, did the creature from the sea sink our vessel?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "sea sink our vessel?”",
+          "comment": "Slightly confusion about how he wouldn’t know this already? ",
+          "context_left": "e creature from the ",
+          "context_right": "",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a fantastic job capturing the essence of conflict in your story, particularly between Emperor Hirohito's desire for an heir and the opposing forces of reality and societal expectations. However, consider exploring ways to deepen the emotional stakes of this conflict, making it more nuanced and relatable for the reader. What does Hirohito stand to lose if he fails to secure an heir? How does Nagako's reluctance affect his self-perception and relationships with others? By delving deeper into the psychological implications of this conflict, you'll create a richer narrative that resonates with readers.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "“No,” replied a surprised Genda, who had taken meticulous care in suppressing any media report of the failure. “Our great military can never fail under your rule, the vessel remains completely untouched.”",
+      "annotations": []
+    },
+    {
+      "body": "“Wonderful, it is as I thought. The heir to the throne must be powerful, but above all, he must value the lives of his countrymen. I think to my own childhood, when I dared not lay a finger on the other boys in our play fighting. Bring my son home to me immediately- he is truly like me both body and mind.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "body and mind.”",
+          "comment": "Everly, I really enjoyed your draft. It’s clever and unexpected, and I was interested throughout. I especially your like engagement with the emperor, a unique and intriguing character. Stephen King said that we write our first drafts with the door shut and our second with the door open, to let people in. That’s really your task in your revision, showing readers the information we don’t have yet and which we need to know. For example, I never quite got why the emperor thinks that this sea creature is his son (nor what the creature was, exactly, since sometimes it’s human and sometimes not). I also felt like I missed something with his wife — she is both very upsetting to him and not supposed to upset him, and then she isn’t really connected to the main plot. I love the choice of the ending where the general isn’t honest (and then, we presume, sort of stuck in his lie) but I didn’t entirely follow how they got to that place. So — think about your audience. What do we already know and what can we figure out on our own and what needs to be told to us? A final note is that I thought you did a great job in truly thinking about your main character and what he wants! Just continue to think about how he is opposed, as well. Great work! Revision due by 3/9 9 AM or just let me know you’re not going to revise. Grade: A",
+          "context_left": " truly like me both ",
+          "context_right": "",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've effectively used the prompt's suggestion to \"start in the middle\" of your plot, dropping the reader right into the midst of Emperor Hirohito's emotional turmoil. However, consider exploring ways to deepen the conflict between Hirohito's desire for an heir and the opposing forces driving his decision-making process. What internal struggles does he grapple with regarding his role as ruler versus his personal desires? How can you amplify the tension between these conflicting goals to propel the narrative forward?",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

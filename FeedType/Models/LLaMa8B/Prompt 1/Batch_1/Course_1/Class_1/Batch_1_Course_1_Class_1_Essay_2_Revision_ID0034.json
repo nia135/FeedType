@@ -1,0 +1,192 @@
+{
+  "paragraphs": [
+    {
+      "body": "My Language",
+      "annotations": []
+    },
+    {
+      "body": "I have struggled with my language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age. Most standardized tests showed that I did \"poorly” and wasn’t up to grade level in my fluency and comprehension. I was given an IEP, which was intended to help individualize how I learned. Education Week magazine describes an IEP as, “An Individualized Education Program, or IEP, is a program tailored to meet the individual needs of students with disabilities. The program is written in collaboration between a child’s school district, their parent or guardian, and sometimes, the student.” Although the IEP did help address my issues with language, it wasn’t the thing that helped me learn to communicate and read effectively. My supportive teachers, friends, and family members made all of the difference. I realized that I’m lucky to have the experiences and people who support me because not all kids who shared my problems had these advantages.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "have struggled with my language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age. Most standardized tests showed that I did \"poorly” and wasn’t up to grade level in my fluency and comprehension.",
+          "comment": "Surprising and engaging details :)",
+          "teacher_category": "Praise",
+          "context_left": "I ",
+          "context_right": " I was given an IEP,"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could strengthen your connection to Gloria Anzaldúa's concept of \"taming a wild tongue\" by explicitly exploring how your own experiences with language barriers and educational marginalization inform your understanding of the ways in which societal structures can silence certain voices and limit opportunities for marginalized individuals.\nConsider delving deeper into the intersections between your personal narrative and Anzaldúa's themes to create a richer analysis of the complex relationships between language, culture, and identity.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "I was not the only kid I knew with an IEP, so I was never quite alone in that regard. Due to my struggles, I was put into groups with kids at my level. However, being separated from the rest of the students made me feel as if there was something wrong with me and with the others in my group. This division lasted until 8th grade. I do not know what happened to most of those kids in my group after 8th grade, but I hope they had a better experience going into high school like I did. Page 1",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "This division lasted until 8th grade. I do not know what happened to most of those kids in my group after 8th grade, but I hope they had a better experience going into high school like I did.",
+          "comment": "I'm interested! I wonder, though, do you mean that you _did_ have a good experience going into high school?  Because, if so, then the next line (which is about a negative experience) doesn't seem logically connected, right?",
+          "teacher_category": "Clarification",
+          "context_left": "others in my group. ",
+          "context_right": " Page 1"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could strengthen your transitions between sentences and paragraphs by varying your transition phrases and linking words to create smoother connections between ideas. For example, in the target paragraph, the phrase \"However\" begins two consecutive sentences without much connection to the previous text, making the flow seem abrupt. Consider adding transitional words such as \"Additionally\", \"Meanwhile\", or \"As a result\" to link your thoughts more clearly.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "At one point, I felt like I was trapped in a box. This realization came during a heated argument with my dad about which high school I should go to next year at the end of 8th grade. I shared my interest in engineering and explained how my existing middle school, which was about to become a high school the next year was not offering that class unlike Taylor Allderdice. My middle school made me feel as though my education and personal development were being ignored in favor of more promising kids. My dad only really listened to my argument when I yelled about feeling like I needed to break away from the box I was in. My dad realized that being in a different environment would help me progress as a student. I really liked his willingness to consider things from my point of view, and his decision eventually had a huge impact on my life and how I see myself. When I enrolled in a high school unrelated to my middle school, I finally found a way to thrive.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "When I enrolled in a high school unrelated to my middle school, I finally found a way to thrive.",
+          "comment": "Aha! Yes. A positive experience :)",
+          "teacher_category": "Praise",
+          "context_left": "d how I see myself. ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could strengthen your use of transitions between sentences to create a smoother flow of ideas. For example, in the first two sentences, you jump abruptly from describing your feelings of being trapped in a box to explaining why you felt that way - consider adding transitional phrases or words to connect these ideas more clearly.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "In high school, I had some very encouraging teachers, and the confidence they had in me was directly related to my confidence in myself. Aside from my teachers, my new friends made a significant impact on my confidence. Everyone deserves to have someone who believes in them. I was particularly close to my Engineering teachers, who supported me and gave me leadership roles as a TA and let me help out in their classrooms. These teachers and more helped me move from basic English to AP English.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Everyone deserves to have someone who believes in them.",
+          "comment": "great line :)",
+          "teacher_category": "Praise",
+          "context_left": "t on my confidence. ",
+          "context_right": " I was particularly "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could strengthen your transitions between sentences to create a smoother flow of ideas. For example, the phrase \"Aside from my teachers, my new friends made a significant impact on my confidence\" feels somewhat disconnected from the previous sentence without a clearer link to explain why having confident teachers led to making new friends who also boosted your confidence. Consider adding transitional phrases or words to guide the reader through your thoughts and enhance cohesion.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "Our education system is flawed. The huge issue of systemic racism plagues our country. There are inherent problems with disparities in learning differences. I noticed that the other kids in my IEP group mostly did not share the same skin color as my own. I didn't understand back then that the reason for this was way deeper than I would know. The Learning Disability Association of America reports that, “In Dec. 2016, the United States Department of Education (USDOE) finalized guidance and regulations to address racial and ethnic disparities in special education eligibility, placement, and school discipline and the commonly accepted fact that Page 2",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Our education system is flawed. The huge issue of systemic racism plagues our country. There are inherent problems with disparities in learning differences.",
+          "comment": "I'm interested in the ideas you're introducing here, but can you transition more smoothly and logically from your experience in English class to these very big ideas that might not have an obvious connection to you?",
+          "teacher_category": "Task Constraints",
+          "context_left": "",
+          "context_right": " I noticed that the "
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The Learning Disability Association of America reports",
+          "comment": "Nice introducing template and good quote!",
+          "teacher_category": "Praise",
+          "context_left": " than I would know. ",
+          "context_right": " that, “In Dec. 2016"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could strengthen your analysis of systemic racism in schools by providing more nuanced and detailed explanations of the ways in which it affects students' educational outcomes, rather than simply stating that it exists. For example, you mention that you noticed a disparity in skin colors among students in your IEP group, but you could delve deeper into the historical and structural factors that contribute to such disparities, making your critique more impactful and thought-provoking.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "‘…children of color with disabilities are overrepresented within the special education population’ (King, 2016).” If I struggled with language as a white person of average class and education, what was it like for children who weren’t as supported? I realize that my language struggles aren’t as complicated as they are for others, and I wish the best for their futures.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "don't forget those quote burger explaining templates!",
+          "teacher_category": "Task Constraints",
+          "context_left": "lation’ (King, 2016)",
+          "context_right": ".” If I struggled with language as"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could strengthen your analysis of the quote from King (2016) by providing more context and explanation around why this statistic matters specifically in relation to your own story and connection to Gloria Anzaldua's work. What does this information reveal about the intersectionality of race and disability, and how can you use this insight to further explore the complexities of language, culture, and identity in your essay?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Despite my struggle with language, I loved learning, but not learning from books, but learning by touching and feeling and listening to things. I loved music and playing outside and so did all of the other kids in my school, but what made me and a few other kids different was the fact that we couldn’t read as well as most of our grade. So, while they got more time to do things like listening to music and playing outside me and that selected group of kids stayed back. My middle school didn’t mean to make us feel ostracized from the rest of the school, but that was the thing that ended up happening.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Despite my struggle with language, I loved learning, but not learning from books, but learning by touching and feeling and listening to things. I loved music and playing outside and so did all of the other kids in my school, but what made me and a few other kids different was the fact that we couldn’t read as well as most of our grade. So, while they got more time to do things like listening to music and playing outside me and that selected group of kids stayed back. My middle school didn’t mean to make us feel ostracized from the rest of the school, but that was the thing that ended up happening.",
+          "comment": "I'm very interested in these ideas, but I'm not quite sure--yet--how they're logically connected to big ideas you've introduced about getting support from your father and your teachers. What is the central focusing idea of this essay? What big ideas are necessary to develop that idea?",
+          "teacher_category": "Clarification",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could strengthen your use of transitions between sentences to create a smoother flow of ideas. For example, in the target paragraph, the shift from discussing your love of hands-on learning to describing your feelings of isolation feels abrupt - consider adding transitional phrases or words to connect these ideas more explicitly.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "When you give kids new strategies, and the ability to learn and grow instead of ostracizing them, you give them an opportunity to become the best version of themselves. I don’t believe that my middle school taught me to read well or enjoy reading. I know it was my father who sat down with me every night by my bedside table reading me stories while encouraging me to read with him. Those nights taught me how to read. I don’t know if the other kids in my IEP group had the same experience that was so important for my own growth. Now I know through firsthand experiences that it's important for all students to have the chances, I was lucky enough to have mastered my language and I hope everyone is given an equal opportunity to as well.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "I know it was my father who sat down with me every night by my bedside table reading me stories while encouraging me to read with him. Those nights taught me how to read. I don’t know if the other kids in my IEP group had the same experience that was so important for my own growth.",
+          "comment": ":)",
+          "teacher_category": "Other",
+          "context_left": "l or enjoy reading. ",
+          "context_right": " Now I know through "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could strengthen your use of transitions between sentences to create a smoother flow of ideas. For example, the transition from \"When you give kids new strategies, and the ability to learn and grow instead of ostracizing them, you give them an opportunity to become the best version of themselves.\" to \"I don’t believe that my middle school taught me to read well or enjoy reading\" feels abrupt - consider adding a word or phrase to connect these two thoughts more clearly.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "To live in a box means to be trapped by the pre conceived notions given by other people, needing to break free from the expectations set by authority figures who bring you down, Page 3",
+      "annotations": []
+    },
+    {
+      "body": "breaking free to go and start a new chapter leaving the cage behind, then realizing all that you are leaving behind knowing you must regardless, wishing the best for those still stuck that you couldn't bring with you.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I'm interested in this poem. It introduces some powerful ideas.",
+          "teacher_category": "Praise",
+          "context_left": "wing you must regard",
+          "context_right": "less, wishing the be"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could strengthen your use of transitions between sentences and paragraphs to create a smoother flow of ideas. For example, in the target paragraph, the phrase \"then realizing all that you are leaving behind knowing you must regardless\" feels somewhat disconnected from the preceding line without additional transitional language to guide the reader through the thought progression. Consider adding phrases such as \"as a result,\" \"in addition,\" or \"meanwhile\" to connect your ideas more explicitly.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "Citations https://www.edweek.org/teaching-learning/what-is-an-iep-individualized-education- programs-explained/2023/07 https://ldaamerica.org/lda_today/disproportionate-identification-of-students-of-color-in- special-education/#:~:text=2016%2C%20the%20United%20States%20Department%20of%20Education ,with%20disabilities%20are%20overrepresented%20within%20the%20special Page 4",
+      "annotations": []
+    }
+  ]
+}

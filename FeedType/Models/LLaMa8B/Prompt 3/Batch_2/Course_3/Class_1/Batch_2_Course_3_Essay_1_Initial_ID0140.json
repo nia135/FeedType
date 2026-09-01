@@ -1,0 +1,412 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Early Train",
+      "annotations": []
+    },
+    {
+      "body": "Usually, the professor lets us out right when class is over. By the time I get to the train station, I can catch the 5 o’clock train. The ride is about an hour long, and it’s always the same group of people, faces I recognize but don’t know.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "when class is over",
+          "comment": "Tiny bit confusing in wording — maybe “when class is supposed to end” or something like that. ",
+          "context_left": "r lets us out right ",
+          "context_right": ". By the time I get ",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It appears that the prompt emphasizes developing a compelling conflict within the story, stating \"when I read these [submissions], the first thing I look for is the conflict of the story.\" Given this emphasis, consider revisiting the opening scene to introduce a clearer central conflict or opposition for Lily, beyond simply being late for the train. How does she desire something, and what obstacles stand in her way? Developing this core element will strengthen the foundation of your story.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "But today was different, the professor let us out 45 minutes early which is weird because the syllabus literally said that would never happen. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "happen. ",
+          "comment": "I like this title and the opening — you put me right into the story and told me a lot about the character immediately. It could work a little harder: “Usually, my bio professor lets us out early…” tells me a little more, for example. ",
+          "context_left": "id that would never ",
+          "context_right": "",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It appears that you've created a compelling narrative around the serendipitous meeting between Lily and Weston, but I'm curious - what's driving their connection beyond mere coincidence?\nIs there a deeper theme or message beneath the surface of this encounter that you're exploring through their interactions?\nConsider developing this aspect further to add richness and resonance to the story.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "I packed up my things, a little stunned. I could definitely make the earlier train. With a burst of energy from my Red Bull and the help of my trusty New Balances, I ran all the way to the station.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": " trusty ",
+          "comment": "Ah, the joy of a class getting out early! ",
+          "context_left": "l and the help of my",
+          "context_right": "New Balances, I ran ",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It appears that you've established a compelling central conflict - Lily's desire to connect with others versus her tendency to hold herself back. However, I'm curious to explore further whether this internal struggle serves as the primary driving force behind the entire narrative. You seem to introduce external conflicts such as the delayed train and the lost note, but does the core issue remain rooted within Lily's inner self-doubt and fear of rejection? Delving deeper into this aspect could strengthen the overall cohesion of the story.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": " I don’t recognize these people and by the looks of it, it looks like its going to be a full train ride. So I hurry in and find an open seat. I’m still trying to catch my breath a little from my run here so I reach for my water bottle.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "bottle.",
+          "comment": "I really like how you’re showing that the simplest change can really affect a life. ",
+          "context_left": " reach for my water ",
+          "context_right": "",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It appears that the conflict of the story isn't fully established within this opening scene. While we meet Lily and experience her excitement and anxiety about being on the early train, we aren't introduced to a clear opposing force or obstacle that drives the plot forward. To strengthen the story's foundation, consider identifying a central conflict that propels Lily through the rest of the narrative. Ask yourself, \"what does she truly desire or fear?\" and ensure that this core issue is present in every aspect of the scene.",
+          "model_category": "Concepts"
+        }
+      ]
+    },
+    {
+      "body": "“Mind if I sit here?” ",
+      "annotations": []
+    },
+    {
+      "body": " I looked up and saw a tall man standing next to me. I didn’t recognize him, which was surprising considering my college campus has about only 2,000 students. Then again, this wasn’t my usual train. I nodded, still a bit out of breath, and took a sip of my water.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "usual train. ",
+          "comment": "I was a little surprised that such a small college has its own stop, but maybe this is in NYC or similar? ",
+          "context_left": "ain, this wasn’t my ",
+          "context_right": "I nodded, still a bi",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It appears that the central conflict of your story revolves around Lily's desire to initiate a connection with a stranger she meets on the train, versus the obstacles preventing their interaction - such as the initial awkwardness, the train stopping unexpectedly, and ultimately losing the note with his contact information. However, upon closer examination, I'm wondering whether this conflict truly drives the entire narrative. Consider exploring ways to deepen the stakes or raise the tension surrounding this encounter, perhaps making the outcome more uncertain or emotionally resonant for Lily. How does this brief meeting shape her perspective or goals beyond simply sparking romance?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": " As he gets situated, I pull out a book I’m reading and that’s when I smelled it—a warm, inviting scent. Not too strong, not too weak. Just right. I always smell the men’s colognes when i’m at ULTA because they smell so good, so I recognized it when I smelt it. Ralph Laurens ralphs club. I hadn’t even talked to this man yet and I can just tell he has good taste.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "ralphs club.",
+          "comment": "Capitalize. Nice realization. ",
+          "context_left": "t it. Ralph Laurens ",
+          "context_right": " I hadn’t even talke",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You mention several details about the scene - sights, smells, sounds - but sometimes it's unclear why these elements matter or serve the larger purpose of the story. For instance, why does Lily specifically notice the scent of the cologne, beyond simply recognizing it as pleasant? How does this relate to her inner state or goals within the story? Consider making connections between these sensory details and the overall conflict or emotional arc of the tale.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": " I pretended to look out the window, sneaking a glance. Light blue eyes, like the sky, and a clean-shaven face. Wow. Fate must have been on my side today—I get out of class early and end up next to this ridiculously handsome guy.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "guy",
+          "comment": "Can you make it clear that earlier she doesn’t really even look at him? ",
+          "context_left": "diculously handsome ",
+          "context_right": ".",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a fantastic job incorporating elements of conflict and character interaction within the constraints of a tight word count.\nHowever, consider exploring ways to deepen the stakes or raise the emotional intensity of Lily's situation beyond simply being stuck on a delayed train. How does she stand to gain or lose from this encounter, and what risks is she willing to take to pursue connection with Weston?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": " I hadn’t talked to anyone new since freshman year, and now I am a junior. Plus, my New Year’s resolution was to put myself out there more. This was my chance. What could go wrong?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "my",
+          "comment": "I like the slow introduction here of what she wants — you could perhaps introduce the idea that she’s a loner or shy earlier? She doesn’t chat with anyone in the classroom, perhaps? ",
+          "context_left": " I hadn’t talked to anyone new since freshman year, and now I am a junior. Plus, ",
+          "context_right": " New Year’s resolution was to put myself out there more. This was my chance. What could go wrong?",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It appears that you've established a compelling central conflict - Lily's desire to connect with others versus her fear of rejection and awkwardness. However, I'm curious to explore whether this conflict drives the entire narrative arc of the story. You mention that this encounter with Weston represents \"my chance\" to break out of her shell, implying that she's been stuck in a rut. Can we delve deeper into why this particular interaction sparks such significance within her character growth trajectory? How does this event propel her towards greater self-awareness or transformation?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "But how was I going to do it? I could compliment his cologne, but I didn’t want him to think I was weirdly sniffing him. He was also reading a book—I could ask him about it.",
+      "annotations": []
+    },
+    {
+      "body": " I started getting nervous as the minutes ticked by. What if he got off at the next stop? I decided to create a diversion. I bent down to my bag, planning to “accidentally” drop something to start a conversation. Just as I was about to, the train slammed on the brakes. Hard. I was thrown forward, bracing for impact with the floor.",
+      "annotations": []
+    },
+    {
+      "body": "But then, a hand grabbed my arm, catching me before I could fall. My heart skipped a beat. I looked up to see him holding onto me, his face full of concern. ",
+      "annotations": []
+    },
+    {
+      "body": "“Are you alright?”  ",
+      "annotations": []
+    },
+    {
+      "body": "I felt my cheeks flush with embarrassment. I just look at him with a smile hoping he didn’t notice the blush creeping up my face. We both looked up as the PA system crackled, “Sorry for the inconvenience folks, there will be a delay due to an obstruction on the tracks.” ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I felt my cheeks flush with embarrassment. I just look at him with a smile hoping he didn’t notice the blush creeping up my face. We both looked up as the PA system crackled, ",
+          "comment": "This is a little repetitive. ",
+          "context_left": "",
+          "context_right": "“Sorry for the incon",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In order to strengthen this scene, consider developing the internal conflict within Lily as she navigates her awkward encounter with Weston. While we see her external reactions - flushing, smiling, laughing - we don't fully grasp why she's feeling anxious or hesitant around him. You've done a great job showing their budding connection, but exploring Lily's inner thoughts and emotions during this pivotal moment could add another layer of depth to the story.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Great. I got on the early train, and now I wouldn’t get home any sooner. But then again, it meant more time next to train guy. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "get home any sooner",
+          "comment": "You might consider having her say this aloud. ",
+          "context_left": " and now I wouldn’t ",
+          "context_right": ". But then again, it",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It appears that the conflict of the story isn't fully established within the target paragraph; however, upon closer examination, it becomes apparent that Lily's initial frustration turns into opportunity, creating a subtle internal conflict between her desire to leave the delayed train and her interest in engaging with \"train guy.\" To further strengthen the story, consider developing this inner struggle more explicitly, perhaps through Lily's thoughts or actions, making it clearer how she navigates this unexpected turn of events.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "As I sit up, I answer his question “Yeah, I’m alright. Thank you.”",
+      "annotations": []
+    },
+    {
+      "body": " He smiled back, his eyes crinkling at the corners. “Weston,” he said, offering his hand.",
+      "annotations": []
+    },
+    {
+      "body": "I shook his hand, taking a deep breath trying to calm the blushing of my cheeks. “Lily.”",
+      "annotations": []
+    },
+    {
+      "body": "He smiled again and turned back to his book. My stomach fluttered. I wanted to keep talking, but how? I didn’t want this moment to slip away before it even started.",
+      "annotations": []
+    },
+    {
+      "body": " Weston turned to me again. “Are you sure you didn’t get hurt?” His voice was warm, genuinely concerned. I glanced down and noticed a stethoscope peeking out of his bag. Med student. Made sense—the station was right next to the best med school in town. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "med",
+          "comment": "One thing to consider here is that she’s not really having a strong conflict — he is pretty easy to talk to and friendly (which is great in IRL) so she just has to respond. You might consider complicating this a bit. What if she’s supposed to be studying or has a sore tooth or something? ",
+          "context_left": "ht next to the best ",
+          "context_right": " school in town. ",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It appears that the conflict of the story revolves around Lily's desire to connect with others versus her fear of rejection and awkwardness. However, upon closer examination, I'm wondering whether this conflict is truly driving the plot forward. You've done a wonderful job creating a romantic encounter between Lily and Weston, but I'm left questioning why their meeting is significant beyond being a pleasant coincidence. Can you consider making the stakes higher or the obstacles greater for Lily to overcome in order to deepen the emotional resonance of the story? How does this interaction fit into Lily's larger journey or goals?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "I let out a small laugh, trying to play it cool. “Nope, all good,” I lied, not wanting his first memory of me to be as the girl who bonked her head on the seat.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I lied, ",
+          "comment": "This implies that she was hurt? Didn’t get that yet. ",
+          "context_left": ". “Nope, all good,” ",
+          "context_right": "not wanting his firs",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It appears that the conflict of the story revolves around Lily's desire to connect with others versus her fear of rejection and awkwardness. However, upon closer examination, I'm wondering whether the central conflict lies elsewhere - perhaps between Lily's initial hesitation to approach strangers and the unexpected connection she makes with Weston, leading to feelings of vulnerability and openness. Exploring this subtle shift in perspective could add depth to the narrative and reveal more about Lily's growth as a character.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": " He nodded, leaning back in his seat. “Good because it looks like we’re going to be here for a while.”",
+      "annotations": []
+    },
+    {
+      "body": "I took a deep breath. This was my chance. “Ralph polo ralphs club.” ",
+      "annotations": []
+    },
+    {
+      "body": "He looked at me, his eyebrows raising in surprise. “Yeah… how’d you know?”",
+      "annotations": []
+    },
+    {
+      "body": "I laughed, the tension easing a little. “I have a weird habit of smelling all the men’s colognes at ULTA. Yours is one of my favorites.” I braced myself, worried I sounded weird.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "favorites",
+          "comment": "Consider how this information might be given out in a different way? So we learn something new too? ",
+          "context_left": " Yours is one of my ",
+          "context_right": ".” I braced myself, ",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a wonderful job creating a vivid scene with the protagonist's encounter with \"train guy,\" and their subsequent conversation flows naturally. To further enhance this section, consider exploring the emotional resonance of Lily's initial hesitation and nervousness around approaching Weston - perhaps delve deeper into why she's hesitant to initiate contact, and how her feelings evolve as the interaction progresses. How does her personality shine through in these interactions, and what insights can be gleaned from her reactions to Weston's kindness and genuine interest?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "His face softened, “Wow, good nose, I’m surprised you can still smell it. I just finished a 10-hour clinical.”",
+      "annotations": []
+    },
+    {
+      "body": "That was all it took. We launched into an easy, flowing conversation. He told me about med school and his childhood, growing up helping his mom take care of his sick grandfather, which inspired him to become a doctor. I shared my undergrad struggles and ambitions.",
+      "annotations": []
+    },
+    {
+      "body": " I could tell he was a little older, but not by much. His positivity and energy were contagious, even after his long day. We laughed and joked, finding more in common than I expected. It felt like I had known Weston for years, even though it had only been about 40 minutes. The train finally started moving again, and I felt a wave of disappointment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "expected. ",
+          "comment": "This is a dream meet cute, but there’s not much of a plot here. ",
+          "context_left": "re in common than I ",
+          "context_right": "It felt like I had k",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "While the scene between Lily and Weston unfolds nicely, I'm curious - what's driving their interaction beyond mere coincidence? Is there a deeper reason why they connect, aside from being stuck together on a delayed train? Consider exploring ways to introduce subtle conflicts or tensions within their budding relationship, perhaps rooted in their individual goals, desires, or insecurities. How does their connection challenge either of them, making their encounter more meaningful and propelling the story forward?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "I looked at him. “Which stop is yours?”",
+      "annotations": []
+    },
+    {
+      "body": "His smile fell for a second. “The next one.”",
+      "annotations": []
+    },
+    {
+      "body": "He reached into his bag, pulling out a piece of paper and an expensive-looking pen, one that doctors have. He scribbled something down, shielding it with his hand like it was a big secret. As the train pulled up to his stop, he handed me the note. ",
+      "annotations": []
+    },
+    {
+      "body": "“Don’t open this until I’m off and you can’t see me anymore, okay?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "okay",
+          "comment": "Interesting. I 100% do not believe she didn’t open that note immediately. ",
+          "context_left": "n’t see me anymore, ",
+          "context_right": "?”",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a fantastic job incorporating elements of conflict into your story, particularly through Lily's desire to initiate a connection with Weston despite feeling nervous and uncertain. However, consider exploring ways to deepen the stakes of their interaction - what does she stand to gain or lose by pursuing this encounter, beyond simply having a pleasant experience? How can you heighten the emotional investment in their meeting, making the outcome more consequential for either character?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "I nodded, shoving the note into my pocket. We smiled at each other one last time before he stepped off the train. I watched as he disappeared into the crowd. ",
+      "annotations": []
+    },
+    {
+      "body": "As we pull away from that station, I realize I still have 30 minutes till my stop. I reached into my pocket to read this secret note: ",
+      "annotations": []
+    },
+    {
+      "body": "“Lily, I haven't smiled like that in a while. I’d like to get to know you better. Text me if you feel the same way. ;) – Weston”",
+      "annotations": []
+    },
+    {
+      "body": "His number was written neatly at the bottom. It was a corny little note, but it sure did put a smile on my face.",
+      "annotations": []
+    },
+    {
+      "body": "I tucked the note safely into my pocket and couldn’t help but smile as I stared out the window, replaying our conversation in my head. Time flew by, and before I knew it, my stop had arrived.",
+      "annotations": []
+    },
+    {
+      "body": "I quickly gathered my things, stuffing my book and water bottle into my bag, and hurried off the train. Reaching into my pocket to grab my phone—and the little note—I froze.",
+      "annotations": []
+    },
+    {
+      "body": " The note wasn’t there. My heart sank as I frantically patted down my other pockets. Nothing. ",
+      "annotations": []
+    },
+    {
+      "body": "Fear set in as the train’s doors began to close. I ran to the window of my seat just in time to see it—the note lying there, right where I’d been sitting.",
+      "annotations": []
+    },
+    {
+      "body": " As the train pulled away, my stomach dropped. The first guy I’d felt a spark with in years was slipping away, down the tracks.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "tracks",
+          "comment": "Ohhhh noooooooooAlysa, I really enjoyed this story. Who hasn’t dreamt of meeting their person on a boring commute home? And I found myself liking both Weston and Lily a lot (even if I am *slightly* skeeved out by how much older he must be?). In this draft, your conflict ends the story instead of occurring throughout — it’s a bit of a shock ending, for sure. I’d love to see you either develop a conflict throughout the story (maybe she really is hurt? Maybe one of them isn’t friendly at first? Maybe the ride itself keeps them separated in some way?) OR have a shorter buildup to her leaving the note on the subway, and then a bit more of her trying to get it back. (When I lived in NYC, this exact situation happened with me and my cell phone, and the person who was sitting next to me actually turned it in at the next stop and I got it back. Amazing! It can happen!). I’m not saying it has to work out for her, but the conflict needs to be in the story throughout. Happy to discuss! One other note is that I had trouble believing she didn’t slam that number into her phone ASAP…Great work, Sophie. Happy revising! Will need your note or revision by 9 AM on Tuesday, 3/11. Grade: A",
+          "context_left": "ping away, down the ",
+          "context_right": ".",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "It appears that the central conflict driving this story revolves around Lily's desire to connect with others versus her tendency to hold herself back. However, upon closer examination, I'm left wondering whether this internal struggle truly propels the plot forward. You've created a compelling scenario where Lily meets a charming stranger named Weston, and their connection sparks hope for potential romance. Yet, the stakes seem relatively low, and the obstacles appear minimal. To elevate this story, consider introducing a clearer external challenge or complication that tests Lily's resolve and forces her to confront her fear of vulnerability. Perhaps explore ways to heighten the emotional tension between Lily and Weston, making their eventual separation more impactful and leaving the reader invested in their reunion.",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

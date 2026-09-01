@@ -1,0 +1,199 @@
+{
+  "paragraphs": [
+    {
+      "body": "From Dreams of the Cathedral to Reality",
+      "annotations": []
+    },
+    {
+      "body": "M-Point: This story explores how places can be different from what we imagine and how comparing two cultures can teach us about diversity and traditions.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "In the introduction, I would add a few more sentences to enrich the content of the introduction; for instance, you may pose questions, include an anecdote, or add a quote, etc.",
+          "context_left": "M-Point: ",
+          "context_right": " story explores how ",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You demonstrate a good start towards exploring the concept of cross-cultural narratives, but consider delving deeper into the theoretical underpinnings behind this type of storytelling. Think about how your experiences reflect broader themes related to stereotyping, cultural bias, and the importance of experiential learning. How do your observations about the contrast between expectations and reality relate to existing theories on intercultural communication and perception? By engaging with these concepts, you'll add richness and nuance to your narrative.",
+          "model_category": "Concepts"
+        }
+      ]
+    },
+    {
+      "body": "Exposition: Before visiting St. Paul’s Cathedral in Pittsburgh, I imagined it as a tall and ancient building, with golden lights shining through colorful glass windows. I thought it would be a quiet and serious place, like the cathedrals I saw in movies. The name “St. Paul’s Cathedral” made me think of Europe and its old churches, full of history and solemn beauty. I expected to feel a sense of awe and silence as I walked through its grand doors.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "In the final draft, please remove the template.",
+          "context_left": "",
+          "context_right": "Exposition: Before visiting St. Paul’s C",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could add more sensory details to help readers fully immerse themselves in your initial impression of St. Paul's Cathedral. For example, describe the sights, smells, and emotions you associated with the \"tall and ancient\" building, such as the sound of distant chanting, the scent of incense wafting through the air, or the feeling of reverence that settled over you upon approaching the entrance. By incorporating more vivid descriptions, you'll transport your readers into your world and make their connection to your experiences even stronger.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Image Description: A dreamy picture of a grand cathedral surrounded by golden light, with tall spires and colorful stained glass windows.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Image Description: A",
+          "comment": "The images did not look like AI-generated. What program did you use?",
+          "context_left": "",
+          "context_right": " dreamy picture of a",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your cross-cultural narrative, consider elaborating on the specifics of how your preconceptions about St. Paul's Cathedral were shaped by media representations versus reality.\nFor example, you mention that \"I thought it would be a quiet and serious place,\" but could you elaborate on what particular scenes or stories from movies or books led you to form this expectation?\nAdditionally, describe how the contrast between your expectations and the actual atmosphere inside the cathedral affected your perception of other cultural icons, such as Tengwang Pavilion.\nBy providing more detailed explanations and connections, you'll strengthen the impact of your reflection on the importance of experiencing places with an open mind.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Conflict: When I finally visited St. Paul’s Cathedral, it was not as I had imagined. The building was beautiful, but the atmosphere felt different. Inside, the people were friendly, and the service was lively. It wasn’t as quiet and serious as I expected. I realized that my idea of a cathedral came from movies and books, not from real life. It surprised me how warm and inviting the place felt. Image Description: A realistic picture of a modern cathedral with people walking in and out, showing a warm and inviting place instead of a solemn one.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "It wasn’t as quiet and serious as I expected. I realized that my idea of a cathedral came from movies and books, not from real ",
+          "comment": "You may consider using a mix of simple and complex sentences. For instance, \"the Cathedral wasn't as quiet and serious as I expected; instead, I realized that my idea of a cathedral emerged not from real life, but from movies and books.\"",
+          "context_left": "service was lively. ",
+          "context_right": "life. It surprised m",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "It surprised me how warm and inviting the place felt.",
+          "comment": "I was surprised by how warm and inviting the place felt.",
+          "context_left": "not from real life. ",
+          "context_right": " Image Description: ",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your conflict section, consider elaborating on the specifics of what surprised you about the contrast between your expectations and reality upon visiting St. Paul's Cathedral. For example, you could describe particular sensory experiences, such as the sounds, smells, or textures that stood out to you during your visit. Additionally, exploring the emotions evoked by this unexpected discovery might add depth to your reflection. By incorporating more vivid descriptions and emotional resonance, you'll create a richer and more immersive account of your transformative experience.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your conflict section, consider elaborating on the specifics of what surprised you about the contrast between your expectations and reality upon visiting St. Paul's Cathedral. For example, you could describe particular sensory experiences, such as the sounds, smells, or textures that stood out to you during your visit. Additionally, exploring the emotions evoked by this unexpected discovery might add depth to your reflection. By incorporating more vivid descriptions and emotional resonance, you'll create a richer and more immersive account of your transformative experience.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Rising Action:This made me think of Tengwang Pavilion (滕王阁) in Nanchang, my hometown. Tengwang Pavilion is also famous and grand, but it is full of life. You can hear the sounds of families, see people taking pictures, and even buy snacks from street vendors nearby. It stands tall with its traditional curved roof and red pillars. Compared to the cathedral, the Pavilion is more open and lively, showing Nanchang’s everyday culture instead of being just a historical monument. Both places are important landmarks, but the atmosphere around them is very different.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is very different.",
+          "comment": "conveys different emotions",
+          "context_left": "osphere around them ",
+          "context_right": "",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "You ",
+          "comment": "Since this is a personal narrative, please use the first-person perspective consistently throughout the paper.",
+          "context_left": "it is full of life. ",
+          "context_right": "can hear the sounds ",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "To avoid vague pronouns, I would specify what you mean by \"this\" - St. Paul's Cathedral.",
+          "context_left": "Rising Action:This",
+          "context_right": " made me think of Te",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your rising action section, consider providing more sensory details about the contrast between Tengwang Pavilion and St. Paul's Cathedral. For example, you could describe the smells, textures, or sounds associated with each place. How do the sights, sounds, and sensations of Tengwang Pavilion - such as the smell of food from street vendors or the sound of children playing - compare to those found at St. Paul's Cathedral? By incorporating more vivid descriptions, you'll help readers fully immerse themselves in your cross-cultural comparison and better understand the significance of your discovery.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your rising action section, consider providing more sensory details about the contrast between Tengwang Pavilion and St. Paul's Cathedral. For example, you could describe the smells, textures, or sounds associated with each place. How do the sights, sounds, and sensations of Tengwang Pavilion - such as the smell of food from street vendors or the sound of children playing - compare to those found at St. Paul's Cathedral? By incorporating more vivid descriptions, you'll help readers fully immerse themselves in your cross-cultural comparison and better understand the significance of your discovery.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your rising action section, consider providing more sensory details about the contrast between Tengwang Pavilion and St. Paul's Cathedral. For example, you could describe the smells, textures, or sounds associated with each place. How do the sights, sounds, and sensations of Tengwang Pavilion - such as the smell of food from street vendors or the sound of children playing - compare to those found at St. Paul's Cathedral? By incorporating more vivid descriptions, you'll help readers fully immerse themselves in your cross-cultural comparison and better understand the significance of your discovery.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Image Description: A colorful scene of Tengwang Pavilion, showing traditional Chinese architecture and people enjoying the lively surroundings. Climax:Thinking about both places, I saw how my ideas of Pittsburgh and Nanchang were influenced by stereotypes. I thought all cathedrals were serious and quiet, and I thought all historical places in China were the same. But this comparison showed me how different cultures celebrate history in their own ways. Both places taught me that a place’s real beauty comes from the people and the life around it. I learned that I should experience places with an open mind instead of relying on assumptions.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "celebrate",
+          "comment": "celebrated - Please use the past tense consistently.",
+          "context_left": " different cultures ",
+          "context_right": " history in their ow",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "comes ",
+          "comment": "came",
+          "context_left": "place’s real beauty ",
+          "context_right": "from the people and ",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your climax, consider elaborating on the specifics of how your cross-cultural comparison challenged your stereotypes or assumptions about languages, places, and cultures. For example, you could describe particular moments during your visits to St. Paul's Cathedral and Tengwang Pavilion that stood out to you as unexpected or surprising, and explain how those experiences led you to question your previous notions. By providing more detailed anecdotes and insights, you'll help readers fully grasp the significance of your epiphany and the value of embracing diverse perspectives.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your climax, consider elaborating on the specifics of how your cross-cultural comparison challenged your stereotypes or assumptions about languages, places, and cultures. For example, you could describe particular moments during your visits to St. Paul's Cathedral and Tengwang Pavilion that stood out to you as unexpected or surprising, and explain how those experiences led you to question your previous notions. By providing more detailed anecdotes and insights, you'll help readers fully grasp the significance of your epiphany and the value of embracing diverse perspectives.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Image Description: A creative mix of cathedral spires and traditional Chinese pavilion roofs, showing the blend of two cultures.",
+      "annotations": []
+    },
+    {
+      "body": "Resolution:This experience helped me understand more about cultural and linguistic diversity. It also taught me not to make assumptions about places before visiting them. Nanchang and Pittsburgh are very different, but they both showed me how important it is to explore new places with an open mind. I now appreciate how each culture expresses its history through architecture and the way people interact with these spaces. Image Description: A symbolic image of a bridge connecting two cultures, with elements of both a modern cathedral and traditional Chinese architecture.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "Throughout the paper, please add non-English phrases/sentences from your mother tongue to enrich the content of the paper.",
+          "context_left": "Resolution:This",
+          "context_right": " experience helped m",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To further develop your resolution, consider exploring the implications of your newfound appreciation for diverse expressions of cultural heritage. How might this shift in perspective influence your interactions with others who come from different backgrounds? For example, you could describe a situation where you applied this lesson, such as engaging in a conversation with someone whose customs or values differ significantly from yours. By sharing this anecdote, you'll provide concrete evidence of how your cross-cultural narrative has impacted your personal growth and relationships.",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "paragraphs": [
+    {
+      "body": "Steel Forest: Built For No One",
+      "annotations": []
+    },
+    {
+      "body": "I’ve dreamed about Pittsburgh couple of times before I came here. Apparently, pictures on the internet, whether it’s from the publicity websites or from upper-class students, made a deep mark in my mind—the second biggest city in Pennsylvania, the city of steel, of course, the Pittsburgh Steelers team that prevails in audiences of American football.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "in ",
+          "comment": "the audiences",
+          "context_left": " team that prevails ",
+          "context_right": "audiences of America",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "mind—the",
+          "comment": "representing the second biggest city...",
+          "context_left": "e a deep mark in my ",
+          "context_right": " second biggest city",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "it’s",
+          "comment": "they were",
+          "context_left": "e internet, whether ",
+          "context_right": " from the publicity ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "I’ve",
+          "comment": "You may consider enriching the introduction with quotes, anecdotes, and/or questions.",
+          "context_left": "",
+          "context_right": " dreamed about Pitts",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "made",
+          "comment": "left",
+          "context_left": "per-class students, ",
+          "context_right": " a deep mark in my m",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: Can you clarify how your dreams about Pittsburgh relate to the assignment's focus on preconceptions based on descriptions or images? It's not immediately clear how these dreams were formed.",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: The paragraph introduces Pittsburgh, but it isn't clear how your dreams relate to the assignment's focus on \"a place in Pittsburgh.\" Could you clarify what specific location you're envisioning within Pittsburgh and how your dreams shaped your initial impression of *that particular place*?",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: The list of things that made a \"deep mark\" seems a bit disconnected. Can you clarify how the Pittsburgh Steelers, for example, contributed to your overall initial impression of the city in a way that's relevant to your later discussion of urban planning and \"Steel Forest\"?",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: The phrase \"made a deep mark in my mind\" is a bit vague. Can you clarify *how* these pictures made a deep mark? What specific feelings or ideas did they instill in you about Pittsburgh?",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: The phrase \"made a deep mark in my mind\" is a bit vague. Can you clarify what kind of \"mark\" these pictures made? Did they create a feeling of excitement, a sense of familiarity, or something else? Adding more specific language here will help the reader understand the impact these images had on your expectations.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "Back then, my impression on such cities was somehow single: skyscrapers which stood in the center of the city, in Pittsburgh that is downtown, and prosperous civil business, like shopping malls or grand public facilities—just like what I’ve observed in metropolitans around Asia. Meanwhile, I was expecting to rent an apartment in the downtown, since it seemed engaging to me, for integrating to the city’s culture atmosphere. Pittsburgh, imaged like a generous mother in my dreams, was going to embrace me by her warm arms.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "the downtown area",
+          "context_left": "gh that is downtown,",
+          "context_right": " and prosperous civi",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "I’ve observed in",
+          "comment": "observed - Please use the past tense more consistently throughout the paragraph.",
+          "context_left": "ties—just like what ",
+          "context_right": " metropolitans aroun",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " to me, for integrating",
+          "comment": "for me to integrate into the city's cultural atmosphere",
+          "context_left": "e it seemed engaging",
+          "context_right": " to the city’s cultu",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "single:",
+          "comment": "singular",
+          "context_left": " cities was somehow ",
+          "context_right": " skyscrapers which s",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "I'm a little unclear on how the expectation of renting an apartment downtown connects to your initial impression of the city based on internet pictures. Could you clarify the relationship between these two ideas to help the reader understand your thought process?",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of your initial impression relies heavily on broad generalizations about cities. To elaborate, could you provide specific details or examples of the \"prosperous civil business\" you envisioned, moving beyond just \"shopping malls or grand public facilities\"?",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "I'm finding the image of Pittsburgh as a \"generous mother\" a bit confusing here. Can you elaborate on why you chose that particular metaphor to represent your initial expectations of the city?",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The phrase \"somehow single\" is a bit vague. Could you elaborate on what you mean by \"single\" in this context? What specific aspects of your impression made it feel singular or limited?",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "Well, sometimes things are a far cry from what we anticipated. I still remember that was about the third or fourth day I arrived in the city. After a bus ride of roughly half an hour, the bus stopped under the PNC Bank building that almost goes through the sky. We suddenly fell to our anticipated mother Pittsburgh without realizing so. We took a little walk, the sense of contrast almost eaten me: the city seemed merely possess uncountable tall buildings, but there was nothing that engages normal people like us. To me, this is the actualization of the concept “Steel Forest”. Everything is built for business—what I mean by this is for those large-scale business that looks irrelevant to people’s daily life. Not to mention the idea of renting apartment, there’s barely any residential area there. That is, people there were separated, in other words, alienated, from those buildings; only few interactions with the city itself, and consequently, I may regard people there and buildings, or the business order, as two entities. This was exactly the point I was surprised about. This scene was never witnessed by me within the very limiting 18 years of my life. In my city, Fuzhou, the most flourish region would be Dongjiekou (东街口), it shares basically the same function with downtown of Pittsburgh, but diverges from it in mainly two respects: first, as what I mentioned above, although Dongjiekou has numerous commercial skyscrapers, but it’s centered by 东方百货 (Eastern Mall), which gathers people from everywhere of this city, and indeed, this mall isn’t as tall as other buildings, maybe this is the reason why it expresses certain intimate to people. Second, the residential area and business area are intersected—which implies that we live right in the place where the large-scale, maybe even international, trades are taking place. Additionally, I can feel genuine humanity and life (烟火气) there.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "that was about the third or fourth day",
+          "comment": "the third or fourth day after I arrived",
+          "context_left": "d. I still remember ",
+          "context_right": " I arrived in the ci",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": "Forest”. Everything ",
+          "context_right": "built for business—w",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " eaten ",
+          "comment": "consuming",
+          "context_left": "e of contrast almost",
+          "context_right": "me: the city seemed ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "",
+          "context_left": "eemed merely possess",
+          "context_right": " uncountable tall bu"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "are a",
+          "comment": "were",
+          "context_left": "l, sometimes things ",
+          "context_right": " far cry from what w",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "I would start a new sentence here.",
+          "context_left": "Well,",
+          "context_right": " sometimes things ar",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": ":",
+          "context_left": "f renting apartment,",
+          "context_right": "there’s barely any r",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: You mention feeling a sense of contrast, and that the city \"seemed merely possess uncountable tall buildings.\" Can you elaborate on what specifically contributed to this feeling of contrast? Providing more sensory details (sights, sounds, smells) of your initial experience in downtown Pittsburgh will help the reader understand the gap between your expectations and reality.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: Can you provide a bit more sensory detail to describe your initial experience arriving at the PNC building? For example, what did you see, hear, and feel that contributed to your sense of contrast and the feeling of being in a \"Steel Forest\"? Adding more specific details can help the reader understand and share your experience more vividly.",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: Can you provide more sensory details about your initial experience upon arriving at the PNC Bank building? Describing the sights, sounds, and smells you encountered could help the reader better understand your sense of contrast and the \"Steel Forest\" concept.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: You mention a \"sense of contrast\" that almost \"eats\" you. Can you clarify what this contrast was between, and how it made you feel so overwhelmed?",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: In the sentence, \"We suddenly fell to our anticipated mother Pittsburgh without realizing so,\" the phrase \"fell to\" is unclear. Could you clarify what you mean by \"fell to\" in this context? What action or experience are you trying to describe?",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: Can you describe what you mean by \"the sense of contrast almost eaten me\"? What specific sensory details (sights, sounds, smells) contributed to this feeling of being overwhelmed by contrast upon arriving at the PNC Bank building?",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "What is the reason behind this tremendous contrast? The answer appeared in my mind almost immediately: the strategy of urban planning in two countries/cultures is different. As a result of this difference, I observed another major contrast between Fuzhou and Pittsburgh, that is, people in Pittsburgh mostly live in houses that are concentrated in one area, while in Fuzhou, super-tall apartment buildings are most common choices (This also caused the atmosphere in residential community in Fuzhou is a lot indifferent than that in Pittsburgh, people in Pittsburgh might be more familiar with their neighbors and warmer to neighbors as well), in order to fit in the crowded downtown area. In short, this experience challenged my stereotype on city centers to a great extent—not all countries adopt solely one planning strategy; in China, commercial area overlaps residential area, but in the U.S. it’s the opposite, two areas are clearly separated.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "(This",
+          "comment": "This difference also resulted in residents in Pittsburgh acting more indifferent than those in Fuzhou.",
+          "context_left": "most common choices ",
+          "context_right": " also caused the atm",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " two",
+          "comment": ", and the two areas",
+          "context_left": ". it’s the opposite,",
+          "context_right": " areas are clearly s",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "overlaps with",
+          "context_left": "ercial area overlaps",
+          "context_right": "residential area, bu",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Pittsburgh,",
+          "comment": "Fuzhou?",
+          "context_left": " between Fuzhou and ",
+          "context_right": " that is, people in ",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: In this paragraph, you state that the urban planning strategies are different, leading to different housing situations. Can you elaborate on *how* the planning strategies differ? What specific policies or approaches contribute to the separation of residential and commercial areas in Pittsburgh versus the integration in Fuzhou?",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: Can you elaborate on what specific aspects of \"urban planning strategy\" contribute to the differences you observed in housing and community atmosphere between Fuzhou and Pittsburgh?",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: In this paragraph, you state that the urban planning strategies differ between the two countries. Could you elaborate on what specific aspects of urban planning contribute to the differences you observe in housing and community atmosphere?",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: You mention differences in urban planning strategies, but could you elaborate on what specific aspects of those strategies lead to the residential and commercial separation you observed in Pittsburgh versus the integration you see in Fuzhou? For example, are there zoning laws or historical development patterns that contribute to these distinct urban landscapes?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "What I recognized as a piece of take-away information was that, there are multiple ways to arrange the city, while what I’ve seen was not the only way, obviously. Otherwise, I believe all of them possess their own merits and demerits. Take Fuzhou as an example, the cost of integrate residences and business is everyone lives in crowded places, while much more people in Pittsburgh own larger space for daily activities. Again, 万物并育而不相害，道并行而不相 悖 (Everything could prosper without harming each other, paths could be parallel without contradict each other), cultures are beautiful due to the fact that it’s plural.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "from the cross-cultural comparison",
+          "context_left": "a piece of take-away",
+          "context_right": " information was tha",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "it’s ",
+          "comment": "they are",
+          "context_left": "ue to the fact that ",
+          "context_right": "plural.",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "contradicting",
+          "context_left": "l without contradict",
+          "context_right": " each other), cultur",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "Please fix the run-on sentence: , and that what I've seen is not the only way.",
+          "context_left": "to arrange the city,",
+          "context_right": "while what I’ve seen",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "integrate residences and business",
+          "comment": "combing residential and business areas is that...",
+          "context_left": "xample, the cost of ",
+          "context_right": " is everyone lives i",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: You mention that \"all of them possess their own merits and demerits,\" but you only provide one example. Elaborate further on both the advantages and disadvantages of each urban planning strategy to strengthen your argument.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: Can you elaborate on what you mean by \"multiple ways to arrange the city?\" Providing specific examples of these different arrangements, beyond just the residential/commercial divide, would strengthen your point and help the reader understand the nuances of urban planning you're observing.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: The phrase \"multiple ways to arrange the city\" is vague. Can you clarify what aspects of city arrangement you are referring to?",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Clarification: In what specific ways do these different approaches to city planning, with their respective merits and demerits, influence the daily lives of the people living in Fuzhou and Pittsburgh?",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: In what specific ways do these different approaches to city planning reflect the values or priorities of each culture?",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Gates of Campus In My Mind – My Visit To University of Pittsburgh Before I arrived in Pittsburgh, I was perfectly sure what a university should look like. Based on my experiences with Chinese universities, I expected a remarkable entrance— maybe a stone arch or a large gate carrying the institution name in bold, graceful lettering. The University of Pittsburgh would, in my view, have a similar arrangement, with gates or walls around the campus and precisely identifying its limits. Once I passed through the door, I thought I would find everything orderly inside—classrooms, dorms, administrative buildings, student facilities, libraries—all enclosed on university property. A university, to me, was supposed to be a self-sufficient environment, a learning universe cut apart from the outside distractions of metropolitan life.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Before",
+          "comment": "You could use dialogues, quotes, etc. to enrich the content of the first paragraph.",
+          "context_left": "rsity of Pittsburgh ",
+          "context_right": " I arrived in Pittsb",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is fulfilling the task constraints regarding the inclusion of your first language (L1). Please revise this section to integrate words or phrases from your native language to demonstrate the cross-cultural perspective required by the assignment rubric.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Still, I was surprised when I finally made it to the University of Pittsburgh. There was no magnificent gate, no large stone arch to indicate my arrival, no one spot where I would declare, \"Here begins the university.\" Rather, the university melted into the city and was evident on several streets and blocks. Rising alongside stores, restaurants, and offices, university buildings created a complex network of academic and urban life. I first found this perplexing; I looked for the \"main gate\" but never came upon one. Without a clear barrier, the campus seemed to have no beginning or finish, no change from the \"outside world\" into the \"academic world.\" Universities are set up in my hometown as contained spaces. From the crowded streets of the city to the quiet, concentrated atmosphere of academics, a clear gate defines the change. It fosters exclusivity; once you past those gates, you belong to a unique group committed to education and personal development. It was almost strange to me not having this function at the University of Pittsburgh. Though I had imagined the university as a haven for students, a universe unto itself, it was actually part of the greater city and interacted with in a way I had never seen before.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "with in",
+          "comment": "the city",
+          "context_left": "city and interacted ",
+          "context_right": " a way I had never s",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "you ",
+          "comment": "Please use the first-person perspective consistently throughout the paper.",
+          "context_left": "s exclusivity; once ",
+          "context_right": "past those gates, yo",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " you ",
+          "comment": "Same here.",
+          "context_left": "ou past those gates,",
+          "context_right": "belong to a unique g",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "It was",
+          "comment": "actually acted as part of the city and interacted with it ...",
+          "context_left": "rsonal development. ",
+          "context_right": " almost strange to m",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Please refine the sentence \"once you past those gates\" by correcting the word choice to \"passed,\" as this is the past tense verb form required here. Ensuring grammatical accuracy in these descriptive sections will help your reader focus more clearly on your insightful cultural observations.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You have a minor grammatical error in the sentence \"once you past those gates\"; please change \"past\" to the verb \"pass\" to correctly indicate the action of moving through the gates.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is the requirement to include words or phrases from your first language (L1). Please integrate specific terminology or expressions from your native language into this section to better illustrate the cultural contrast you are describing.",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In the target paragraph, you mention that your hometown universities foster exclusivity, but you do not explain how this concept of \"exclusivity\" is viewed within your culture. Please elaborate on whether this exclusivity is perceived as a positive sense of prestige or a negative barrier, as this would deepen the reader's understanding of your cultural perspective.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "This awareness made me consider the more general cultural variations between American and Chinese university campuses. The enclosed architecture of the institution in my city supports a feeling of identification and belonging. Students live, study, and interact inside a well defined area that helps to build close relationships among them. The university's physical location, distant from the distractions of ordinary urban life, is a psychological one as well; it is a place set just for education. By contrast, the open system of the University of Pittsburgh points to an other ideology. Here, education is included into the society rather than occurring apart. The university is a component of the city itself, not an other entity.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " to",
+          "comment": "Please use the past tense more consistently",
+          "context_left": "ined area that helps",
+          "context_right": " build close relatio",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "supported",
+          "context_left": " in my city supports",
+          "context_right": " a feeling of identi",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: To strengthen your analysis of the cultural differences, consider providing a specific example of how the \"open system\" of the University of Pittsburgh physically integrates with the city, such as mentioning a particular street or common area where students and city residents naturally interact. Adding this concrete detail would better illustrate your claim that education here is \"included into the society\" rather than occurring in isolation.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is elaboration, as you have identified a strong contrast between the two educational philosophies but have not yet integrated the required L1 (first language) terminology to illustrate these cultural differences. Please expand your analysis by incorporating specific Chinese terms or concepts that capture the cultural values of \"discipline\" and \"identification\" you described, as this would provide a more authentic cross-cultural perspective in line with the assignment goals.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Examining the University of Pittsburgh, I started to see both parallels and contrasts with the university in my hometown. Fundamentally, they consisted in libraries, classrooms, student lounges, and study areas—the same basic components. Still, the manner these places were set out was rather different. Everything in my hometown is focused in one, contained region. Students walk between buildings without crossing the specified boundaries of the university. The experience is immersive, like living in a little village devoted just to education.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": "hing in my hometown ",
+          "context_right": "focused in one, cont",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": "ity. The experience ",
+          "context_right": "immersive, like livi",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your essay is missing the required inclusion of words and phrases from your first language (L1) as specified in the assignment rubric. Please incorporate specific terms or expressions from your native language into this section to highlight the cultural contrast you are describing.",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To better align with the assignment's requirement to incorporate elements of your first language, please integrate specific words or phrases from your native language into this paragraph to illustrate the cultural differences you are describing.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "At Pittsburgh University, nevertheless, the lines separating the institution from the city are hazy. Walking from one building to another, students stroll along public streets past persons not connected to the university community. Along the streets are coffee shops and bookstores for city dwellers as well as students. On a conventional Chinese university, this transparency would be rare in terms of interactions between students and the surrounding community. While an enclosed campus offers a feeling of concentration and unity, an open campus promotes flexibility, independence, and interaction with the outside world, I started to realize.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Pittsburgh",
+          "comment": "the University of Pittsbrugh",
+          "context_left": "At ",
+          "context_right": " University, neverth",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The rubric requires you to include words and phrases from your first language (L1) in your narrative, but this paragraph is written entirely in English. Please incorporate relevant terms or phrases from your native language to highlight your cultural perspective and satisfy the assignment requirements.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "This encounter let me rethink the interaction between architecture and culture. China's contained university concept captures ideas of discipline, fit, and uniqueness. The well defined limits foster intellectual commitment by means of a disciplined, concentrated surroundings. Conversely, the University of Pittsburgh's open campus represents American ideas of freedom, integration, and accessibility. Education is not limited here; rather, it is entwined with daily life and motivates students to view learning as something occurring in all spheres of their surroundings rather than only in classrooms.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "let",
+          "comment": "made",
+          "context_left": "This encounter ",
+          "context_right": " me rethink the inte",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "it is",
+          "comment": "was",
+          "context_left": "mited here; rather, ",
+          "context_right": " entwined with daily",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " is ",
+          "comment": "was",
+          "context_left": "ssibility. Education",
+          "context_right": "not limited here; ra",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The rubric requires you to incorporate words and phrases from your first language (L1) to demonstrate your cultural perspective. Please integrate specific terms or phrases in your native language that describe the concepts of \"discipline\" or \"community\" to better highlight the cross-cultural contrast you are discussing in this paragraph.",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The rubric requires the inclusion of words and phrases from your first language (L1) to enrich your cross-cultural narrative. Please integrate specific terms or phrases from your native language into this paragraph to better illustrate the cultural concepts you are discussing.",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The rubric requires you to include words and phrases from your first language (L1) to reflect your cross-cultural experience. Please integrate specific terms or phrases in your native language into this analysis of architecture and culture to better illustrate the cultural contrast you are describing.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "This insight let me see what constitutes a university environment from another side. I used to think that only physical barriers—those of walls and gates separating the academic world from everything else—could help one to develop a strong feeling of identity and belonging. But my time at the University of Pittsburgh let me realize that a university does not have to be surrounded to build a feeling of community. While pushing students to interact with the surroundings, an open campus can nonetheless foster a strong intellectual atmosphere.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "let me see ",
+          "comment": "allowed me to see",
+          "context_left": "This insight ",
+          "context_right": "what constitutes a u",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "can",
+          "comment": "could",
+          "context_left": "ngs, an open campus ",
+          "context_right": " nonetheless foster ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: In this reflection, consider adding a specific example or a brief sensory detail from your visit to the University of Pittsburgh that illustrates how an open campus fosters this \"intellectual atmosphere\" without physical walls. Expanding on this would help bridge the gap between your abstract realization and the concrete experience you described earlier in the essay.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: In this paragraph, you effectively summarize your shift in perspective, but you should deepen your analysis by explicitly connecting this realization back to the specific cultural values you mentioned earlier. Consider explaining exactly how an open campus environment fosters a sense of community without physical barriers, perhaps by providing a concrete example of an interaction you observed between students and the city.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "In the end, this encounter helped me to see how many cultures shape the places where we live and study. A university is more than just its physical form whether contained or open. It is a place where community, knowledge, and culture collide. My trip to the University of Pittsburgh let me realize how various campus layouts capture various cultural viewpoints on community, identity, and education. More crucially, it made clear to me that a university cannot have one \"correct\" model of existence. Whether closed or open, every design represents the values of the society it serves and has certain special advantages.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " is",
+          "comment": "was",
+          "context_left": " study. A university",
+          "context_right": " more than just its ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "In the",
+          "comment": "Throughout the paper, please add non-English phrases or sentences from your mother tongue to enrich the content of this paper.",
+          "context_left": "",
+          "context_right": " end, this encounter",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "let",
+          "comment": "made",
+          "context_left": "rsity of Pittsburgh ",
+          "context_right": " me realize how vari",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "represented",
+          "context_left": "ry design represents",
+          "context_right": "the values of the so",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The rubric requires you to include words and phrases from your first language (L1) within your narrative to demonstrate linguistic diversity. Please integrate specific terms or phrases from your native language into this concluding section to better fulfill the assignment's cross-cultural requirement.",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your concluding paragraph effectively summarizes your insights, but the rubric requires you to include words or phrases from your first language (L1) to reflect your cross-cultural experience. Please incorporate specific terms from your native language that capture the cultural values or architectural concepts you are discussing to better align with the assignment's requirements.",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The assignment rubric requires you to include words and phrases from your first language (L1) within your narrative, which is currently missing from your draft. Please revise your essay to integrate specific L1 terms that help illustrate your cultural perspective on university life.",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your conclusion effectively summarizes your reflections, but the rubric requires you to incorporate words and phrases from your first language (L1) to demonstrate your cross-cultural narrative. Please revise this section to include specific L1 terminology that relates to your discussion of campus architecture or cultural identity.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    }
+  ]
+}

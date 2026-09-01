@@ -1,0 +1,192 @@
+{
+  "paragraphs": [
+    {
+      "body": "My Language",
+      "annotations": []
+    },
+    {
+      "body": "I have struggled with my language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age. Most standardized tests showed that I did \"poorly” and wasn’t up to grade level in my fluency and comprehension. I was given an IEP, which was intended to help individualize how I learned. Education Week magazine describes an IEP as, “An Individualized Education Program, or IEP, is a program tailored to meet the individual needs of students with disabilities. The program is written in collaboration between a child’s school district, their parent or guardian, and sometimes, the student.” Although the IEP did help address my issues with language, it wasn’t the thing that helped me learn to communicate and read effectively. My supportive teachers, friends, and family members made all of the difference. I realized that I’m lucky to have the experiences and people who support me because not all kids who shared my problems had these advantages.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "have struggled with my language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age. Most standardized tests showed that I did \"poorly” and wasn’t up to grade level in my fluency and comprehension.",
+          "comment": "Surprising and engaging details :)",
+          "teacher_category": "Praise",
+          "context_left": "I ",
+          "context_right": " I was given an IEP,"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is the \"quote burger\" structure. While you have successfully introduced the definition of an IEP, the quote currently sits as an isolated block of information; to make it \"point\" to your own claim, you need to follow it with a clear analytical sentence that explains how this definition relates to your personal struggle or your argument about the limitations of the school system. By explicitly connecting the institutional definition of an IEP to your own experience, you will move beyond simple summary and ground the research in your personal narrative.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "I was not the only kid I knew with an IEP, so I was never quite alone in that regard. Due to my struggles, I was put into groups with kids at my level. However, being separated from the rest of the students made me feel as if there was something wrong with me and with the others in my group. This division lasted until 8th grade. I do not know what happened to most of those kids in my group after 8th grade, but I hope they had a better experience going into high school like I did. Page 1",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "This division lasted until 8th grade. I do not know what happened to most of those kids in my group after 8th grade, but I hope they had a better experience going into high school like I did.",
+          "comment": "I'm interested! I wonder, though, do you mean that you _did_ have a good experience going into high school?  Because, if so, then the next line (which is about a negative experience) doesn't seem logically connected, right?",
+          "teacher_category": "Clarification",
+          "context_left": "others in my group. ",
+          "context_right": " Page 1"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You’ve identified a powerful emotional core in this paragraph—the sense of isolation caused by educational tracking. To elevate this beyond a simple report of your experience, try to \"show\" the reader exactly what that separation felt like in the classroom. Instead of just stating that you felt like \"there was something wrong,\" describe a specific moment or sensory detail from those group sessions that highlights the divide between you and the other students; this will help ground your reflection in a concrete, personal image that supports your central claim about the flaws in our education system.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "At one point, I felt like I was trapped in a box. This realization came during a heated argument with my dad about which high school I should go to next year at the end of 8th grade. I shared my interest in engineering and explained how my existing middle school, which was about to become a high school the next year was not offering that class unlike Taylor Allderdice. My middle school made me feel as though my education and personal development were being ignored in favor of more promising kids. My dad only really listened to my argument when I yelled about feeling like I needed to break away from the box I was in. My dad realized that being in a different environment would help me progress as a student. I really liked his willingness to consider things from my point of view, and his decision eventually had a huge impact on my life and how I see myself. When I enrolled in a high school unrelated to my middle school, I finally found a way to thrive.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "When I enrolled in a high school unrelated to my middle school, I finally found a way to thrive.",
+          "comment": "Aha! Yes. A positive experience :)",
+          "teacher_category": "Praise",
+          "context_left": "d how I see myself. ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is **developing the \"box\" as a central metaphor**. You have introduced a powerful image here, but you currently use it primarily to describe a specific logistical conflict about choosing a high school. To elevate this, try to \"show\" the reader what the \"box\" actually felt like—perhaps by describing the sensory experience of being in that restrictive classroom environment—so that the metaphor becomes a consistent lens through which we understand your internal struggle with language and identity, rather than just a description of a single argument with your father.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "In high school, I had some very encouraging teachers, and the confidence they had in me was directly related to my confidence in myself. Aside from my teachers, my new friends made a significant impact on my confidence. Everyone deserves to have someone who believes in them. I was particularly close to my Engineering teachers, who supported me and gave me leadership roles as a TA and let me help out in their classrooms. These teachers and more helped me move from basic English to AP English.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Everyone deserves to have someone who believes in them.",
+          "comment": "great line :)",
+          "teacher_category": "Praise",
+          "context_left": "t on my confidence. ",
+          "context_right": " I was particularly "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "This paragraph does a great job of highlighting the importance of mentorship, but it currently functions as a list of positive influences rather than a reflection on your central claim. To better align with your essay’s \"center of gravity\"—the idea of breaking out of the \"box\" of low expectations—try to connect these specific experiences to your internal transformation. Instead of just stating that these teachers helped you reach AP English, show us *how* their belief specifically dismantled the labels or self-doubt you carried from middle school.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Our education system is flawed. The huge issue of systemic racism plagues our country. There are inherent problems with disparities in learning differences. I noticed that the other kids in my IEP group mostly did not share the same skin color as my own. I didn't understand back then that the reason for this was way deeper than I would know. The Learning Disability Association of America reports that, “In Dec. 2016, the United States Department of Education (USDOE) finalized guidance and regulations to address racial and ethnic disparities in special education eligibility, placement, and school discipline and the commonly accepted fact that Page 2",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Our education system is flawed. The huge issue of systemic racism plagues our country. There are inherent problems with disparities in learning differences.",
+          "comment": "I'm interested in the ideas you're introducing here, but can you transition more smoothly and logically from your experience in English class to these very big ideas that might not have an obvious connection to you?",
+          "teacher_category": "Task Constraints",
+          "context_left": "",
+          "context_right": " I noticed that the "
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The Learning Disability Association of America reports",
+          "comment": "Nice introducing template and good quote!",
+          "teacher_category": "Praise",
+          "context_left": " than I would know. ",
+          "context_right": " that, “In Dec. 2016"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your target paragraph introduces a vital, high-stakes realization about systemic inequity, but it currently functions more like a report than a personal reflection. To better align with the \"quote burger\" requirement, ensure the quote doesn't just sit there as a fact; use your explanation to bridge the gap between that national data and your specific memory of the other students in your group. By explicitly connecting the \"overrepresentation\" mentioned in the source to the faces of the children you sat beside, you will move beyond summary and anchor this big idea firmly within your own unique narrative perspective.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "‘…children of color with disabilities are overrepresented within the special education population’ (King, 2016).” If I struggled with language as a white person of average class and education, what was it like for children who weren’t as supported? I realize that my language struggles aren’t as complicated as they are for others, and I wish the best for their futures.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "don't forget those quote burger explaining templates!",
+          "teacher_category": "Task Constraints",
+          "context_left": "lation’ (King, 2016)",
+          "context_right": ".” If I struggled with language as"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "This paragraph is a great start to your analysis, but it currently misses the \"explanation\" portion of the quote burger. You have successfully introduced the quote and provided the citation, but the requirement is to explain how that evidence connects to your personal claim about systemic inequality. Instead of moving immediately to your own experience, take a moment to explicitly analyze what that statistic reveals about the \"flawed\" system you mentioned earlier; by bridging the gap between the national data and your personal reflection, you will create a stronger, more purposeful argument that moves beyond mere reporting.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Despite my struggle with language, I loved learning, but not learning from books, but learning by touching and feeling and listening to things. I loved music and playing outside and so did all of the other kids in my school, but what made me and a few other kids different was the fact that we couldn’t read as well as most of our grade. So, while they got more time to do things like listening to music and playing outside me and that selected group of kids stayed back. My middle school didn’t mean to make us feel ostracized from the rest of the school, but that was the thing that ended up happening.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Despite my struggle with language, I loved learning, but not learning from books, but learning by touching and feeling and listening to things. I loved music and playing outside and so did all of the other kids in my school, but what made me and a few other kids different was the fact that we couldn’t read as well as most of our grade. So, while they got more time to do things like listening to music and playing outside me and that selected group of kids stayed back. My middle school didn’t mean to make us feel ostracized from the rest of the school, but that was the thing that ended up happening.",
+          "comment": "I'm very interested in these ideas, but I'm not quite sure--yet--how they're logically connected to big ideas you've introduced about getting support from your father and your teachers. What is the central focusing idea of this essay? What big ideas are necessary to develop that idea?",
+          "teacher_category": "Clarification",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The single most important focus for this paragraph is **strengthening your \"I say\" by connecting these personal memories to your central claim.** You have a great start here with the contrast between \"book learning\" and your kinesthetic strengths, but it currently functions more as a narrative recollection than an analytical point. To elevate this, try explicitly connecting your experience of being \"stayed back\" or \"ostracized\" to your broader argument about systemic educational failures—show how this specific memory serves as evidence for your critique of how schools handle learning differences, rather than just describing the feeling of being left behind.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "When you give kids new strategies, and the ability to learn and grow instead of ostracizing them, you give them an opportunity to become the best version of themselves. I don’t believe that my middle school taught me to read well or enjoy reading. I know it was my father who sat down with me every night by my bedside table reading me stories while encouraging me to read with him. Those nights taught me how to read. I don’t know if the other kids in my IEP group had the same experience that was so important for my own growth. Now I know through firsthand experiences that it's important for all students to have the chances, I was lucky enough to have mastered my language and I hope everyone is given an equal opportunity to as well.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "I know it was my father who sat down with me every night by my bedside table reading me stories while encouraging me to read with him. Those nights taught me how to read. I don’t know if the other kids in my IEP group had the same experience that was so important for my own growth.",
+          "comment": ":)",
+          "teacher_category": "Other",
+          "context_left": "l or enjoy reading. ",
+          "context_right": " Now I know through "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is **developing your own \"I say\" voice** by connecting your personal narrative to your broader, analytical claim. You have a powerful, moving account of your father’s nightly support, but it currently serves as a conclusion to your story rather than evidence for your argument about educational equity. To strengthen this, try to explicitly link those bedside reading sessions to your earlier point about the limitations of the school system; for example, you might explain how your father provided the \"individualized instruction\" that the school failed to offer, thereby reinforcing your critique of how institutions often fall short for students who struggle with language.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "To live in a box means to be trapped by the pre conceived notions given by other people, needing to break free from the expectations set by authority figures who bring you down, Page 3",
+      "annotations": []
+    },
+    {
+      "body": "breaking free to go and start a new chapter leaving the cage behind, then realizing all that you are leaving behind knowing you must regardless, wishing the best for those still stuck that you couldn't bring with you.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I'm interested in this poem. It introduces some powerful ideas.",
+          "teacher_category": "Praise",
+          "context_left": "wing you must regard",
+          "context_right": "less, wishing the be"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "This concluding sentence effectively captures the emotional \"center of gravity\" of your essay, but it currently functions as a long, fragmented list of clauses rather than a polished final thought. To strengthen this, consider using more precise verbs and breaking the run-on structure to emphasize your personal growth; for example: \"Breaking free meant leaving the cage behind and starting a new chapter. Yet, as I moved forward, I couldn't help but look back—wishing the best for those who remained trapped in the system I was lucky enough to escape.\" This revision would provide a more powerful, purposeful ending that mirrors the reflective depth of your earlier insights.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "Citations https://www.edweek.org/teaching-learning/what-is-an-iep-individualized-education- programs-explained/2023/07 https://ldaamerica.org/lda_today/disproportionate-identification-of-students-of-color-in- special-education/#:~:text=2016%2C%20the%20United%20States%20Department%20of%20Education ,with%20disabilities%20are%20overrepresented%20within%20the%20special Page 4",
+      "annotations": []
+    }
+  ]
+}

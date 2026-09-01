@@ -1,0 +1,155 @@
+{
+  "paragraphs": [
+    {
+      "body": "Importance of Oysters",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Importance of Oysters",
+          "comment": "this title feels like the title of a report. What's really at the heart of your essay?",
+          "teacher_category": "Task Constraints",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for your opening paragraph is establishing a clear central claim. Currently, the introduction functions primarily as an overview of the topic rather than a focused argument that connects the scientific research to your personal perspective. Please revise this section to state a specific thesis that explains why the restoration of oyster populations is vital to your local community and personal experience.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Oysters, a weird seemingly weird, unimportant, irrelevant mollusk in the water, to basically anyone who knows what they are. However, if you look at them at a deeper level, you realize just how extraordinary and vital these little sea creatures are. Throughout the recent years oyster harvesting has become more and more common, making overharvesting and the dwindling population of oysters a growing concern for scientist, organizations, and communities on the Chesapeake Bay. One of the main organizations working to help restore, conserve, and promote the vitality and quantity of oysters is NOAA Fisheries (National Marine Fisheries Service and branch of National Oceanic and Atmosphere Administration.) NOAA Fisheries has been working tiredlessly to restore the lost populations of oysters in the different tributaries of the Chesapeake Bay. In the article, Oyster Reef Restoration in the Chesapeake Bay: We’re Making Significant Progress, NOAA Chesapeake Bay Office informs us on the importance oysters have on the Chesapeake Bays water health, ecosystem, and the economy surrounding the Bay. They illustrated their point by developing several important ideas throughout the article. First, NOAA explains the effects oysters have on the ecosystem of the Chesapeake Bay, providing habitats for species, their ability to filter and clean the water, and their importance in the economy of the Chesapeake Bay communities. Oysters have major effects on the ecosystem in the water from improving the water quality, providing habitat to the animals that live in the reefs, stabilizing coastal sediments, and even help fight against climate change. Next, the article states the different ways how the oyster population declining from over harvesting and disease is starting to have a negative impact on the water quality of the Chesapeake Bay. Finally, NOAA proposes the different ways they are trying to conserve and restore the oyster population in the Chesapeake Bay, by opening oyster hatcheries, wild harvest sectors, aquaculture, and reef restoration, all resulting in NOAA reaching eight of their ten targets in reef restoration by 2023.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "In the article, Oyster Reef Restoration in the Chesapeake Bay: We’re Making Significant Progress, NOAA Chesapeake Bay Office informs us on the importance oysters have on the Chesapeake Bays water health, ecosystem, and the economy surrounding the Bay.",
+          "comment": "Nice job :)",
+          "teacher_category": "Praise",
+          "context_left": "the Chesapeake Bay. ",
+          "context_right": " They illustrated th"
+        },
+        {
+          "type": "note",
+          "comment": "Do you need this more general/traditional intro? What if you started with your summary? Let's talk",
+          "teacher_category": "Clarification",
+          "context_left": "g and the dwindling ",
+          "context_right": "population of oysters a growing concern for scientist, organizations, and communities on the"
+        },
+        {
+          "type": "note",
+          "comment": "Great summary templates and writing moves throughout this paragraph!",
+          "teacher_category": "Praise",
+          "context_left": "improving the water quality, providing habitat to the animals that live in the reefs, stabilizing",
+          "context_right": " coastal sediments, "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your opening paragraph relies too heavily on summarizing the article’s contents rather than establishing your own central claim or perspective. Please revise this section to focus more on your specific argument regarding oyster restoration, using the summary only as a brief tool to support your personal point of view.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Oysters are very important for the filtration and health of the water in the Chesapeake Bay. They filter water by pumping it through their gills, absorbing the excess nutrients, trapping particles into their mucus, and letting the clean filtered water exit their gills. This is very important to maintain the clarity and to ensure there is not an excess of nutrients in the water. “Oysters provide net environmental benefits by removing excess nutrients and improving water quality” (NOAA Eastern Oyster: Aquaculture.) This explains how oysters and large oyster communities can benefit the ecosystem in the water and improve the health of the river.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Is this more summary? Do you need all of this information to \"point\" your reader to your own essay. Remember that this essay is not a report but, rather, an essay based on your own agenda.",
+          "teacher_category": "Task Constraints",
+          "context_left": "hesapeake Bay. They ",
+          "context_right": "filter water by pumping it through their gills, absorbing the excess nutrients, trapping particles"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In this paragraph, your explanation of the quote is a bit repetitive, as it mirrors the information you already provided in the preceding sentences. To better integrate this quote, try to connect it more directly to your own perspective or the specific environmental goals you mentioned, rather than simply restating that it explains how oysters benefit the ecosystem.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "The article, Oyster Reef Restoration in the Chesapeake Bay, from NOAA was very helpful and related to the topic of oysters and river health that I have been interested in, restoration of oyster habitats and colonies. Throughout the article, how oysters impact the river, why we need to restore their habitat, the reasons to why their colonies were dying, how we can restore their habitats, and how many oyster colonies have been restored out of their overall long-term goal. NOAA has been working feverishly since 2015 to reach their goal of restoring ten tributaries, “Experts monitor each restored reef at 3 and 6 years post-restoration to see how big the reefs are and how many oysters live there. In Maryland, for example, from fall 2015 through fall 2020, they monitored 203 3-year-old reefs and 70 6-year-old reefs. Of these reefs, 96 percent of the 3-year old reefs and 99 percent of the 6-year-old reefs met the minimum criteria for oyster density for success. A full 100 percent of the monitored reefs met the structural success criteria for reef height and footprint.” (NOAA Fisheries.) This article relates to the topic I am exploring because it is about scientific research and conservation happening in current day to restore the oyster population, due to how important they are for the health of the ecosystems, water health, and communities all living in and around the Chesapeake Bay.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "The article, Oyster Reef Restoration in the Chesapeake Bay, from NOAA was very helpful and related to the topic of oysters and river health that I have been interested in, restoration of oyster habitats and colonies.",
+          "comment": "Again, this whole paragraph--while filled with interesting statistics and facts--is still operating in \"report\" mode rather than essay mode. Let's talk.",
+          "teacher_category": "Mistakes",
+          "context_left": "",
+          "context_right": " Throughout the arti"
+        },
+        {
+          "type": "note",
+          "comment": "There is a quote here, but don't forget quote burger explaining templates! Also, remember that your quotes should develop your own essay's ideas and not just appear in the summary.",
+          "teacher_category": "Task Constraints",
+          "context_left": " topic I am explorin",
+          "context_right": "g because it is abou"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The second sentence of this paragraph is a sentence fragment because it lacks a main verb to connect the listed topics to the article. Please revise this sentence to clearly state what the article discusses regarding these oyster-related themes so that your analysis flows more effectively.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "Growing up in Williamsburg, Virginia around a ten-minute walk from the beaches of the James River, oysters have been a large part of my life from the day I was born. Now, I have never eaten an oyster, been oyster harvesting, or even really felt an oyster, they still have major impacts on everything around me. Oysters are vital for water filtration and in turn the economy, having healthier water will lead to more fish, more fruitful ecosystems, higher fishing rates, etc. which for some families is their main source of income. I have been interested in oyster importance and the impending need of restoring the population since a field trip in the fifth grade, in which we went to a local science research center VIMS (Virginia Institute of Marine Science) where we went wading in the York River. We learned all about the fish, sea creatures, health of the water, and of course, oysters.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Growing up in Williamsburg, Virginia around a ten-minute walk from the beaches of the James River, oysters have been a large part of my life from the day I was born.",
+          "comment": "Nice job going to your own personal experience. It's a lovely addition of your own voice to the page.",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": " Now, I have never e"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Now, I have never eaten an oyster, been oyster harvesting, or even really felt an oyster, they still have major impacts on everything around me.",
+          "comment": "Let's explore what oysters might mean, for you, beyond the facts you've already reported on!",
+          "teacher_category": "Elaboration",
+          "context_left": "the day I was born. ",
+          "context_right": " Oysters are vital f"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Elaboration: You have a wonderful personal connection to this topic, but you should expand on how your specific experience at VIMS shaped your understanding of why oyster restoration is a necessity rather than just a scientific interest. Connecting these early, hands-on memories more deeply to your current advocacy work would help the reader better understand the personal stakes behind your claim.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "During that trip, something in me sparked, I discovered this urge to learn more, wanting to help my community in ways not everyone can, because of this I joined the James River Leadership Conservation Program in my Junior year of high school. In this program we went on a five-day camping/canoeing conservation expedition, learning about the James River, healthy pH, salinity, turbidity levels, keystone species, and endangered species within the James River and the Chesapeake Bay. One of the projects we had to complete after the conservation expedition was an individual capstone project, through the James River Association we had classes and meetings where they taught us about different conservation topics we can focus our capstone project on. There were trash clean ups, school lessons, promoting the education of sturgeon, planting barrier plants, and of course, the one that caught my interest, oyster restoration with local government agencies. While I was in the midst of creating my capstone, I was working alongside the James River Association and the Virginia Institute of Marine Science on ways we can promote socially the ways to help the oyster population and encourage people to buy spat, young oysters that are beginning to form a shell, and teach them how to properly introduce them into the water, promoting new oyster growth and colonies. All of these experiences and privileges I have had throughout my life that have made me weirdly obsessed and passionate about oysters and oyster restoration.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "During that trip, something in me sparked, I discovered this urge to learn more, wanting to help my community in ways not everyone can,",
+          "comment": "I'm interested. Why is it so important to you that you help your community? Let's dig a little deeper :)",
+          "teacher_category": "Elaboration",
+          "context_left": "",
+          "context_right": " because of this I j"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "All of these experiences and privileges I have had throughout my life that have made me weirdly obsessed and passionate about oysters and oyster restoration.",
+          "comment": "this idea that you're \"weirdly\" obsessed suggests that there is some friction here, thus: more to discover! Let's talk :)",
+          "teacher_category": "Elaboration",
+          "context_left": "rowth and colonies. ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your narrative is compelling, but the final sentence of this paragraph is a comma splice that connects two independent clauses incorrectly. Please revise this sentence to fix the grammar error, perhaps by using a period or a semicolon to separate the two distinct thoughts.",
+          "model_category": "Mistakes"
+        }
+      ]
+    }
+  ]
+}

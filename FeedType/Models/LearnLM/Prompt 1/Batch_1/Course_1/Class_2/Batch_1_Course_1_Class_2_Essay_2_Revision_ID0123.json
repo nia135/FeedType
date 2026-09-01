@@ -1,0 +1,134 @@
+{
+  "paragraphs": [
+    {
+      "body": "My Language",
+      "annotations": []
+    },
+    {
+      "body": "My secret language is the language I speak with ------------ ­­­­­­­­­­­­­­­­­­my family. It is a language of Jewish families. People who are not Jewish cannot understand it. My language has grown and evolved with me and my family. It is unique and meaningful to me because it helped shape me into the person I am today. Although this language is spoken amongst my entire family, it is more specifically spoken amongst one particular subgroup in my family.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "------------",
+          "comment": "Is this intentional? :)",
+          "teacher_category": "Clarification",
+          "context_left": "nguage I speak with ",
+          "context_right": " ­­­­­­­­­­­­­­­­­­m"
+        },
+        {
+          "type": "note",
+          "comment": "I'm interested in the template you're beginning with here, but I wonder if there's a more intentional introduction form that you might use?",
+          "teacher_category": "Task Constraints",
+          "context_left": "e because it helped ",
+          "context_right": "shape me into the person I am today. Although this language is spoken amongst my entire"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is establishing a clear \"center of gravity\" or central claim. Currently, the introduction is a bit broad; instead of simply stating that this language is \"Jewish\" or \"secret,\" try to craft a thesis statement that captures the *deeper significance* of this language. What does this specific dialect reveal about your identity or your relationships with your mother and grandmother? By shifting your focus from a general description of words to an argument about how this language acts as a bridge between generations, you will give your essay a much stronger, more compelling sense of purpose from the very first paragraph.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "I grew up in a reformed Jewish household where nothing was ever that serious. I personally am not religious at all, but Jewish slang is still something I grew up around. Schmatta is a common word frequently said amongst my family, more specifically my grandma. A schmatta is just any kind of towel, cloth, or covering. Another frequent one used in my house is the word “kvetch. To “kvetch” just means to complain. For instance, every time I had homework to complain about, my mom would tell me to ‘“stop kvetching” and just do my work.’ Another common word I hear a lot when I’m at home is “schlep.” To schlep means to drag something around, but in my house, it was used to describe feeling sick. If me or my brother wasn’t feeling good, she would ask “are you sick-sick or just schleppy?” I am unsure if that's how other Jewish families use “schlep” or if it’s just mine. I remember saying the word “kvetch” in front of my best friend in sophomore year of high school and she had no idea what I was trying to say. I explained it, but she didn’t fully register it which shows this language is secret to my family only. My personal favorite word, that I even got my hometown friends to start saying, is “schmutz.” To say there is schmutz on something just means the object is dirty. My grandma uses the word to talk about if someone is swearing or speaking inappropriately. It always makes me laugh when I hear her use the word “schmutz” because in any interpretation of my grandma, that word is getting used without a doubt due to how frequently she says it.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "My personal favorite word, that I even got my hometown friends to start saying, is “schmutz.” To say there is schmutz on something just means the object is dirty.",
+          "comment": ":)",
+          "teacher_category": "Praise",
+          "context_left": " to my family only. ",
+          "context_right": " My grandma uses the"
+        },
+        {
+          "type": "note",
+          "comment": "Great concrete and specific details and examples of language! This is fun to read :)",
+          "teacher_category": "Praise",
+          "context_left": "to complain about, my mom would tell me to ‘“stop kvetching” and just do my work.’ Another",
+          "context_right": " common word I hear "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your paragraph does an excellent job of using concrete, personal examples to bring your \"secret language\" to life; however, the most important focus now is to **connect these specific anecdotes to your central claim.** While listing the definitions of these words is informative, try to weave in more analysis of *why* these specific terms matter to your identity or your family dynamics. Instead of just defining the words, consider explaining what the act of using them reveals about your relationship with your mother and grandmother—for instance, how does using \"schmutz\" to describe inappropriate language reflect your grandmother’s specific values or your own evolving sense of humor?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\"Kiss on the keppie\" is a Jewish saying I heard often growing up and still to this day. My mom used to say this to me before bed every night when I was younger. She would give me a hug and kiss on my head and then tell me to turn my lights off and go to sleep. I never realized this wasn't a common phrase until my friends asked what that meant one night when they heard my mom say it over facetime and I explained it's just a hug and kiss goodnight. Even if we were in an argument, my mom would never send me to bed without giving me a “kiss on the keppie.” This taught me to never leave an argument or uncomfortable conversation without letting whoever I am speaking to know that I care. I’ve never heard anyone else say this phrase in my life, but I have also never heard anyone in my family other than my mom say it and therefore it feels more personal and directed from her. Now, she says this when she goes to bed because she goes to bed earlier than I do. This quote is just something I grew up with and will probably end up saying to my own children one day.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "This taught me to never leave an argument or uncomfortable conversation without letting whoever I am speaking to know that I care.",
+          "comment": "Aha! What an interesting moment. This reveals a lot of heat and energy that could be the center of a whole essay!",
+          "teacher_category": "Praise",
+          "context_left": "iss on the keppie.” ",
+          "context_right": " I’ve never heard an"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "This paragraph is a wonderful example of using a specific, concrete detail to develop a \"big idea.\" You successfully move beyond simply defining the phrase by connecting it to a core value—the importance of resolving conflict with affection—which gives the anecdote real purpose. To strengthen this further, consider how you might use this moment to \"show\" rather than \"tell\" the reader about your relationship with your mother; instead of stating that it taught you to show you care, could you briefly describe a specific time when that \"kiss on the keppie\" de-escalated a tense moment, allowing the reader to feel the impact of that tradition alongside you?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "I know I said this language is spoken within my family, but that's not entirely true. This language is understood within my entire family but is only mainly spoken within the women in my family. My mom and grandma are the ones who frequently speak this Jewish language. Being a woman in my family, I naturally say some of these words once in a while. My mom and grandma have obviously had a great influence on me not only in my language, but also in my behavior, personality, and character. They are both strong, independent, and beyond smart while also being funny, understanding, and loving. I feel like I also act in a comparable way as they do because they have had so much influence on me. Another thing that has very clearly been passed down through the generations is the ability to talk for hours on end. When it’s time to leave a family gathering it takes about two hours to even make our way towards the door. When I was younger, this would always bother me. Now that I am older and included in the conversation, I do the exact same thing, and it drives my dad and brother insane. In these endless conversations, I know I’m destined to hear at the very least one of the specific, Jewish words such as: Schmatta, Kvetch, Schlep, or Schmutz.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "This language is understood within my entire family but is only mainly spoken within the women in my family.",
+          "comment": "Fascinating! Do you think this idea might be related, in some way, to the one I highlighted in green just above?",
+          "teacher_category": "Elaboration",
+          "context_left": " not entirely true. ",
+          "context_right": " My mom and grandma "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The single most important focus for this paragraph is **thematic synthesis**; while you successfully describe the \"endless conversations\" and the use of these words, you need to explicitly connect this anecdote back to your central claim about how this language shapes your identity. Instead of just listing the words again at the end, consider analyzing *why* participating in these long, multi-generational conversations feels like a rite of passage that bridges the gap between being the observer of your mother and grandmother’s language and becoming a practitioner of it yourself.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "The language I speak, shaped by my family, influences not only my character, but my relationships with my family and my interactions with the rest of the world. My identity has been shaped by my personal language in my family and in other contexts including my daily life, work, and school. Every time I return home, I feel proud and like I belong since the language I speak at home symbolizes my cultural background, values, and customs. My unique way of speaking has made me more adaptive and given me a better grasp of communication by assisting me in navigating a variety of social situations even if I don’t speak my language outside of my house. The impact that my family and language have on how I see the world has also enabled me to build a solid bond with my past while empowering me to confidently confront the future. It’s obvious that my personal language has had profound influence on me, but more specifically the people whom I speak that language with.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "The language I speak, shaped by my family, influences not only my character, but my relationships with my family and my interactions with the rest of the world.",
+          "comment": "The question I have is: how has it influenced your character and your interactions, specifically? You've done an awesome job of showing your reader your language and its importance in your life, but now apply what you're noticing to an audience larger than yourself. I think you have lots of potential moments to explore, though, which is cool. See my notes :)",
+          "teacher_category": "Elaboration",
+          "context_left": "",
+          "context_right": " My identity has bee"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The single most important focus for this paragraph is **specificity**. While this concluding section summarizes the emotional impact of your \"secret language,\" it relies on abstract generalizations like \"navigating social situations\" and \"build a solid bond.\" To make this reflection resonate as strongly as your earlier anecdotes, try to replace these broad claims with a concrete example of how this language actually helped you in a specific interaction outside your home; show the reader exactly how these inherited words have changed the way you communicate or perceive others in your daily life.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "In the kitchen we bake and laugh together Stories are told and memories are made  Confidence is built and dinner is cooked Silly phrases are being said every minute I feel at home and comfortable I am with my greatest role models, supporters, and influences This is my family ",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I'm quite taken with the ideas you're creating here! I'd love to see you use more concrete and specific details taken from your own life and experience (i.e. the details that _only_ you could write) :)",
+          "teacher_category": "Elaboration",
+          "context_left": "",
+          "context_right": "I feel at home and comfortable"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is **maintaining consistent genre and stylistic expectations** for an essay. While this section attempts to capture an emotional summary of your family life, the sudden shift into a poetic, unpunctuated list feels disconnected from the analytical and narrative prose of the preceding essay. To better align with your rubric’s goal of developing \"big ideas that connect to the author’s own perspective,\" consider integrating these sentiments into a concluding narrative paragraph that uses descriptive, concrete imagery—such as the specific sounds of the kitchen or the feeling of the shared language—to reinforce your central claim about how your family’s unique \"secret language\" has shaped your identity.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "paragraphs": [
+    {
+      "body": "My Language",
+      "annotations": []
+    },
+    {
+      "body": "I have struggled with my language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age. Most standardized tests showed that I did \"poorly” and wasn’t up to grade level in my fluency and comprehension. I was given an IEP, which was intended to help individualize how I learned. Education Week magazine describes an IEP as, “An Individualized Education Program, or IEP, is a program tailored to meet the individual needs of students with disabilities. The program is written in collaboration between a child’s school district, their parent or guardian, and sometimes, the student.” Although the IEP did help address my issues with language, it wasn’t the thing that helped me learn to communicate and read effectively. My supportive teachers, friends, and family members made all of the difference. I realized that I’m lucky to have the experiences and people who support me because not all kids who shared my problems had these advantages.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "have struggled with my language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age. Most standardized tests showed that I did \"poorly” and wasn’t up to grade level in my fluency and comprehension.",
+          "comment": "Surprising and engaging details :)",
+          "teacher_category": "Praise",
+          "context_left": "I ",
+          "context_right": " I was given an IEP,"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You provide a detailed account of your early struggles with language, but the paragraph could benefit from a clearer connection to the broader theme of how language impacts identity and sense of self, similar to Anzaldua’s exploration in “How to Tame a Wild Tongue.” Consider explicitly linking your personal narrative to this larger concept.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "I was not the only kid I knew with an IEP, so I was never quite alone in that regard. Due to my struggles, I was put into groups with kids at my level. However, being separated from the rest of the students made me feel as if there was something wrong with me and with the others in my group. This division lasted until 8th grade. I do not know what happened to most of those kids in my group after 8th grade, but I hope they had a better experience going into high school like I did. Page 1",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "This division lasted until 8th grade. I do not know what happened to most of those kids in my group after 8th grade, but I hope they had a better experience going into high school like I did.",
+          "comment": "I'm interested! I wonder, though, do you mean that you _did_ have a good experience going into high school?  Because, if so, then the next line (which is about a negative experience) doesn't seem logically connected, right?",
+          "teacher_category": "Clarification",
+          "context_left": "others in my group. ",
+          "context_right": " Page 1"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You effectively convey the emotional impact of being grouped with other students based on similar challenges, but consider providing more specific examples or anecdotes to illustrate how these separations affected you and your peers.\nThis will strengthen the reader's understanding of the psychological effects of such divisions.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "At one point, I felt like I was trapped in a box. This realization came during a heated argument with my dad about which high school I should go to next year at the end of 8th grade. I shared my interest in engineering and explained how my existing middle school, which was about to become a high school the next year was not offering that class unlike Taylor Allderdice. My middle school made me feel as though my education and personal development were being ignored in favor of more promising kids. My dad only really listened to my argument when I yelled about feeling like I needed to break away from the box I was in. My dad realized that being in a different environment would help me progress as a student. I really liked his willingness to consider things from my point of view, and his decision eventually had a huge impact on my life and how I see myself. When I enrolled in a high school unrelated to my middle school, I finally found a way to thrive.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "When I enrolled in a high school unrelated to my middle school, I finally found a way to thrive.",
+          "comment": "Aha! Yes. A positive experience :)",
+          "teacher_category": "Praise",
+          "context_left": "d how I see myself. ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You effectively convey the emotional weight of feeling trapped and the significance of breaking free, especially highlighting the pivotal role your father played. To strengthen this paragraph further, consider refining the transitions between sentences to ensure a smoother flow of thoughts, making each step in your narrative clearer and more connected.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "In high school, I had some very encouraging teachers, and the confidence they had in me was directly related to my confidence in myself. Aside from my teachers, my new friends made a significant impact on my confidence. Everyone deserves to have someone who believes in them. I was particularly close to my Engineering teachers, who supported me and gave me leadership roles as a TA and let me help out in their classrooms. These teachers and more helped me move from basic English to AP English.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Everyone deserves to have someone who believes in them.",
+          "comment": "great line :)",
+          "teacher_category": "Praise",
+          "context_left": "t on my confidence. ",
+          "context_right": " I was particularly "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You effectively highlight the role of supportive relationships in boosting your confidence and academic progression. To strengthen this paragraph further, consider providing specific examples of interactions or moments with your teachers and friends that illustrate their impact on your journey from basic English to AP English.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Our education system is flawed. The huge issue of systemic racism plagues our country. There are inherent problems with disparities in learning differences. I noticed that the other kids in my IEP group mostly did not share the same skin color as my own. I didn't understand back then that the reason for this was way deeper than I would know. The Learning Disability Association of America reports that, “In Dec. 2016, the United States Department of Education (USDOE) finalized guidance and regulations to address racial and ethnic disparities in special education eligibility, placement, and school discipline and the commonly accepted fact that Page 2",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Our education system is flawed. The huge issue of systemic racism plagues our country. There are inherent problems with disparities in learning differences.",
+          "comment": "I'm interested in the ideas you're introducing here, but can you transition more smoothly and logically from your experience in English class to these very big ideas that might not have an obvious connection to you?",
+          "teacher_category": "Task Constraints",
+          "context_left": "",
+          "context_right": " I noticed that the "
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The Learning Disability Association of America reports",
+          "comment": "Nice introducing template and good quote!",
+          "teacher_category": "Praise",
+          "context_left": " than I would know. ",
+          "context_right": " that, “In Dec. 2016"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You effectively highlight the intersection of race and educational disparity in your discussion of the IEP group, but the paragraph could benefit from a clearer connection to your overall theme of language and identity. Consider linking these broader societal issues more explicitly to your personal journey with language to strengthen the coherence of your essay.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "‘…children of color with disabilities are overrepresented within the special education population’ (King, 2016).” If I struggled with language as a white person of average class and education, what was it like for children who weren’t as supported? I realize that my language struggles aren’t as complicated as they are for others, and I wish the best for their futures.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "don't forget those quote burger explaining templates!",
+          "teacher_category": "Task Constraints",
+          "context_left": "lation’ (King, 2016)",
+          "context_right": ".” If I struggled with language as"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You effectively highlight the disparity faced by children of color with disabilities, drawing a powerful connection to your own experiences. To strengthen this comparison, consider providing more specific examples or anecdotes that illustrate the challenges these children face, enhancing the emotional resonance and clarity of your message.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Despite my struggle with language, I loved learning, but not learning from books, but learning by touching and feeling and listening to things. I loved music and playing outside and so did all of the other kids in my school, but what made me and a few other kids different was the fact that we couldn’t read as well as most of our grade. So, while they got more time to do things like listening to music and playing outside me and that selected group of kids stayed back. My middle school didn’t mean to make us feel ostracized from the rest of the school, but that was the thing that ended up happening.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Despite my struggle with language, I loved learning, but not learning from books, but learning by touching and feeling and listening to things. I loved music and playing outside and so did all of the other kids in my school, but what made me and a few other kids different was the fact that we couldn’t read as well as most of our grade. So, while they got more time to do things like listening to music and playing outside me and that selected group of kids stayed back. My middle school didn’t mean to make us feel ostracized from the rest of the school, but that was the thing that ended up happening.",
+          "comment": "I'm very interested in these ideas, but I'm not quite sure--yet--how they're logically connected to big ideas you've introduced about getting support from your father and your teachers. What is the central focusing idea of this essay? What big ideas are necessary to develop that idea?",
+          "teacher_category": "Clarification",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You effectively convey your love for experiential learning, but the last two sentences could benefit from clearer transitions to show how staying back affected your feelings of isolation. Consider adding phrases like \"As a result\" or \"Consequently\" to link these ideas more smoothly.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "When you give kids new strategies, and the ability to learn and grow instead of ostracizing them, you give them an opportunity to become the best version of themselves. I don’t believe that my middle school taught me to read well or enjoy reading. I know it was my father who sat down with me every night by my bedside table reading me stories while encouraging me to read with him. Those nights taught me how to read. I don’t know if the other kids in my IEP group had the same experience that was so important for my own growth. Now I know through firsthand experiences that it's important for all students to have the chances, I was lucky enough to have mastered my language and I hope everyone is given an equal opportunity to as well.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "I know it was my father who sat down with me every night by my bedside table reading me stories while encouraging me to read with him. Those nights taught me how to read. I don’t know if the other kids in my IEP group had the same experience that was so important for my own growth.",
+          "comment": ":)",
+          "teacher_category": "Other",
+          "context_left": "l or enjoy reading. ",
+          "context_right": " Now I know through "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You effectively highlight the importance of personalized support in helping students overcome language barriers, especially emphasizing the role of your father. To strengthen this paragraph further, consider providing more detail about the specific strategies he used or any particular moments that stood out, which could offer readers a clearer picture of why his approach was so impactful.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "To live in a box means to be trapped by the pre conceived notions given by other people, needing to break free from the expectations set by authority figures who bring you down, Page 3",
+      "annotations": []
+    },
+    {
+      "body": "breaking free to go and start a new chapter leaving the cage behind, then realizing all that you are leaving behind knowing you must regardless, wishing the best for those still stuck that you couldn't bring with you.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I'm interested in this poem. It introduces some powerful ideas.",
+          "teacher_category": "Praise",
+          "context_left": "wing you must regard",
+          "context_right": "less, wishing the be"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You’ve captured a powerful emotional moment here, but try to refine the imagery and metaphor to create clearer visual and sensory detail. For example, instead of saying “leaving the cage behind,” describe the physical act of stepping out of the classroom or the literal space where you felt confined, and contrast it with the freedom you now feel. This will make your message resonate more deeply with readers.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Citations https://www.edweek.org/teaching-learning/what-is-an-iep-individualized-education- programs-explained/2023/07 https://ldaamerica.org/lda_today/disproportionate-identification-of-students-of-color-in- special-education/#:~:text=2016%2C%20the%20United%20States%20Department%20of%20Education ,with%20disabilities%20are%20overrepresented%20within%20the%20special Page 4",
+      "annotations": []
+    }
+  ]
+}

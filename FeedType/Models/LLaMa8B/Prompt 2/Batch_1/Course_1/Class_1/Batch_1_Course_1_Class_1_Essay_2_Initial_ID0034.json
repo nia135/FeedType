@@ -1,0 +1,178 @@
+{
+  "paragraphs": [
+    {
+      "body": "My Language",
+      "annotations": []
+    },
+    {
+      "body": "I've struggled with language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age. Most standardized tests showed that I did \"poorly\". In elementary school, after being examined and found that the problem was not my IQ or effort, I was given an IEP, which was intended to help individualize how I learned.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "I've struggled with language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age.",
+          "comment": "Really? Wow. I wouldn't have thought this. Also, I wonder if a story might \"show\" these things more effectively than simply summarizing them?",
+          "teacher_category": "Task Constraints",
+          "context_left": "",
+          "context_right": " Most standardized t"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You could further elaborate on the ways in which your experiences with language and culture have shaped your sense of self, particularly in relation to Gloria Anzaldua's concepts of \"taming a wild tongue.\" Consider incorporating more specific anecdotes and reflections that demonstrate how your relationships with others, such as your friends and family members, have influenced your linguistic identities and helped you navigate complex cultural contexts. By doing so, you'll add greater depth and nuance to your exploration of the intersections between language, culture, and identity.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "My fluency in the English language was hard-earned. I spent hours studying and worked hard to overcome the frustration of being confined to my low standard. I recall how awkward it was to be dragged out of class to take tests in a different room from my peers. This was because I had been given more time for those tests. My teachers decided it would be better due to my IEP, so they made it public information so my classmates would understand. My middle school friends didn't understand and made me feel as if there was something wrong with me. It continued like that until I left for high school.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "of being confined to my low standard.",
+          "comment": "interesting, potentially revealing, phrase...",
+          "teacher_category": "Praise",
+          "context_left": "ome the frustration ",
+          "context_right": " I recall how awkwar"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "My middle school friends didn't understand and made me feel as if there was something wrong with me.",
+          "comment": "right! Yes. This friction is intriguing. (and, also, incredibly difficult, I imagine...especially as a middle-school kid)",
+          "teacher_category": "Elaboration",
+          "context_left": "s would understand. ",
+          "context_right": " It continued like t"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You provide vivid descriptions of your experiences with language difficulties and the struggles you faced in school, such as feeling embarrassed taking separate tests and dealing with insensitive comments from classmates. To further enhance your narrative, consider incorporating sensory details that bring these moments to life. For example, instead of saying \"it felt awkward,\" try describing the physical sensations you felt, like a knot in your stomach or a flush on your face. By doing so, readers will become more immersed in your story and connect with your emotions on a deeper level.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "In high school, I had more encouragement from my teachers, and the confidence they had in me was directly related to my confidence in myself. Aside from my teachers, my new friends made a significant impact on my confidence. I am not only confident in myself but also in my intelligence. My home friends encourage me to be my best self. Because of their unwavering support during this difficult period in my life, I formed a unique friendship that resulted in languages and lasting memories.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "the confidence they had in me was directly related to my confidence in myself.",
+          "comment": "another potential idea to explore?",
+          "teacher_category": "Elaboration",
+          "context_left": "om my teachers, and ",
+          "context_right": " Aside from my teach"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You do a great job incorporating personal anecdotes into your writing, particularly in this paragraph where you discuss the positive influence of your high school teachers and friends on your confidence. To further elaborate on this point, consider providing more specific details about what specifically made these interactions impactful - e.g., particular phrases or moments that stood out to you, or ways in which their encouragement helped shift your perspective. By doing so, you'll create a richer narrative that draws readers deeper into your experiences and strengthens your argument.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "My 'home' language is the one I speak with my pals. My friends at home encouraged me to speak this language with them. Emily Hart is not just my best friend, she’s one of the most incredible people I’ve been lucky enough to have known over the past few years. She has this beautiful way of making me feel so deeply cared for and appreciated through her words and actions.",
+      "annotations": []
+    },
+    {
+      "body": "Emily and I were presidents of our high school's GSA. We’d go to her house every week and bake goodies for our club meetings. Those memories in her kitchen are ones I will treasure forever. We went on adventures like exploring the excitement of New York City and finding peace and quiet in the woods while camping. We’ve done so much together, and I hope to continue to expand on the beautiful language of our friendship that we already have.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I wonder how these friends are related to your experience with learning differences? Your intro/first paragraphs set that topic up as the main exploration of this essay, so let's discuss the connections :)",
+          "teacher_category": "Task Constraints",
+          "context_left": "peace and quiet in the woods while camping. We’ve done so much together, and I hope to",
+          "context_right": " continue to expand "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You do a great job incorporating vivid descriptions of your experiences with Emily into your essay, such as baking goodies for club meetings and going on adventures together. To further enhance this section, consider adding more sensory details to bring readers closer to your emotions and memories. For example, what did the smell of freshly baked cookies taste like? What sounds accompanied your explorations in New York City? By elaborating on these moments, you'll create a richer and more immersive narrative that engages readers and helps them connect with your story.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Another friend of mine, Joseph Hsu, is honestly one of the most down-to-earth people I know. He's a trustworthy guy and always keeps it real, which I appreciate. This past senior year, we’d hang out during lunch, and we would spend the entire time talking about life with the Allderdice theater director. He also tagged along on a bunch of the trips Emily, and I took, and honestly, I wouldn’t trade those memories for anything.",
+      "annotations": []
+    },
+    {
+      "body": "I talk normal English with them, but it doesn't sound \"normal\" to those around us. \"Wassup, pretty lady\" is a common greeting when I'm among these friends. Conversations about optimism and intellectual ideas are common, yet strange noises, reactions, and comments always accompany them. When I started college, some of these reactions and statements followed me. Sharing these with my fellow students was frequently well-received, but it also occasionally confused whoever I spoke to. These conversations make me feel at home because it's the way I talk with them, and that is what makes it so special.",
+      "annotations": []
+    },
+    {
+      "body": "Gloria Anzaldua explores her deep connection between language and her memories that will stick with her for a long time. In \"How to Tame a Wild Tongue,\" Gloria Anzaldua is both Mexican and American. Anzaldua writes how she is both and they both define her. “I may switch back and forth from English to Spanish in the same sentence or the same word,” Gloria tells us that these two languages are so intertwined to her that they form one language. This is an important part of her identity because not everyone wants her to express that they're both part of her.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I'm interested in a possible to Anzaldua, but I'm not sure what that connection is?",
+          "teacher_category": "Clarification",
+          "context_left": "will stick with her for a long time. In \"How to Tame a Wild Tongue,\" Gloria Anzaldua is both",
+          "context_right": " Mexican and America"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You demonstrate a strong grasp of the concepts presented in Gloria Anzaldua's work, particularly regarding the interconnectedness of language, culture, and identity. Your analysis of Anzaldua's use of bilingualism as a defining aspect of her identity shows a solid understanding of the complex relationships between language, culture, and self-expression. However, consider further exploration of how these concepts apply specifically to your own experiences and emotions, allowing readers to connect more intimately with your narrative.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Gloria Anzaldua lived in what she describes as the borderlands, and I cannot begin to describe exactly what that is like because I have never been in her shoes, but I too have lived somewhere.",
+      "annotations": []
+    },
+    {
+      "body": "To lived in a small home means to constantly hear your mom's laugh, having your elder sister move out too soon, leaving the house quieter than before, then being filled again with the laughter of friends who came to visit, We are making the experience less lonely.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "To lived in a small home means to constantly hear your mom's laugh, having your elder sister move out too soon, leaving the house quieter than before, then being filled again with the laughter of friends who came to visit, We are making the experience less lonely.",
+          "comment": "Also interesting, though I feel like home, the smallness of the house, the loneliness you're introducing seem like a new and different idea from either growing up with an IEP, your close friendships, or Anzaldua's competing identities/languages. What' the connection? Let's talk :)",
+          "teacher_category": "Clarification",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You do a great job incorporating personal experiences into your writing, particularly in the target paragraph where you share a vivid description of living in a small home. To further elaborate on this point, consider expanding on the sensory details surrounding these moments, such as the sounds, smells, and textures associated with hearing your mother's laugh, moving away from your sister, and welcoming friends into your space. By doing so, you'll create a richer and more immersive atmosphere that draws readers deeper into your narrative.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Gloria Anzaldua uses a similar poem to evoke emotion and help the reader fully understand the significance of identity, language, and culture. Her poetry reflects the complicated dynamics of her situation. Attempting to imitate her writing showed to me the importance of pauses in between lines. Gloria Anzaldua's goal was to express her connection to two very vital elements of herself.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Attempting to imitate her writing showed to me the",
+          "comment": "",
+          "context_left": "s of her situation. ",
+          "context_right": " importance of pause"
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "importance of pauses in between lines. Gloria Anzaldua's goal was to express her connection to two very vital elements of herself.",
+          "comment": "That's awesome! But remember that this essay should be based on your own agenda, have a clear center of gravity, and a clear sense of audience and purpose. It's not an analysis or response to Anzaldua...",
+          "teacher_category": "Task Constraints",
+          "context_left": "ng showed to me the ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You do a great job incorporating personal experiences into your analysis of Gloria Anzaldua's work, particularly in the target paragraph where you discuss attempting to imitate her writing style and learning the importance of pauses in between lines. To further enhance this aspect, consider providing more detailed descriptions of your own emotional responses to Anzaldua's writing and how it relates to your own experiences. For instance, you could elaborate on why pausing between lines resonated with you specifically, or how it helped you connect with Anzaldua's message on identity and language. By doing so, you'll create a richer and more nuanced exploration of the intersection between language, culture, and identity.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Gloria Anzaldua demonstrates how these languages define us. Showing the reader that they go beyond simply speaking. Each language or dialect we speak represents distinct aspects of our personalities and cultures. Gloria shares stories and languages of her friends and family, and how they help shape who she is. I can relate because who you surround yourself with becomes part of your identity like how my friends are part of my own.",
+      "annotations": []
+    },
+    {
+      "body": "Their impact has made me a stronger, empathetic, and caring person. Because of the love that I've been shown by these important connections and through time, these languages have come to be apparent in these different groups. Without these people in my life, I wouldn't be myself. Although I'm still trying to figure out exactly who I am, I know that these people have been with me for parts of my life while trying to discover who I am, and I am very grateful for them.",
+      "annotations": []
+    }
+  ]
+}

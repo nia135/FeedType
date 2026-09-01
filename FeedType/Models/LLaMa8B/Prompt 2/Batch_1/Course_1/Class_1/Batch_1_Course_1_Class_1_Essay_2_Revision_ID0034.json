@@ -1,0 +1,192 @@
+{
+  "paragraphs": [
+    {
+      "body": "My Language",
+      "annotations": []
+    },
+    {
+      "body": "I have struggled with my language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age. Most standardized tests showed that I did \"poorly” and wasn’t up to grade level in my fluency and comprehension. I was given an IEP, which was intended to help individualize how I learned. Education Week magazine describes an IEP as, “An Individualized Education Program, or IEP, is a program tailored to meet the individual needs of students with disabilities. The program is written in collaboration between a child’s school district, their parent or guardian, and sometimes, the student.” Although the IEP did help address my issues with language, it wasn’t the thing that helped me learn to communicate and read effectively. My supportive teachers, friends, and family members made all of the difference. I realized that I’m lucky to have the experiences and people who support me because not all kids who shared my problems had these advantages.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "have struggled with my language my entire life. When I was younger, it was difficult to express myself, communicate, and even understand English. I started reading later than other kids my age. Most standardized tests showed that I did \"poorly” and wasn’t up to grade level in my fluency and comprehension.",
+          "comment": "Surprising and engaging details :)",
+          "teacher_category": "Praise",
+          "context_left": "I ",
+          "context_right": " I was given an IEP,"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "While exploring your connection to Gloria Anzaldua's essay, \"How to Tame a Wild Tongue,\" you've done a great job incorporating personal anecdotes and reflections to illustrate your points. To further enhance your essay, consider delving deeper into the ways in which your language struggles intersected with your cultural background and identity. For instance, you mention having been part of an IEP due to difficulties with language, but you could elaborate on how this experience shaped your perception of yourself and your place within your community. By providing more nuanced exploration of these intersections, you'll add richness and complexity to your analysis, making your essay even more compelling and relatable.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "I was not the only kid I knew with an IEP, so I was never quite alone in that regard. Due to my struggles, I was put into groups with kids at my level. However, being separated from the rest of the students made me feel as if there was something wrong with me and with the others in my group. This division lasted until 8th grade. I do not know what happened to most of those kids in my group after 8th grade, but I hope they had a better experience going into high school like I did. Page 1",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "This division lasted until 8th grade. I do not know what happened to most of those kids in my group after 8th grade, but I hope they had a better experience going into high school like I did.",
+          "comment": "I'm interested! I wonder, though, do you mean that you _did_ have a good experience going into high school?  Because, if so, then the next line (which is about a negative experience) doesn't seem logically connected, right?",
+          "teacher_category": "Clarification",
+          "context_left": "others in my group. ",
+          "context_right": " Page 1"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a great job exploring your connection to Gloria Anzaldua's theme of language and identity, drawing heavily from your personal experiences with having an IEP and navigating educational systems. To further strengthen your essay, try incorporating more nuanced analysis of how your experiences reflect broader societal issues, such as systemic racism and inequality in access to quality education. Consider delving deeper into the ways in which your story intersects with larger structural barriers faced by marginalized communities, making explicit connections between your personal narrative and the social context in which you lived. By doing so, you can add greater complexity and depth to your exploration of language, culture, and identity.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "At one point, I felt like I was trapped in a box. This realization came during a heated argument with my dad about which high school I should go to next year at the end of 8th grade. I shared my interest in engineering and explained how my existing middle school, which was about to become a high school the next year was not offering that class unlike Taylor Allderdice. My middle school made me feel as though my education and personal development were being ignored in favor of more promising kids. My dad only really listened to my argument when I yelled about feeling like I needed to break away from the box I was in. My dad realized that being in a different environment would help me progress as a student. I really liked his willingness to consider things from my point of view, and his decision eventually had a huge impact on my life and how I see myself. When I enrolled in a high school unrelated to my middle school, I finally found a way to thrive.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "When I enrolled in a high school unrelated to my middle school, I finally found a way to thrive.",
+          "comment": "Aha! Yes. A positive experience :)",
+          "teacher_category": "Praise",
+          "context_left": "d how I see myself. ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "While exploring your connection to Gloria Anzaldua's essay \"How to Tame a Wild Tongue,\" you've done a great job incorporating personal anecdotes and reflections to illustrate your points. To further enhance your essay, try to delve deeper into the emotional resonance of each story, making sure to provide vivid sensory details that immerse readers in your experiences. For instance, in the target paragraph where you describe arguing with your dad about high schools, consider elaborating on the emotions you felt during that moment – what specifically triggered your frustration, and how did your dad's response affect you? By doing so, you'll create a richer narrative that resonates more deeply with your audience.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "In high school, I had some very encouraging teachers, and the confidence they had in me was directly related to my confidence in myself. Aside from my teachers, my new friends made a significant impact on my confidence. Everyone deserves to have someone who believes in them. I was particularly close to my Engineering teachers, who supported me and gave me leadership roles as a TA and let me help out in their classrooms. These teachers and more helped me move from basic English to AP English.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Everyone deserves to have someone who believes in them.",
+          "comment": "great line :)",
+          "teacher_category": "Praise",
+          "context_left": "t on my confidence. ",
+          "context_right": " I was particularly "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a great job incorporating personal anecdotes and reflections into your essay, making it engaging and relatable. To further enhance your narrative, try to provide more specific details and sensory descriptions about your experiences with language difficulties and how they affected you. For instance, describe what it was like to stay back with your peers who also struggled with reading, or elaborate on the emotions you felt when your dad encouraged you to read with him each night. By adding more vivid and descriptive language, you can create a richer and more immersive experience for your readers.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Our education system is flawed. The huge issue of systemic racism plagues our country. There are inherent problems with disparities in learning differences. I noticed that the other kids in my IEP group mostly did not share the same skin color as my own. I didn't understand back then that the reason for this was way deeper than I would know. The Learning Disability Association of America reports that, “In Dec. 2016, the United States Department of Education (USDOE) finalized guidance and regulations to address racial and ethnic disparities in special education eligibility, placement, and school discipline and the commonly accepted fact that Page 2",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Our education system is flawed. The huge issue of systemic racism plagues our country. There are inherent problems with disparities in learning differences.",
+          "comment": "I'm interested in the ideas you're introducing here, but can you transition more smoothly and logically from your experience in English class to these very big ideas that might not have an obvious connection to you?",
+          "teacher_category": "Task Constraints",
+          "context_left": "",
+          "context_right": " I noticed that the "
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The Learning Disability Association of America reports",
+          "comment": "Nice introducing template and good quote!",
+          "teacher_category": "Praise",
+          "context_left": " than I would know. ",
+          "context_right": " that, “In Dec. 2016"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a great job incorporating various perspectives and sources to explore the connection between language, culture, and identity. To further clarify your main point, could you specify how the disparity in representation among students with IEPs relates specifically to the theme of taming a wild tongue, as introduced by Gloria Anzaldua? How does this observation inform your broader discussion of the flaws in the US education system and the importance of inclusive teaching practices?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "‘…children of color with disabilities are overrepresented within the special education population’ (King, 2016).” If I struggled with language as a white person of average class and education, what was it like for children who weren’t as supported? I realize that my language struggles aren’t as complicated as they are for others, and I wish the best for their futures.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "don't forget those quote burger explaining templates!",
+          "teacher_category": "Task Constraints",
+          "context_left": "lation’ (King, 2016)",
+          "context_right": ".” If I struggled with language as"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a great job incorporating quotes from external sources, such as the Learning Disability Association of America report, to add credibility and depth to your discussion about the disproportionate representation of students of color in special education. To further enhance your analysis, consider providing more specific anecdotes or personal reflections that illustrate the emotional toll of being part of this demographic. For example, you could describe a particular moment where you witnessed or experienced firsthand the effects of systemic racism in educational settings, making your connection to the quote from King (2016) even stronger and more relatable. By doing so, you'll create a richer narrative that engages readers emotionally and intellectually.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Despite my struggle with language, I loved learning, but not learning from books, but learning by touching and feeling and listening to things. I loved music and playing outside and so did all of the other kids in my school, but what made me and a few other kids different was the fact that we couldn’t read as well as most of our grade. So, while they got more time to do things like listening to music and playing outside me and that selected group of kids stayed back. My middle school didn’t mean to make us feel ostracized from the rest of the school, but that was the thing that ended up happening.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "Despite my struggle with language, I loved learning, but not learning from books, but learning by touching and feeling and listening to things. I loved music and playing outside and so did all of the other kids in my school, but what made me and a few other kids different was the fact that we couldn’t read as well as most of our grade. So, while they got more time to do things like listening to music and playing outside me and that selected group of kids stayed back. My middle school didn’t mean to make us feel ostracized from the rest of the school, but that was the thing that ended up happening.",
+          "comment": "I'm very interested in these ideas, but I'm not quite sure--yet--how they're logically connected to big ideas you've introduced about getting support from your father and your teachers. What is the central focusing idea of this essay? What big ideas are necessary to develop that idea?",
+          "teacher_category": "Clarification",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a great job incorporating personal anecdotes and reflections into your essay, making it engaging and relatable. To further enhance your narrative, try to add more sensory details and vivid descriptions to help readers fully immerse themselves in your story. For example, describe the sights, sounds, and emotions associated with your experiences, such as the feelings of frustration and isolation you faced due to your language difficulties, or the joy and excitement you felt when you began to overcome these challenges. By doing so, you'll create a richer and more immersive experience for your readers, drawing them closer to your message and emotional resonance.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "When you give kids new strategies, and the ability to learn and grow instead of ostracizing them, you give them an opportunity to become the best version of themselves. I don’t believe that my middle school taught me to read well or enjoy reading. I know it was my father who sat down with me every night by my bedside table reading me stories while encouraging me to read with him. Those nights taught me how to read. I don’t know if the other kids in my IEP group had the same experience that was so important for my own growth. Now I know through firsthand experiences that it's important for all students to have the chances, I was lucky enough to have mastered my language and I hope everyone is given an equal opportunity to as well.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "I know it was my father who sat down with me every night by my bedside table reading me stories while encouraging me to read with him. Those nights taught me how to read. I don’t know if the other kids in my IEP group had the same experience that was so important for my own growth.",
+          "comment": ":)",
+          "teacher_category": "Other",
+          "context_left": "l or enjoy reading. ",
+          "context_right": " Now I know through "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "While exploring your connection between language, culture, and identity, you've done a great job incorporating personal anecdotes and reflections to illustrate your points. To further enhance your essay, consider delving deeper into the ways in which your experiences with language barriers affected your relationships with peers and educators. For instance, could you describe specific moments where you felt isolated due to your language difficulties, and how interactions with supportive individuals ultimately helped shape your perspective on language and identity? By expanding upon these narratives, you'll create a richer tapestry of storytelling that showcases the complexities of navigating linguistic and cultural nuances.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "To live in a box means to be trapped by the pre conceived notions given by other people, needing to break free from the expectations set by authority figures who bring you down, Page 3",
+      "annotations": []
+    },
+    {
+      "body": "breaking free to go and start a new chapter leaving the cage behind, then realizing all that you are leaving behind knowing you must regardless, wishing the best for those still stuck that you couldn't bring with you.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I'm interested in this poem. It introduces some powerful ideas.",
+          "teacher_category": "Praise",
+          "context_left": "wing you must regard",
+          "context_right": "less, wishing the be"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "You've done a great job incorporating personal anecdotes and reflections to illustrate your points about the complex relationships between language, culture, and identity. To further enhance your essay, consider expanding on the ways in which your experiences with language barriers and social isolation influenced your perception of yourself and your place within society. For example, you could delve deeper into the emotional toll of being placed in separate groups due to your language abilities and explore how this affected your sense of belonging and self-worth. By elaborating on these aspects, you can create a richer narrative that showcases the nuances of your journey towards self-discovery and empowerment.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Citations https://www.edweek.org/teaching-learning/what-is-an-iep-individualized-education- programs-explained/2023/07 https://ldaamerica.org/lda_today/disproportionate-identification-of-students-of-color-in- special-education/#:~:text=2016%2C%20the%20United%20States%20Department%20of%20Education ,with%20disabilities%20are%20overrepresented%20within%20the%20special Page 4",
+      "annotations": []
+    }
+  ]
+}

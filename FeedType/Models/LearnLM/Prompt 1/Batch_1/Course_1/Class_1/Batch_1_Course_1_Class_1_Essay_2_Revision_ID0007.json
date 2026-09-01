@@ -1,0 +1,252 @@
+{
+  "paragraphs": [
+    {
+      "body": "Era Emae (Why Us)",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Main comment: what if the whole introduction was in the present tense (to echo your conclusion)? Rather than putting this experience in abstraction (boys and girls \"would\" dress up, for example), can you tell the story of the actual moment you experienced? I also wonder if you might echo your final line of the essay by concluding  this story with it? It's such an amazing line that speaks to your essay's central focusing idea. :)",
+          "teacher_category": "Mistakes",
+          "context_left": "Era Emae (Why Us)",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your title, \"Era Emae (Why Us),\" is evocative, but it currently lacks context for the reader; consider revising it to better signal the essay's central focus on the tension between collective Kurdish identity and the individual experience of displacement. Since this is the first thing your reader encounters, use this space to bridge the gap between your personal narrative and the broader, \"big idea\" arguments you develop later, ensuring the title acts as a thematic anchor for the essay’s exploration of home, language, and tradition.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "It was a hot summer day in the backseat of a Jeep, all huddled up with my sister, mom, aunts, and uncle. The drive was long and bumpy, on a deserted road with no clear path ahead. Dust rose in the air as the wheels moved, leaving an orangish cloud behind. The weather was hot, but the wind coming through the rolled-down windows kept it at bay. During the spring season, my mom took us to visit her older sister in Khanaqin, a city in the Garmian region and part of Kurdish territory, to celebrate Nowruz, the festival marking the Kurdish New Year.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": " weather was hot,",
+          "comment": "redundant?",
+          "teacher_category": "Mistakes",
+          "context_left": "sh cloud behind. The",
+          "context_right": " but the wind coming"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "remove that comma :)",
+          "teacher_category": "Mistakes",
+          "context_left": " backseat of a Jeep,",
+          "context_right": "all huddled up with "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The single most important focus for this paragraph is **establishing a clear narrative purpose**. Currently, these sentences function as a descriptive travelogue, but they don't yet signal to the reader why this specific journey is the \"center of gravity\" for your exploration of Kurdish identity. To improve this, consider explicitly linking the sensory details of the Jeep ride or the Nowruz celebration to your central claim about \"burning wood\" or the tension between displacement and heritage; don't just describe the scene, but use it to \"point\" the reader toward the big ideas you explore later in the essay.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Boys and girls of all ages would dress up in traditional Kurdish attire. The girls would be draped in various colors of lace, but a distinctive sound could be heard when they moved and danced. Gold bracelets, belts, and necklaces clang as people swing side by side while holding hands, gradually moving closer to the fire, their jewelry's sound harmonizing with the music playing in the background. The chirping of birds and the laughter of children fill the air in the distance. At night, torches are lit up and we ascend the mountains, illuminating the path like scattered stars along the trail. Once at the top, fireworks would be lit up, blooming in the sky like a meteor shower. The coldness of the night is eased as the warmth of the burning wood engulfs your senses. Feeling the wind on your cheeks, the wood in your chest, and the smell of dirt under your feet. 3 Eid Nowruz is a celebration that originated from the old religion, Zoroastrianism, one that is less practiced than it once was. Kurdish people are religion-tolerant, with many practicing various other faiths. But one consistent aspect that has stayed with Kurds regardless of religion, dialect, or country of residence has been our tradition of burning wood. The word itself Nowruz means a new day. A new day to mark the season of blossom and life, Spring.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Feeling the wind on your cheeks, the wood in your chest, and the smell of dirt under your feet.",
+          "comment": "sentence fragment",
+          "teacher_category": "Mistakes",
+          "context_left": "ngulfs your senses. ",
+          "context_right": " 3 Eid Nowruz is a c"
+        },
+        {
+          "type": "note",
+          "comment": "Fab details, but keep your verb tense consistent throughout!",
+          "teacher_category": "Mistakes",
+          "context_left": "when they moved and ",
+          "context_right": "danced. Gold bracelets, belts, and necklaces clang as people swing side by side while holding"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "This paragraph contains beautiful, evocative imagery that effectively sets the scene for your reflection; however, the most important focus now is to bridge the gap between this descriptive summary and your essay’s \"center of gravity.\" While the sensory details are vivid, consider how you can explicitly connect the \"distinctive sound\" of the jewelry and the \"warmth of the burning wood\" to your central argument about Kurdish identity and displacement. Instead of letting these details stand as a standalone scene, try to weave in a \"so what?\"—how does this specific ritual of Nowruz serve as a tangible anchor for your identity in a world where your culture is often invisible or stateless?",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "“Era emaé emrekeiamen?” My parents used to always say that to me. They always said that when I said or did something that went against traditional values. If I asked my parents to stay out late, they would say “Era emaé emrekeiamen?” My answer would always be no, even though I am American. I would reply, No, we are not Americans, but it’s not the 1970s in Iraq, and things are different now. Although my parents and I speak the same Kurdish dialect, Garmiani, we don’t always understand each other fully. They spoke as two Kurdish children who were Internally Displaced Persons (IDP), while I spoke as someone who is half-American and half-Kurdish. My parents grew up in the Garmiyan region, known for its dry and warm climate in the countryside. They were very young when the government displaced them to central Iraq, leaving them to navigate the school system, language barriers, and cultural differences without any prior understanding of Arabic. This displacement made them even more attached to and proud of their heritage. Ironically, I also experienced a form of displacement, growing up in a different country with a new language and culture. My mom taught me Arabic when I was five so I wouldn’t struggle in school, but in the U.S., I had to teach myself English and then teach it to my parents. Reflecting on this, my parents probably did the same for their parents.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "should you put the English translation in parentheses, or perhaps in a footnote, so your reader understands what it means?",
+          "teacher_category": "Mistakes",
+          "context_left": "Era emaé emrekeiamen",
+          "context_right": "?” My parents used to a"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "While this paragraph effectively introduces the tension between your experiences and your parents' traditions, the most important area for improvement is **connecting your personal anecdote to your essay’s central focusing idea.** Currently, you transition from the specific phrase \"Era emaé emrekeiamen?\" into a summary of your parents' displacement history; to make this move more impactful, explicitly state what this specific phrase represents in the context of your \"center of gravity\"—is it a conflict of geography, language, or the definition of home? By explicitly naming the \"big idea\" (e.g., the generational friction between survival-based heritage and American individualism) before diving into the historical summary, you will transform this section from background information into a powerful piece of evidence that supports your broader argument.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "To speak Kurdish means knowing: The pain of losing home. To speak English means knowing: Home is where you speak the same language. 4 Seven countries in the world have the word “stan” after them, yet only Kurdistan is not recognized as a country. The word “stan” means “the people of…”, “the land of”, or “the land where one stands” so Kurdistan, is the land of Kurds. It’s the land where we have stood for thousands of years yet stand invisible. If there is no one to recognize us, do we exist as a group of people? When anyone asks where I’m from I say Kurdistan and they always answer with either another Stan country or ask if I’m Turkish. I had Arab friends say Kurds are just Arab or Turkish even though we existed way before Arabs even spoke Arabic. We have existed all this time yet we continue to search for our label as a county. The zâou (land) speaks of my people, the Jewil (mountains) know of our names, the asûman (skys) have heard our songs, and the dar (wood) has heard our prayers as it burns. If the earth, the scripts, and the thousand of history speak of us who is there to say we are not a country?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " is",
+          "comment": "remove comma",
+          "teacher_category": "Mistakes",
+          "context_left": "tands” so Kurdistan,",
+          "context_right": " the land of Kurds. "
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "It’s the land where we have stood for thousands of years yet stand invisible.",
+          "comment": "What a line!",
+          "teacher_category": "Praise",
+          "context_left": " the land of Kurds. ",
+          "context_right": " If there is no one "
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "The zâou (land) speaks of my people, the Jewil (mountains) know of our names, the asûman (skys) have heard our songs, and the dar (wood) has heard our prayers as it burns. If the earth, the scripts, and the thousand of history speak of us who is there to say we are not a country?",
+          "comment": "gorgeous",
+          "teacher_category": "Praise",
+          "context_left": " label as a county. ",
+          "context_right": ""
+        },
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "had ",
+          "comment": "have. Keep those verb tenses consistent!",
+          "teacher_category": "Mistakes",
+          "context_left": "k if I’m Turkish. I ",
+          "context_right": "Arab friends say Kur"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your reflection on the \"invisibility\" of Kurdistan is incredibly powerful, but to better meet the rubric’s requirement for integrating sources, you should use a \"quote burger\" to connect your personal experience to an outside perspective. Currently, the paragraph relies entirely on your own voice to define the \"stan\" suffix; consider finding a credible source—perhaps a scholar or a piece of journalism on stateless nations—to support your claim about the significance of the name \"Kurdistan.\" By introducing a quote that echoes your sentiment about identity and recognition, you will strengthen your argument by grounding your personal truth in a broader, external context.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Even though the Kurds are stateless, my parents always told us to say we were Kurds first, then name our country. My parents wanted my sister and me to take pride in both our Kurdish heritage and our Iraqi birth. My parents are Kurds born in Iraq; I am a Kurd born in Iraq but grew up in America. Meeting another Kurdish person is quite hard, but meeting one who speaks the same dialect as yours is even harder. The dialects are all Kurdish, yet it’s hard to communicate clearly with someone who speaks Kurmanji as a Garmiani speaker. Kurdish is a language with many roots but communication is hard between them. Compared to the widely spoken English language that is used all over the world, Kurdish is a small language that is only spoken in small parts of the globe. You can communicate with almost everyone in the world in English, but it’s like finding a needle in a mountain of hay to find one that speaks home to me. Because Kurds are so spread out regionally and linguistically it creates a sense of us against the other. The bigger dialects assume smaller dialects as not Kurdish enough or simply not Kurdish 5 at all. This is a sentiment I have experienced here in the U.S. from another Kurdish girl who came straight from Kurdistan. I have never been to Kurdistan, but I still take off my shoes before going inside my house, I still eat Tarhana in the winter, have Mashkae from a goat’s stomach, and I still speak Kurdish. Qi ushiden mae chaem? (who decides what I am?) Era mae Kurdiniem? (am I not Kurdish?)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": " to find one that speaks home to me.",
+          "comment": "great metaphor. Lovely.",
+          "teacher_category": "Praise",
+          "context_left": "in a mountain of hay",
+          "context_right": " Because Kurds are s"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "grew",
+          "comment": "have grown up",
+          "teacher_category": "Mistakes",
+          "context_left": "rd born in Iraq but ",
+          "context_right": " up in America. Meet"
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Qi ushiden mae chaem? (who decides what I am?) Era mae Kurdiniem? (am I not Kurdish?)",
+          "comment": "Another great line!",
+          "teacher_category": "Praise",
+          "context_left": "till speak Kurdish. ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "** The single most important focus for this paragraph is **developing the \"so what?\"—connecting your personal experience to your central argument about identity.** While you effectively describe the tension of being a \"diasporic\" Kurd, you move quickly from the abstract (language and dialect) to a list of cultural habits; try to synthesize these by explicitly explaining how these specific practices (like eating Tarhana or speaking Garmiani) serve as your personal \"homeland\" in the absence of a recognized nation-state.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "To speak Garmiani means knowing: the stories of our ancestors. To Speak Arabic means knowing: there are no stories to be told. “Yeah, I have to move out the moment I turn eighteen!”. In my culture, people often live with their parents even after marriage and starting a family. There is a strong cultural emphasis on staying connected with parents and family members in many Kurdish families, placing individual desires in the background. In contrast, American culture has a huge focus on individualism, centering on personal freedom, success, and dreams that do not revolve around family but rather highlight the self as the primary interest. Growing up in a collective culture, my parents would have our neighbors over and send us with plates of food for them. Sharing food is common where I grew up, especially during the holidays. Funerals are another occasion where food is shared with grieving families. \"They need to have the energy to grieve,\" my mom would say. Grieving and celebrating are collective experiences shared by everyone. In contrast, I experienced a more individualistic society in the West, where the focus is on personal dreams, goals, and desires. My parents always wanted me to pursue a career in pharmaceuticals or engineering, despite my passion for the arts. Exposure to individualism allowed me to seek my personal dreams, instead of prioritizing my parents' goals above mine. To many people who grew up in cultures emphasizing family and community first and viewing elders’ words as gospel, prioritizing one’s own needs is unthinkable. 6 To live in the East means knowing: There is us, but no Me. To live in the West means knowing: There is me, but no home. When we arrived in Khanaqin, the wind was cool, the sky a clear blue, and the grass greener than I had ever seen. It was midday when we reached my aunt’s house. I still remember the orange and yellow brick walls of her gate. The whole neighborhood spiraled up a hill, with narrow, pebble-strewn roads and greenery everywhere. At the neighborhood entrance, fields stretched out in a beautiful green shade for miles. There was a fireplace with chairs and pillows to the side, and in the distance, soccer goals dotted the field. As the sun set, the sky shifted from blue to shades of yellow and orange, like flames engulfing the wood. The smell of burning wood, fresh grass, and food cooking nearby are so vivid in my memory. I hold that memory close to my dilm (heart). Every spring, I burn a branch of wood and watch it burn at sunset. They say it burns away all that is ill and brings warmth and togetherness. My sister once smelled it and said it made her feel nostalgic for something she couldn’t quite name. Perhaps home and culture are not about what surrounds us but rather the traditions we practice, the words we speak, the connections we have with each other, and our desire to not forget.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "To speak Garmiani means knowing: the stories of our ancestors. To Speak Arabic means knowing: there are no stories to be told.",
+          "comment": "Wow. Yes.",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": " “Yeah, I have to mo"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " In",
+          "comment": "remove the period",
+          "teacher_category": "Mistakes",
+          "context_left": "t I turn eighteen!”.",
+          "context_right": " my culture, people "
+        },
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "To live in the West means knowing: There is me, but no home.",
+          "comment": "Wow.",
+          "teacher_category": "Praise",
+          "context_left": "e is us, but no Me. ",
+          "context_right": " When we arrived in "
+        },
+        {
+          "type": "note",
+          "comment": "I would consider cutting this line. The sentiment is already clear :)",
+          "teacher_category": "Mistakes",
+          "context_left": "stories to be told. ",
+          "context_right": "“Yeah, I have to move out the moment I turn eighteen!”. In my cul"
+        },
+        {
+          "type": "note",
+          "comment": "New paragraph here",
+          "teacher_category": "Mistakes",
+          "context_left": "es shared by everyon",
+          "context_right": "e. In contrast, I ex"
+        },
+        {
+          "type": "note",
+          "comment": "beautiful descriptions!",
+          "teacher_category": "Praise",
+          "context_left": "stretched out in a beautiful green shade for miles. There was a fireplace with chairs and pillows",
+          "context_right": " to the side, and in"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The most important focus for this paragraph is **thematic cohesion and structural flow**. While you offer profound reflections on the tension between collective and individualistic cultures, the transition between your analysis and the descriptive narrative of your aunt’s house feels abrupt. To strengthen this, consider using the \"burning wood\" motif—which you introduce so beautifully at the end—as a bridge earlier in the paragraph to unify your cultural analysis with your personal memory, ensuring the \"big ideas\" about home and identity drive the transition rather than just a shift in setting.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "“Burning Wood smells like home, red and hot flowing through our veins. Our instinct remembers what our minds have yet to know”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "“Burning Wood smells like home, red and hot flowing through our veins. Our instinct remembers what our minds have yet to know”",
+          "comment": "gorgeous line.",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your concluding lines are evocative and poetic, but they currently function more as a lyrical summary than a synthesis of your central claim; to elevate this, consider how you can explicitly tie the \"instinct\" of burning wood back to your earlier, complex analysis of the tension between collective identity and the displaced, individual self.",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

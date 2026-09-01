@@ -1,0 +1,107 @@
+{
+  "paragraphs": [
+    {
+      "body": "In recent years, China’s education system has undergone significant reforms aimed at reducing student burdens, promoting equitable access, and modernizing curricula. These initiatives reflect the government’s commitment to fostering a balanced and high-quality educational environment.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "n re",
+          "comment": "Please meet the minimum length requirement (600 words).",
+          "context_left": "I",
+          "context_right": "cent years, China’s ",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph feels disconnected from the rest of the essay. To improve coherence, briefly introduce the specific reforms you'll be discussing in the following sections within this introductory paragraph. This will provide a roadmap for the reader and make the connection between the broad statement and the specific examples clearer.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "Introduction: China’s education system, managed by the Ministry of Education, mandates nine years of compulsory education, encompassing six years of elementary school and three years of middle school. In recent years, the government has introduced several reforms to address challenges such as excessive academic pressure, educational inequality, and the need for modernization.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "the Ministry of Education,",
+          "comment": "Please add hyperlinks to other relevant Wikipedia articles.",
+          "context_left": " system, managed by ",
+          "context_right": " mandates nine years",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph feels a bit like a list of facts rather than an engaging introduction. To draw the reader in, try to start with a more compelling hook or anecdote related to the specific challenges you'll be discussing. This would make the introduction feel less generic and more directly relevant to the essay's focus.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Primary and Secondary Education: A pivotal reform in China’s primary and secondary education is the “Double Reduction Policy” introduced in July 2021. This policy aims to alleviate the excessive burden of homework and after-school tutoring on students. Specifically, it sets limits on homework duration—no written homework for first and second graders, up to 60 minutes for third to sixth graders, and no more than 90 minutes for middle school students. Additionally, the policy regulates extracurricular training by banning for-profit tutoring in core subjects, transforming existing institutions into non-profit entities, and prohibiting tutoring during weekends and public holidays. These measures seek to reduce financial pressures on families and promote a more holistic educational experience.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "it s",
+          "comment": "I would clarify what you mean by \"it.\"",
+          "context_left": "ents. Specifically, ",
+          "context_right": "ets limits on homewo",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph provides good detail about the Double Reduction Policy, but it lacks a strong connection to the overall argument about China's education reforms. To strengthen this paragraph, consider explicitly linking the policy back to the broader goals of reducing student burdens and promoting equity, as mentioned in the introduction and conclusion. Explain *how* these specific measures contribute to or fall short of achieving those goals.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Higher Education: In higher education, China has been focusing on developing world-class universities and disciplines that align with national strategic needs. Efforts include readjusting academic disciplines, encouraging collaborations with international institutions, and promoting the establishment of programs that cater to emerging industries and technologies. These initiatives aim to enhance the quality of higher education and ensure that graduates are well-equipped to contribute to the nation’s socio-economic development.",
+      "annotations": []
+    },
+    {
+      "body": "Challenges and Reforms: Despite these reforms, challenges persist. The implementation of the Double Reduction Policy, for instance, has led to unintended consequences. While the policy intended to reduce educational costs and narrow the gap between affluent and less privileged students, reports suggest that schooling has become more expensive, potentially exacerbating educational inequality. Parents continue to seek alternative avenues to provide their children with competitive advantages, indicating a deeply ingrained culture of academic competition. Moreover, the rapid pace of reforms necessitates continuous assessment to address emerging issues. Ensuring that policies achieve their intended outcomes without creating additional disparities remains a critical focus for policymakers.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Parents continue to seek alternative avenues to provide their children with competitive advantages, indicating a deeply ingrained culture of academic competition. Moreover, the rapid pace of reforms necessitates continuous assessment to address emerging issues. Ensuring that policies achieve their intended outcomes without creating additional disparities remains a critical focus for policymakers",
+          "comment": "In-text citations are needed to justify each factual claim.",
+          "context_left": "educational inequality. ",
+          "context_right": ".",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph introduces the idea that there are \"challenges\" but then only really focuses on the *negative* unintended consequences of one policy (Double Reduction). To strengthen this paragraph, broaden the discussion beyond just the negative aspects of the Double Reduction Policy. Consider briefly mentioning *other* challenges facing Chinese education or successful aspects of *other* reforms alongside this one example to provide a more balanced and nuanced perspective.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Conclusion: China’s recent educational reforms underscore a commitment to reducing student burdens, enhancing educational quality, and promoting equity. While significant progress has been made, ongoing evaluation and adaptation are essential to address challenges and ensure that the education system meets the diverse needs of its student population.",
+      "annotations": []
+    },
+    {
+      "body": "References:“Double Reduction Policy. ” Wikipedia, en.wikipedia.org/wiki/Double Reduction _ _Policy. “China unveils 2024-2035 plan to build ‘strong education nation’.” Reuters,www.reuters.com/world/asia-pacific/china-unveils-2024-2035-plan-build-strong-education-nation-2025-01-19/.“China’s education reforms were meant to lower costs. So why is schooling more expensive?”South China Morning Post,www.scmp.com/economy/china-economy/article/3243926/chinas-education-reforms-were-meant-lower-costs-so-why-schooling-more-expensive.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "China",
+          "comment": "Please format the references according to Wikipedia's citation style and cite more academic sources.",
+          "context_left": "“",
+          "context_right": "’s education”",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The references section needs significant formatting and attention to detail. You've listed sources, which is good, but they are not consistently formatted according to any recognizable citation style (like MLA, APA, or Chicago). Choose a citation style, learn its rules for citing websites, and apply it consistently to all your sources. Correctness and consistency are crucial for academic credibility.",
+          "model_category": "Task Constraints"
+        }
+      ]
+    }
+  ]
+}
