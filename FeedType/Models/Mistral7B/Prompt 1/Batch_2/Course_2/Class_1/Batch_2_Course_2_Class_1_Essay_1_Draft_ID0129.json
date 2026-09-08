@@ -1,0 +1,189 @@
+{
+  "paragraphs": [
+    {
+      "body": "Literature World Across The Atlantic Ocean",
+      "annotations": []
+    },
+    {
+      "body": "After a thirteen-hour flight, I finally landed in Pittsburgh, Pennsylvania. The atmosphere here has so much difference compared with Taiwan, which is my hometown. Before the semester started, I walked around the campus, looking out for places and tourists that are new to me. While searching through the Internet, I found out that there is a library near our campus, the Carnegie Library in Pittsburgh. As a person who loves to explore novelty, I planned to visit it immediately. Before heading to the library, I imagined it to be like an historical building which is covered with an artful and humanistic atmosphere. Through the pictures posted online, the library’s appearance gives a solemn vibe to me. I picture it to have crystal chandeliers and gorgeous decorations like it was in ancient centuries. (picture 1-1)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "gives a solemn vibe to me.",
+          "comment": "produced a solemn wibe.",
+          "context_left": "ibrary’s appearance ",
+          "context_right": " I picture it to hav",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your vivid description of your imagined library in Pittsburgh is engaging and sets the scene well. However, it would be more effective if you could provide more specific details about the historical and artful atmosphere you envisioned. For example, instead of just saying \"crystal chandeliers and gorgeous decorations,\" you could describe the style and materials of the chandeliers, or the intricate designs of the decorations. This will help your readers better visualize your mental image and make your writing more immersive.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "It feels like moving into a different world when I step into the Carnegie Library in Pittsburgh. While walking up the elegant stairs, I glanced through the ornaments. My move was much more cautious as the quiet vibe filled the building. Obviously, some parts of the library look alike with the one in my imagination. Although it actually does have a historical and artful atmosphere, it doesn’t look that luxurious. The library has a cosy space where people are allowed to study or read. Frankly speaking, I found the area inside the library really spacious and comfortable. I could slide through the bookshelf, flip through the ancient novels and aged sheet music. Surprisingly, there is a piano with earphones for people who want to play inside the library. Moreover, a machine for composition is provided for the public, which I never saw in any library back in my hometown. For those who love music and are interested in making music like me, the corner of the library is the best place for our entertainment. (picture 1-2)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "feels",
+          "comment": "felt - please use the past tense more consistently",
+          "context_left": "It ",
+          "context_right": " like moving into a ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is a",
+          "comment": "was",
+          "context_left": "Surprisingly, there ",
+          "context_right": " piano with earphone",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The description of the library in the target paragraph could benefit from more sensory details to help readers imagine the atmosphere. For example, you might describe the smell of old books, the sound of turning pages, or the feeling of the cool stone stairs beneath your feet. These details will help readers connect more deeply with your experience and make your writing more engaging.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your exposition lacks specificity. Consider adding more sensory details to help readers visualize the scene. Focus: Exposition Reasoning: A vivid description of the setting in the exposition will help readers connect with the story and better understand your preconceptions.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "During the visit, I figured out that the impression given out by the Carnegie Library in Pittsburgh and the library near my house. The library won the name “Knowledge Canyon” with the special design of the building. Despite the fact that it is still in construction, it could be clearly seen by the blueprint that the library will be surrounded by plants, providing an eco-friendly environment. The energy saving functions, including the categories of wind and sunlight, make the library an unique place to study or read. Interestingly, my hometown Hsinchu was known as “風城”, which means that we got a lot of winds throughout the year. This is why the designers planned to give the Knowledge Canyon to possess ventilation and the transmission of light, making best use of the natural resources. It then provides the readers a natural space to relax and read. (picture 1-3)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "figured out that the impression given out by the Carnegie Library in Pittsburgh and the library near my house.",
+          "comment": "I realized the impression given by the Carnegie Library in Pittsburgh was different from the library near my house.",
+          "context_left": "During the visit, I ",
+          "context_right": " The library won the",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your comparison between the two libraries is engaging and insightful, but it could benefit from more specific details. Instead of just mentioning that they focus on different aspects, provide concrete examples of how each library achieves its unique design and purpose. For instance, you could describe the architectural features of the Carnegie Library that contribute to its historical and artful atmosphere, and the specific ways in which the Knowledge Canyon utilizes natural resources for an eco-friendly environment. By providing more specific details, your comparison will be stronger and more effective in illustrating the differences between the two libraries.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "The Carnegie Library in Pittsburgh and the Knowledge Canyon in Hsinchu, Taiwan, are really different in either the appearance or the atmosphere. They both got remarkable design, with a focus on different aspects. The former one focuses more on the inheritage of history and art; the latter dive more into how to utilize natural resources. I doubt that I have a certain stereotype when it comes to the libraries in other countries. I always imagine it to be as splendid as it can be, forgetting that it is actually the mark of history. The sense of sacredness inside the library makes me have a feeling of being on time traveling. On the other hand, I also love the thoughts of the designers on using the natural resources. In order to save our only planet, we should be in action and so is the building. (picture 1-4)",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " are",
+          "comment": "appeared",
+          "context_left": " in Hsinchu, Taiwan,",
+          "context_right": " really different in",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "They both got remarkable design, with a focus on different aspects.",
+          "comment": "With a focus on different aspects, these two locations both feature remarkable designs.",
+          "context_left": " or the atmosphere. ",
+          "context_right": " The former one focu",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "on time traveling.",
+          "comment": "a time traveler",
+          "context_left": " a feeling of being ",
+          "context_right": " On the other hand, ",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "have",
+          "comment": "develop",
+          "context_left": "ces. I doubt that I ",
+          "context_right": " a certain stereotyp",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the Carnegie Library in Pittsburgh is vivid and engaging, but it would benefit from more specific details about how the library's focus on history and art differs from your initial imagination. Consider adding concrete examples or anecdotes to illustrate these differences. Focus: Provide more specific details about the differences in focus between the Carnegie Library and your initial imagination.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the Carnegie Library in Pittsburgh is vivid and engaging, but it would benefit from more specific details about how the library's focus on history and art differs from your initial imagination. Consider adding examples of specific decorations or historical artifacts that contribute to the library's sense of heritage. Focus: Provide more specific details to support the description of the library's focus on history and art.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your comparison between the Carnegie Library in Pittsburgh and the Knowledge Canyon in Hsinchu could be more effective if you provide specific examples or details to illustrate the differences. For instance, you might describe how the historical and artistic elements of the Carnegie Library contrast with the eco-friendly design of the Knowledge Canyon, or how the atmosphere of each library affects your experience as a visitor. By providing more concrete details, you can help your readers better understand the unique features of each library and the significance of the cross-cultural comparison.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the Carnegie Library in Pittsburgh is vivid and engaging, but it would benefit from more specific details about how the library's focus on history and art differs from the Knowledge Canyon in Hsinchu, Taiwan. Consider adding concrete examples or anecdotes to illustrate these differences. Focus: Comparison of specific details in the description of the libraries' focus on history and art.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "After the visit to Carnegie Library in Pittsburgh, I found it really interesting to be in a place that might be familiar to me but feels totally different. This is such a special experience to see the differences between libraries between America and Taiwan. In addition, it helped me appreciate how Western libraries often preserve history and cultural identity in their design, creating a sense of continuity. On the other hand, the library in my hometown reflects a modern and progressive approach to architecture. It opened my eyes to how libraries in different cultures are not only spaces for learning but also symbols of different values for the society—whether it’s focusing on tradition or sustainability.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "After",
+          "comment": "",
+          "context_left": "",
+          "context_right": " the visit to Carneg"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "This",
+          "comment": "To avoid vague pronouns, I would clarify what you mean by \"this\" -- This comparison",
+          "context_left": " totally different. ",
+          "context_right": " is such a special e",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "It ",
+          "comment": "The cross-cultural comparison",
+          "context_left": "ch to architecture. ",
+          "context_right": "opened my eyes to ho",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your visit to the Carnegie Library in Pittsburgh provided you with a unique perspective on the differences between libraries in America and Taiwan. While your initial imagination of the library was based on historical and artful decorations, your actual visit revealed a more comfortable and spacious atmosphere. In your comparison of the Carnegie Library and the Knowledge Canyon in Hsinchu, you noted the focus on history and cultural identity in Western libraries versus the modern and progressive approach to architecture in your hometown. However, the paragraph could benefit from more specific details about the differences between the two libraries, such as the use of natural resources and the role of libraries as symbols of cultural values.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your visit to the Carnegie Library in Pittsburgh and your hometown library provided valuable insights into the differences between Western and Eastern library designs. However, the paragraph could benefit from a more detailed reflection on how these differences impacted your perspective. Consider exploring how the focus on history and cultural identity in Western libraries contrasted with the modern and progressive approach in your hometown library. How did these differences challenge your assumptions or stereotypes about libraries in different cultures?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "picture 1-1 picture 1-2",
+      "annotations": []
+    },
+    {
+      "body": "picture 1-3 picture 1-4",
+      "annotations": []
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "paragraphs": [
+    {
+      "body": "When You Realized that Squirrel Hill Does Not Have Squirrel Sometimes, the name of a place does not represent the real appearance of that place. For example, there is a village called “Mars Village” in Hangzhou, Zhejiang. Although this village even has a “Mars road” and “space breeding base”, the gravity is still 1G just like Earth. So it is a lot of fun to discover different places with interesting names and compare their real faces with our imagination. Besides this, the same type of places like parks and neighborhoods in other areas or countries may have opposite purposes because of diverse cultural backgrounds. In this essay, the main idea I want to express is that we should celebrate differences and try to understand and accept them.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "So it is a lot of fun to",
+          "comment": "Therefore, it was a lot of fun for me to...",
+          "context_left": "1G just like Earth. ",
+          "context_right": " discover different ",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "You",
+          "comment": "I",
+          "context_left": "When ",
+          "context_right": " Realized that Squir",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "Please add a 0.5'' indentation at the beginning of each paragraph.",
+          "context_left": "ot Have Squirrel Som",
+          "context_right": "Sometimes, the name ",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Squirrel",
+          "comment": "Squirrels",
+          "context_left": "n You Realized that ",
+          "context_right": " Hill Does Not Have ",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The main idea of your essay is clear, but it would be helpful to expand on the concept of \"celebrating differences and trying to understand and accept them\" with more detail or explanation. Type: Elaboration",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The essay's main idea is clear, but the title and introduction could be more specific to the place in Pittsburgh and the cultural comparison. Type: Task Constraints --- Feedback: The description of Mars Village in Hangzhou is interesting, but it doesn't directly relate to the main idea of the essay. Consider removing it or integrating it more closely with the main idea. Type: Concepts --- Feedback: The sentence \"In this essay, the main idea I want to express is that we should celebrate differences and try to understand and accept them\" is repetitive and could be integrated more smoothly into the introduction.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The main idea of your essay is clear, but it would be helpful to provide more specific examples of how the same type of places have opposite purposes due to cultural backgrounds. Type: Elaboration",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your introduction is unclear. Please clarify what you mean by \"the name of a place does not represent the real appearance of that place.\" Type: Clarification",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "When I moved from my hometown, Suzhou, to Pittsburgh as a University of Pittsburgh sophomore, I quickly learned that American place names often hold surprises. Some names show their history, but some really make me confused— Bloomfield, the Strip District, Shadyside. However, nothing intrigued me more than Squirrel Hill. Before I visited, I imagined a small mountain covered in thick pine trees teeming with squirrels. It also might be a natural reserve which is perfect for camping. Its name, after all, seemed as literal as the “Black Wind Hill” in the traditional story. But like many things in cross-cultural life, reality does not match expectations.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "like",
+          "comment": "as with",
+          "context_left": "ditional story. But ",
+          "context_right": " many things in cros",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "show",
+          "comment": "conveyed",
+          "context_left": "rprises. Some names ",
+          "context_right": " their history, but ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "does not match ",
+          "comment": "oftentimes diverged from my expectations.",
+          "context_left": "tural life, reality ",
+          "context_right": "expectations.",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "American place names often hold surprises.",
+          "comment": "the names of US locations oftentimes were full of surprises",
+          "context_left": "uickly learned that ",
+          "context_right": " Some names show the",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your essay provides a clear and engaging exposition of your initial imagination of Squirrel Hill. However, it would be beneficial to expand on the specific details of your preconception, such as why you imagined a small mountain covered in thick pine trees and teeming with squirrels. This will help to create a stronger contrast between your preconception and the reality of Squirrel Hill. Type: Elaboration",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your exposition is clear, but it would benefit from more elaboration on the specific details of your preconception. Type: Elaboration ### Your Turn ### Feedback: Your description of your preconception of Squirrel Hill is vivid, but it would be helpful to clarify why you imagined a small mountain covered in thick pine trees teeming with squirrels. Type: Clarification",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The main idea of your essay is clear, but it would be helpful to expand on the differences between Squirrel Hill and your home community in more detail. Type: Elaboration",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your introduction effectively sets up the contrast between your preconception of Squirrel Hill and the reality of the place. However, it would be helpful to clarify that the name \"Squirrel Hill\" was the primary reason for your imaginative expectations. Type: Clarification",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "When I finally visited Squirrel Hill, I found no pine-covered mountain or chattering squirrels— only a quiet deer grazing near a crosswalk (and this is the sole wild animal I encountered).",
+      "annotations": []
+    },
+    {
+      "body": "Instead of a natural reserve, I found a classic American neighborhood that consists of red-brick houses with sloping roofs and wooden porches. For a moment, I doubted my map—where were the trees and squirrels? As I wandered around, Cafés and bookstores lined the streets, and students from nearby universities sipped coffee while typing on laptops. Where I had imagined a forest, there was a community. Where I expected squirrels, there were only street signs bearing their name. Maybe the squirrel-shaped bicycle racks on the side of the street are the most “squirrel” thing here. This reminded me of Suzhou’s 金鸡湖, golden cock lake in English, a place whose name is based on ancient folklore.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " of",
+          "comment": "consisted of - please use the past tense consistently throughout the paragraph.",
+          "context_left": "orhood that consists",
+          "context_right": " red-brick houses wi",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": " a place whose name ",
+          "context_right": "based on ancient fol",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " are",
+          "comment": "were",
+          "context_left": "e side of the street",
+          "context_right": " the most “squirrel”",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "“squirrel” thing",
+          "comment": "\"squirrelly\" thing",
+          "context_left": "street are the most ",
+          "context_right": " here. This reminded",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the unexpected discovery of Squirrel Hill in Pittsburgh is engaging and vivid. However, it would be helpful to clarify that the \"classic American neighborhood\" you encountered was indeed Squirrel Hill, as you mentioned this later in the paragraph. This will ensure that the reader understands the connection between your initial expectations and the reality you encountered. Clarification: Please specify that the \"classic American neighborhood\" you discovered was, in fact, Squirrel Hill.",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The essay provides a clear description of the discrepancy between the expected and actual appearance of Squirrel Hill. However, it would be beneficial to expand on the comparison between Squirrel Hill and the Chinese apartment complex to further illustrate the differences and similarities between the two communities. Type: Elaboration",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the unexpected discovery of Squirrel Hill in Pittsburgh is engaging and vivid. However, it would be helpful to clarify that the \"classic American neighborhood\" you encountered was not what you had initially imagined, but rather a contrast to your preconceived notion of a natural reserve. This will make the conflict between your expectations and reality more clear. Clarification: Please clarify that the neighborhood you found was not the natural reserve you had expected, but rather a contrast to it.",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Type: Elaboration Your description of the difference between Squirrel Hill and your home community in Suzhou is interesting, but it could benefit from more detail. For example, you mention that people in Squirrel Hill live in single-family homes with gardens, while in Suzhou, people live in tall residential apartments with small balconies. However, you could expand on how these differences impact daily life and community interaction. How do the physical spaces shape social dynamics?",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "In Suzhou, my family lived in a 小区(Xiaoqu, Chinese apartment complex) named “Golden Harmony Gardens,” though there was nothing particularly golden or harmonious about its concrete apartment buildings. Like Squirrel Hill, it was a community—but one shaped by different rhythms, spaces, and rules. What made Squirrel Hill and Xiaoqu different was the personal living space and the architecture. People in Squirrel Hill, or I should say in America, always live in a single-family home with a small garden at the entrance. But in Xiaoqu, people live in tall residential apartments, usually with a small balcony. The smaller personal space for people who live in Xiaoqu makes them more likely to interact with their neighbors. Of course, the difference between the two communities is not only from the perspective of buildings but also the cultural traditions. In Squirrel Hill, neighbors bonded by Steelers games and pumpkin spice lattes; in Golden Harmony Gardens, connections formed by dumpling-making during Spring Festival or complaints about broken elevators.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is not only from ",
+          "comment": "not only emerged from the perspective of buildings but also from their distinct cultural traditions.",
+          "context_left": "the two communities ",
+          "context_right": "the perspective of b",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "were bonded",
+          "context_left": "rrel Hill, neighbors",
+          "context_right": "bonded by Steelers g",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "were formed",
+          "context_left": "Gardens, connections",
+          "context_right": "formed by dumpling-m",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the differences between Squirrel Hill and Xiaoqu in terms of personal living space and architecture is clear and detailed. However, it would be beneficial to expand on the cultural traditions that shape the communities beyond just the examples of bonding activities. Consider exploring how these traditions influence daily life, social interactions, and community values. This will add depth to your cross-cultural comparison and help readers better understand the significance of the differences you've observed.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The title \"Be creative!\" is a good start, but it does not give a clear indication of the main point of your essay. Consider adding more specific details to the title that reflect the content of your narrative. Type: Task Constraints",
+          "model_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The title \"Be creative!\" is a good start, but it doesn't give a clear sense of the main point or content of the essay. Consider adding more specific details to the title that reflect the main idea. Type: Task Constraints",
+          "model_category": "Task Constraints"
+        }
+      ]
+    },
+    {
+      "body": "Living in both places, I began to see these differences not as flaws, but as answers to the same human question: How do we belong? …",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "How do",
+          "comment": "Where",
+          "context_left": "ame human question: ",
+          "context_right": " we belong? …",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The main idea of your essay is clear, but it would be helpful to expand on the comparison between Squirrel Hill and your home community in Suzhou. How are the differences in residential structures and cultural traditions influencing the sense of belonging for the residents in each place? Provide specific examples and details to deepen the comparison. Type: Elaboration",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Observing the differences in residential structures helped me appreciate how cultural and societal factors influence urban planning. For example, the naming of “Squirrel Hill” shows how names can sometimes carry symbolic or historical significance rather than being literal…",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "Please add more sentences to enrich the content of this concluding paragraph.",
+          "context_left": "ence urban planning.",
+          "context_right": " For example, the na",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The main idea of your essay is clear, but it would be helpful to provide more specific examples of how cultural and societal factors influenced the naming and planning of Squirrel Hill and your home community in Suzhou. Type: Elaboration",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

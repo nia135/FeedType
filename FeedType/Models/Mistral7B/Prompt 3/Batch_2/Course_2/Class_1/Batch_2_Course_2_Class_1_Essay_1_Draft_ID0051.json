@@ -1,0 +1,136 @@
+{
+  "paragraphs": [
+    {
+      "body": "Schenley Park",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "",
+          "comment": "I would suggest coming up with a title that conveys the essence of your cross-cultural comparison.",
+          "context_left": "Sch",
+          "context_right": "Schenley Park",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Type: Elaboration Feedback: Your comparison of Schenley Park to a similar place in your home country could benefit from more detail and explanation. For instance, you could discuss specific aspects of the two places, such as architecture, atmosphere, or cultural elements, and explain how they differ or are similar. This will help to deepen the reader's understanding of your cross-cultural comparison and the insights you gained from it.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "My first impression of Schenley Park was of a courtyard rather than a park. Maybe it's because the name reminds me of a garden full of statues and neatly trimmed plants. The word “Shenley” reminds me of the English park with cobblestone paths, elegant benches and a peaceful atmosphere. The idea of an English park comes from the scene in Before Sunset where Jesse and Céline are walking along the Seine River. They walk along picturesque paths and discuss philosophy and poetry in the shade of old trees. Because of these preconceived notions, Schenley Park was destined in my imagination to be an oasis of serenity and well-maintained sophistication. But the truth is that I have visited Schenley Park three times, and each time a new perspective continues to challenge my initial impressions.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "comes ",
+          "comment": "emerged",
+          "context_left": " of an English park ",
+          "context_right": "from the scene in Be",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " scene in Before Sunset",
+          "comment": "I would italicize the movie title",
+          "context_left": " park comes from the",
+          "context_right": " where Jesse and Cél",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " me",
+          "comment": "reminded - Please use the past tense more consistently throughout the paragraph.",
+          "context_left": "use the name reminds",
+          "context_right": " of a garden full of",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your initial description of Schenley Park is quite vivid and engaging, but it seems to be based on your preconceived notions rather than the actual place. The target paragraph suggests that your first impression of Schenley Park was of a courtyard, reminding you of an English park with cobblestone paths, elegant benches, and a peaceful atmosphere. However, you have visited Schenley Park three times, and each time you have discovered new perspectives that challenge your initial impressions. To deepen your essay, consider elaborating on these new perspectives and how they differ from your initial assumptions.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your initial description of Schenley Park is rich in detail and imagery, effectively conveying your preconceived notions of the park. However, it would be beneficial to clarify that your first impression was based on the name and the influence of media portrayals, as stated in the target paragraph. This will help to set the context for the rest of the essay and ensure that the reader understands the source of your assumptions. Clarification: Please clarify that your initial impression of Schenley Park was based on the name and media portrayals.",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your initial description of Schenley Park is quite vivid and engaging, but it seems to be based on your preconceived notions rather than the actual place. The target paragraph suggests that your first impression of Schenley Park was of a courtyard, reminding you of an English park with cobblestone paths, elegant benches, and a peaceful atmosphere. However, you have visited Schenley Park three times, and each time you have discovered new perspectives that challenge your initial impressions. To deepen your essay, consider elaborating on these new perspectives and how they differ from your initial assumptions.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "The first time I visited Schenley Park was at the end of the summer, as a class trip for my second film class, and I was led to Schenley Park for the first time by my professor; it's worth noting that I'd already seen descriptions of the park on social media beforehand, so its name wasn't unfamiliar to me. But I was still blown away by what I saw; instead of the manicured formal gardens I had imagined, what I saw was a vast expanse of green space with a wild charm. The park was not sculpted and arranged as I had imagined; rather, it was a vibrant, gigantic creature settled in the middle of the city, giving me a glimpse of its wildness and vitality. The bridges over the lake were showing signs of rust from not being maintained for so long, and the paths were lined with weeds. The characteristic summer grasses and reeds took up almost the entire surface of the water, leaving only a few gaps that allowed me to see the plants under the water through the clear lake water. Schenley Park presents a natural, untouched beauty. There are no stone bridges or pagodas to frame the landscape, and the trails are not carefully designed. The absence of fitness equipment or vendors is also striking - and these elements are common in Chinese parks. Instead, Schenley Park feels closer to nature's pristine state, with little human intervention. This return to the beauty of the natural environment balances nature and the urban environment. I began to understand that my initial assumptions about Schenley Park stemmed from unfamiliarity with American park culture and the influence of media portrayals. I had unconsciously projected elements from movies, television, and my cultural background onto my expectations of Schenley Park.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " it's",
+          "comment": "I would suggest starting a new sentence here.",
+          "context_left": "ime by my professor;",
+          "context_right": " worth noting that I",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "t",
+          "comment": "was",
+          "context_left": "The firs",
+          "context_right": " time I visited Sche",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the initial impression of Schenley Park and the subsequent discovery of its true nature is engaging and vivid. However, it would be helpful to clarify the specific elements of American park culture that influenced your preconceptions, as this will add depth to your cross-cultural comparison in the later sections of your essay. For instance, you mention movies and television as sources of influence, but could you provide specific examples or genres? Additionally, you mention the influence of Chinese parks, but could you describe the key features of these parks that differ from Schenley Park?",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the initial impression of Schenley Park is vivid and engaging. However, it would be helpful to clarify that the manicured formal gardens you imagined were based on your previous experiences or cultural background, rather than an inherent assumption about American parks. This will help to emphasize the role of personal preconceptions in shaping your perception of the place. Task Constraints: clarifies assignment goals, required components, or evaluation criteria.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "The rainy season in Schenley Park always begins with the spread of mold on the cast iron benches. On my second visit it was late fall, and since the semester was coming to an end, I decided to return to the area to find inspiration for my final piece for my film class. I crouched on the lakeshore to count the remains of algae, the dark green flotsam sprawled on the old steps like the green mold that always emanated from the damp walls of my old hometown of Anhui in the winter. Rotten acorns groaned sticky on the soles of my canvas shoes as I walked through the undergrowth. The fishy smell of wild mint mixed with the backwash of humus burrowed into my nostrils, reminding me of the never-drying school uniforms in my rented room during Shanghai's rainy season. The boxwoods, which should be pruned into globes, have grown into tumor-like monstrosities here, and the convenience store plastic bags hanging between their branches drip with last night's rain. Late fall twilight comes like instant coffee that has been watered down too much, and you have to taste it hard to enjoy the layers of bitterness.I sit on a rocky shoreline and nibble on a cold sandwich, watching a flock of mallards skim the railroad tracks and cast their reflections on the lake. As their flippers cut through the oil, the water rippled with the colorful ripples characteristic of the Suzhou Moat. Pittsburgh has cooled in the fall, and the jumper and short sleeves I wore were slightly thin in the windy weather. I was drawn to the cold, moist air I inhaled and completely succumbed to that environment. As I strolled along the riverbank, I felt a sense of serenity. There was only the gentle ripples on the water and the fallen leaves around me. I've always loved the trees in the fall when they shed their leaves in the twilight between life and death - a bare trunk that seems unlikely to flourish again in the spring. Their shedding, however, is the loveliest of moments: the leaves flutter freely from the branches, landing gently on the grass or, on windy days, swirling through the air as if forming a shimmering bonfire of rust and gold. As my shooting progressed, the sky darkened. The northern city of Pittsburgh is different from Shanghai, the city I grew up in. Shanghai is cold, unlike the biting cold of the north. It starts out soughing like an autumn breeze, but by the time one notices it, it's like maggots clinging to one's skin and burrowing into one's bones. Slowly, one is immersed in Shanghai's cold. Pittsburgh, on the other hand, is cold in the north, and as long as one is wearing a good thick coat, even the strongest winds won't be particularly cold. But maybe it was because I was shooting by the lake, the damp and chilly air still soaked into my jacket-wrapped body with my breath. 日暮天寒，归 去来兮。",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "visit",
+          "comment": "sat",
+          "context_left": "nches. On my second ",
+          "context_right": " it was late fall, a",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "you",
+          "comment": "Since this is a persona narrative, please use the first-person perspective consistently throughout the paper.",
+          "context_left": " down too much, and ",
+          "context_right": " have to taste it ha",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your comparison of Schenley Park to your old hometown in China is vivid and effective in conveying the differences between the two places. However, it would be beneficial to provide more specific details about the similarities and differences in terms of language, architecture, atmosphere, and cultural elements. For example, you could describe how the smell of wild mint and humus in Schenley Park reminds you of Shanghai's rainy season, but also mention specific differences in the types of plants or buildings you encounter in each place. This will help to deepen the reader's understanding of your cross-cultural experience.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your vivid descriptions of the sights, smells, and sounds of Schenley Park during the rainy season and late fall are excellent. However, the paragraph could benefit from more elaboration on the specific ways in which the park was different from your expectations and how it compared to a similar place in your home country. For example, you could describe in more detail the differences in the types of trees, the smells of the undergrowth, or the textures of the mold and acorns. Additionally, you could expand on how the cultural elements of the two places, such as the use of convenience store plastic bags or the types of benches, contributed to the overall experience.",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

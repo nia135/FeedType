@@ -1,0 +1,310 @@
+{
+  "paragraphs": [
+    {
+      "body": "The Gates of Campus In My Mind – My Visit To University of Pittsburgh Before I arrived in Pittsburgh, I was perfectly sure what a university should look like. Based on my experiences with Chinese universities, I expected a remarkable entrance— maybe a stone arch or a large gate carrying the institution name in bold, graceful lettering. The University of Pittsburgh would, in my view, have a similar arrangement, with gates or walls around the campus and precisely identifying its limits. Once I passed through the door, I thought I would find everything orderly inside—classrooms, dorms, administrative buildings, student facilities, libraries—all enclosed on university property. A university, to me, was supposed to be a self-sufficient environment, a learning universe cut apart from the outside distractions of metropolitan life.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Before",
+          "comment": "You could use dialogues, quotes, etc. to enrich the content of the first paragraph.",
+          "context_left": "rsity of Pittsburgh ",
+          "context_right": " I arrived in Pittsb",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Consider adding a clear introduction that sets up the context for the comparison and explicitly states the main point of the paragraph. Also, make sure that each sentence in the body of the paragraph contributes to the comparison and that the comparison itself is the primary focus of the paragraph.",
+          "model_category": "Clarification"
+        }
+      ]
+    },
+    {
+      "body": "Still, I was surprised when I finally made it to the University of Pittsburgh. There was no magnificent gate, no large stone arch to indicate my arrival, no one spot where I would declare, \"Here begins the university.\" Rather, the university melted into the city and was evident on several streets and blocks. Rising alongside stores, restaurants, and offices, university buildings created a complex network of academic and urban life. I first found this perplexing; I looked for the \"main gate\" but never came upon one. Without a clear barrier, the campus seemed to have no beginning or finish, no change from the \"outside world\" into the \"academic world.\" Universities are set up in my hometown as contained spaces. From the crowded streets of the city to the quiet, concentrated atmosphere of academics, a clear gate defines the change. It fosters exclusivity; once you past those gates, you belong to a unique group committed to education and personal development. It was almost strange to me not having this function at the University of Pittsburgh. Though I had imagined the university as a haven for students, a universe unto itself, it was actually part of the greater city and interacted with in a way I had never seen before.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "with in",
+          "comment": "the city",
+          "context_left": "city and interacted ",
+          "context_right": " a way I had never s",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "you ",
+          "comment": "Please use the first-person perspective consistently throughout the paper.",
+          "context_left": "s exclusivity; once ",
+          "context_right": "past those gates, yo",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " you ",
+          "comment": "Same here.",
+          "context_left": "ou past those gates,",
+          "context_right": "belong to a unique g",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "It was",
+          "comment": "actually acted as part of the city and interacted with it ...",
+          "context_left": "rsonal development. ",
+          "context_right": " almost strange to m",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your exposition effectively sets the scene and establishes your initial expectations for the University of Pittsburgh. However, it would be beneficial to include more specific details about the physical features of the place in your hometown that contribute to the feeling of exclusivity and the sense of belonging. This will help create a stronger contrast with the University of Pittsburgh in the rising action section. Additionally, consider using transitional phrases to connect the exposition and the conflict sections more smoothly.",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The exposition could benefit from more context or foreshadowing to set up the unexpected discovery in the conflict. Consider providing more details about the student's initial expectations or mentioning any rumors or clues that hint at the university's unique layout. This will create a smoother transition and engage the reader's interest in the narrative.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The student's description of their initial expectations of the University of Pittsburgh is vivid and engaging, but the transition to the conflict could be smoother. Consider explicitly stating how the lack of a clear entrance or gate contradicted their initial expectations and how this confusion impacted their experience of the university. Additionally, provide more specific details about the elements of the university that surprised them, such as the integration of academic and urban life and the lack of a clear boundary between the university and the city. This will help to create a clearer and more cohesive narrative.",
+          "model_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The student's description of their initial expectations of the University of Pittsburgh could be expanded to provide more details about how these expectations were influenced by their experiences with Chinese universities. Additionally, the transition between the exposition and the conflict could be improved by explicitly stating how their initial expectations were not met and how they were confused or perplexed by the lack of a clear entrance. This would help to establish a stronger contrast between their preconceptions and the reality of the University of Pittsburgh.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "This awareness made me consider the more general cultural variations between American and Chinese university campuses. The enclosed architecture of the institution in my city supports a feeling of identification and belonging. Students live, study, and interact inside a well defined area that helps to build close relationships among them. The university's physical location, distant from the distractions of ordinary urban life, is a psychological one as well; it is a place set just for education. By contrast, the open system of the University of Pittsburgh points to an other ideology. Here, education is included into the society rather than occurring apart. The university is a component of the city itself, not an other entity.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " to",
+          "comment": "Please use the past tense more consistently",
+          "context_left": "ined area that helps",
+          "context_right": " build close relatio",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "",
+          "comment": "supported",
+          "context_left": " in my city supports",
+          "context_right": " a feeling of identi",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the enclosed architecture fostering a sense of belonging is vivid and engaging. However, consider providing more specific examples of how this architecture contributes to this feeling. For instance, you might describe the layout of buildings, the use of common spaces, or the role of student organizations in creating a sense of community. This will help readers better understand your argument and make it more convincing.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the enclosed architecture fostering a sense of belonging is vivid and engaging. However, consider providing more specific examples or details to strengthen this idea. For instance, you might describe how the physical layout of buildings or campus spaces facilitates interaction and community-building among students. This will help readers better understand the significance of the enclosed architecture in your narrative.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Examining the University of Pittsburgh, I started to see both parallels and contrasts with the university in my hometown. Fundamentally, they consisted in libraries, classrooms, student lounges, and study areas—the same basic components. Still, the manner these places were set out was rather different. Everything in my hometown is focused in one, contained region. Students walk between buildings without crossing the specified boundaries of the university. The experience is immersive, like living in a little village devoted just to education.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": "hing in my hometown ",
+          "context_right": "focused in one, cont",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "is ",
+          "comment": "was",
+          "context_left": "ity. The experience ",
+          "context_right": "immersive, like livi",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The exposition could benefit from more specific details about the place in Pittsburgh and the student's cultural background to establish a stronger foundation for the comparison. Focus: Specificity in the exposition.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the differences between the two universities is vivid and engaging, but it could benefit from more specific details that help to illustrate the contrasts. Consider adding sensory details or concrete examples to bring the reader closer to the experience of each university. For instance, you might describe the sounds, smells, or textures that are unique to each environment, or provide examples of specific interactions or activities that illustrate the immersive versus open nature of each campus. By providing more concrete details, you can help to make the comparison more vivid and memorable for your reader.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "At Pittsburgh University, nevertheless, the lines separating the institution from the city are hazy. Walking from one building to another, students stroll along public streets past persons not connected to the university community. Along the streets are coffee shops and bookstores for city dwellers as well as students. On a conventional Chinese university, this transparency would be rare in terms of interactions between students and the surrounding community. While an enclosed campus offers a feeling of concentration and unity, an open campus promotes flexibility, independence, and interaction with the outside world, I started to realize.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "Pittsburgh",
+          "comment": "the University of Pittsbrugh",
+          "context_left": "At ",
+          "context_right": " University, neverth",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your comparison between the University of Pittsburgh and a conventional Chinese university effectively highlights the contrasting ideologies of education in each culture. However, consider providing more specific examples of interactions between students and the surrounding community at the University of Pittsburgh to strengthen your argument. For instance, you could describe a particular instance where you observed students engaging with city dwellers or mention specific coffee shops or bookstores that cater to both students and non-students. This would help to illustrate the flexibility and interaction that an open campus promotes.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "This encounter let me rethink the interaction between architecture and culture. China's contained university concept captures ideas of discipline, fit, and uniqueness. The well defined limits foster intellectual commitment by means of a disciplined, concentrated surroundings. Conversely, the University of Pittsburgh's open campus represents American ideas of freedom, integration, and accessibility. Education is not limited here; rather, it is entwined with daily life and motivates students to view learning as something occurring in all spheres of their surroundings rather than only in classrooms.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "let",
+          "comment": "made",
+          "context_left": "This encounter ",
+          "context_right": " me rethink the inte",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "it is",
+          "comment": "was",
+          "context_left": "mited here; rather, ",
+          "context_right": " entwined with daily",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " is ",
+          "comment": "was",
+          "context_left": "ssibility. Education",
+          "context_right": "not limited here; ra",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your description of the contrast between the contained Chinese university concept and the open American university concept is insightful and well-developed. However, consider providing more specific examples or details to strengthen your argument. For instance, you might discuss how the physical layout of buildings or the availability of resources affects students' learning experiences in each context. Additionally, consider exploring how these cultural values are reflected in other aspects of society beyond education.",
+          "model_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your cross-cultural comparison in the climax could benefit from more specific examples to illustrate how the two places differed. Focus: Climax",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your comparison between the contained university concept in China and the open campus at the University of Pittsburgh is insightful and well-developed. However, consider providing more specific examples to illustrate the differences between the two concepts. For instance, you might discuss how the physical layout of buildings, the role of community interaction, or the impact on student learning. By doing so, you can strengthen the clarity and depth of your analysis.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "This insight let me see what constitutes a university environment from another side. I used to think that only physical barriers—those of walls and gates separating the academic world from everything else—could help one to develop a strong feeling of identity and belonging. But my time at the University of Pittsburgh let me realize that a university does not have to be surrounded to build a feeling of community. While pushing students to interact with the surroundings, an open campus can nonetheless foster a strong intellectual atmosphere.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "let me see ",
+          "comment": "allowed me to see",
+          "context_left": "This insight ",
+          "context_right": "what constitutes a u",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "can",
+          "comment": "could",
+          "context_left": "ngs, an open campus ",
+          "context_right": " nonetheless foster ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The paragraph lacks a clear and effective use of examples or evidence. Your essay provides a rich and detailed description of your experience visiting the University of Pittsburgh and comparing it to a university in your hometown. However, the paragraph lacks clear and effective use of examples or evidence to support your claims about the differences between the two universities. To strengthen your argument, consider adding specific examples or evidence from your personal experiences or observations to illustrate the points you make about the physical layouts, interactions between students and the surrounding community, and the impact of these differences on your sense of identity and belonging.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your insightful observation challenges the common assumption that a university needs walls and gates to foster a strong sense of identity and belonging. Instead, you discovered that an open campus can also promote interaction with the surroundings and cultivate a robust intellectual climate. Consider providing specific examples of how this manifests at the University of Pittsburgh, as it will strengthen your argument and make it more relatable to readers.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "In the end, this encounter helped me to see how many cultures shape the places where we live and study. A university is more than just its physical form whether contained or open. It is a place where community, knowledge, and culture collide. My trip to the University of Pittsburgh let me realize how various campus layouts capture various cultural viewpoints on community, identity, and education. More crucially, it made clear to me that a university cannot have one \"correct\" model of existence. Whether closed or open, every design represents the values of the society it serves and has certain special advantages.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " is",
+          "comment": "was",
+          "context_left": " study. A university",
+          "context_right": " more than just its ",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "In the",
+          "comment": "Throughout the paper, please add non-English phrases or sentences from your mother tongue to enrich the content of this paper.",
+          "context_left": "",
+          "context_right": " end, this encounter",
+          "teacher_category": "Task Constraints"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": "let",
+          "comment": "made",
+          "context_left": "rsity of Pittsburgh ",
+          "context_right": " me realize how vari",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "highlight",
+          "color": "yellow",
+          "text": " ",
+          "comment": "represented",
+          "context_left": "ry design represents",
+          "context_right": "the values of the so",
+          "teacher_category": "Other"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In the target paragraph, consider revising the paragraph to include a clear introduction, a clear thesis statement, and a clear conclusion. Use transitional words and phrases to connect the ideas more effectively. Focus: Clarity and organization of ideas.",
+          "model_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your exposition lacks specificity. Consider providing more details about the place in Pittsburgh and your initial imagination of it. Focus: Exposition Reasoning: A clear and vivid description of the place and your preconception will engage the reader and set the stage for the rest of the narrative.",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Consider adding a sentence or two that explicitly states the newfound understanding or insights gained from the cross-cultural comparison. For example, \"This comparison helped me to appreciate the unique aspects of both educational systems and the values they represent.\" or \"Through this comparison, I came to understand that a university's physical form is just one aspect of its identity and that cultural values play a significant role in shaping the educational experience.\"",
+          "model_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your cross-cultural comparison in the climax could benefit from more specific examples. Focus: Climax",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}

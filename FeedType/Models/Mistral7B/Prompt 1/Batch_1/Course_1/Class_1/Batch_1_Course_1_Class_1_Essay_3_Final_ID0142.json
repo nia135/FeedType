@@ -1,0 +1,183 @@
+{
+  "paragraphs": [
+    {
+      "body": "Gold Ballpoint Pen",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I love this image here!",
+          "teacher_category": "Praise",
+          "context_left": "Gold Ballpoint Pen",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Consider adding more descriptive language to help the reader visualize the scene and your interactions with the object. For example, describe the texture of the pen, the smell of the ink, or the sound of the pen writing on the paper. Additionally, consider including more sensory details about the setting, such as the sights, sounds, and smells that surround you as you use the pen. This will help the reader feel more immersed in your story and better understand the significance of the object in your life.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Dear Grandpa, Is it okay that I use all the ink in your gold pen? Ever since you passed, I have found myself needing to use it quite often. In the beginning, I promised to use it for school. School, you told me, was super important and should be my priority always. I keep faint memories of you helping me in the dining room with my homework. Especially, my math homework, that is where I need the most help. I always had a hard time with those assignments. I couldn’t see the process like you could. How could you just see it? I wish I had you there to help me with my high school algebra homework. Algebra was something I don’t think I will ever understand beyond just the basics.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "Interesting beginning as a letter :)",
+          "teacher_category": "Praise",
+          "context_left": "Dear Grandpa,",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The narrative paragraph in the target is effective in setting the scene and establishing the connection between the object (the gold pen) and the word (algebra). However, it could benefit from more specificity and detail. For example, you might consider describing the feeling of using the pen, the smell of the ink, or the sound it makes when you write. Additionally, you could explore why the pen is so important to you in more depth, perhaps discussing the memories you have of your grandfather using it or the role it played in your relationship with him.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "As I’ve gotten older, I did learn something beyond those basics.",
+      "annotations": []
+    },
+    {
+      "body": "Sometimes algebra goes beyond math and secretly teaches us a valuable lesson that we should be implementing into other factors of our lives. A lesson that my mom says some are lucky to learn and even few can learn early on in their lifetime.",
+      "annotations": []
+    },
+    {
+      "body": "Other times, algebra just feels like the most boring class of the day. In the context of my essay, I want to develop the idea of the former statement. The etymology of Algebra is “the analysis of equations, the art of reasoning about quantitative relations by the aid of a compact and highly systematized notation”. We learn how to reunite, reintegrate, and consolidate broken parts to solve algebraic equations. Simply put, we learn the process of balancing problems.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "We learn how to reunite, reintegrate, and consolidate broken parts to solve algebraic equations. Simply put, we learn the process of balancing problems.",
+          "comment": "interesting!",
+          "teacher_category": "Praise",
+          "context_left": "ematized notation”. ",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Your target paragraph does an excellent job of introducing the concept of algebra as a metaphor for balancing problems in life. However, it could benefit from more specific examples or anecdotes to illustrate this idea. Consider sharing a personal experience where you applied algebraic thinking to solve a real-life problem or challenge. This will help to strengthen the connection between the metaphor and your central idea, making it more engaging and relatable for your audience.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Now taking that idea, let's transfer it to goal setting or problem solving in a more personal context. The definition of algebra to me is that process of balancing. I realize there is no one specific way to do it in life. Just like how there are multiple different concepts under the overall umbrella of “Algebra” like polynomial fractions and quadratic formulas, etc. But they all do the same thing of balancing whatever equation.",
+      "annotations": []
+    },
+    {
+      "body": "Journaling has become my most recent attempt at balancing all the stressors in my life.",
+      "annotations": []
+    },
+    {
+      "body": "My grandfather’s ballpoint pen matters to me because it is a representation of my family and to me it represents my family’s success. The success of making a comfortable living despite all the obstacles we were bound to face as a colored family living in the United States. My definition of success is surpassing the limitations imposed by others. I view my grandfather’s pen as a connection to my family's history. Although other family members of mine have different objects that come to mind when they think of success, I felt a connection to my grandfather’s pen because it was the first shiny thing I saw as a kid that he constantly used. Over the years, it has become a reminder to me of the hardships/obstacles my ancestors faced and sacrifices they made. Which ultimately paid off and allowed my current living family members and I to have the privileged life we grew up in.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "My grandfather’s ballpoint pen matters to me because it is a representation of my family and to me it represents my family’s success.",
+          "comment": "I'm interested! Though I'm not quite sure how the pen and your family's success is logically connected to algebra and journaling to find balance?",
+          "teacher_category": "Clarification",
+          "context_left": "",
+          "context_right": " The success of maki"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "The focus for feedback in the target paragraph is the development of the idea of the grandfather's pen as a symbol of family success and the connection to the family's history. The paragraph effectively states the significance of the pen and how it has become a reminder of the hardships and sacrifices made by ancestors to provide a privileged life for the current family members. The paragraph also connects the pen to the definition of success as surpassing limitations imposed by others. The paragraph could benefit from further development of the metaphor of balancing equations and how it relates to goal setting and problem solving in a personal context.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "As a larger universe significance, those ideas I feel are relatable to everyone in one way or another. The feeling of having a purpose and wanting to be proud, whether that given by whoever we call family or earned for yourself. Having a connection with their family gives people a strong sense of pride in the uniqueness of their family history. Strong connections are specially made through family heirlooms or valuables, for example a pen. The feeling is universal even if every object differs. For some, it also comes with the feeling of inspiration I mentioned earlier. Inspired to continue that success, for me personally means fulfilling my life with what makes me happy and exceeding the expectations my family has of me.",
+      "annotations": []
+    },
+    {
+      "body": "Although to be that ambitious comes with a major challenge of being able to have a proper life balance. Thats why I try different strategies, like planners, but the one strategy I seem to find myself returning to the most is journaling.",
+      "annotations": [
+        {
+          "type": "note",
+          "comment": "I'm interested in both ideas you're presenting in this draft (algebra/balance/journaling and the pen/heritage/family pride) but, right now, the essay feels as if it could be two different essays.",
+          "teacher_category": "Mistakes",
+          "context_left": " strategy I seem to ",
+          "context_right": "find myself returning to the most is journaling."
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In the target paragraph, you introduce the idea that journaling helps you balance your life and ambition. However, this idea could be further developed to show how journaling specifically helps you balance these aspects of your life. Consider providing specific examples or anecdotes of how journaling has helped you manage stress, prioritize goals, or maintain focus. Additionally, you could explore the metaphorical significance of balancing in this context, and how it relates to the larger themes of your essay.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Dream journals, Goal journals, Ranting journals, Sketchbooks, and a bunch of random ones with small prompts that most of the time I do not remember the context for. I rarely wrote in hyper-detail because I always assumed that my memory would remember of detail that happened that day. It never has.",
+      "annotations": []
+    },
+    {
+      "body": "Every time I write in my journal, I use a pen. Only pen. The ball point pen was the first pen I used in the first journal I received.",
+      "annotations": []
+    },
+    {
+      "body": "It’s annoying when you misspell in pen but at some point, you stop caring because your thoughts and emotions are going faster than your hands. You have to catch up and there is no time to fix a silly misspelling. It only becomes frustrating when I am attempting to read back my thoughts, and I must autocorrect every other sentence in my head.",
+      "annotations": []
+    },
+    {
+      "body": "For me to feel like my thoughts were “organized”, I would have to dedicate a journal for every mood I could be feeling. I very quickly realized that emotions are too complex to categorize into a journal. Reading back some of my daily journals, I could see the swing in my emotions just based off of the angle I was writing at, or the spacing in between each word. Even after that realization, I continued to journal in different journals because I had to feel organized, but one thing that stood out to me was that it never bothered me to write in each of these journals with the same pen.",
+      "annotations": []
+    },
+    {
+      "body": "Maybe writing with my grandfather’s pen brought comfort. The familiar hold, the familiar gold details and the shiny black body all brought some sort of immediate ease and focus to my thoughts.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "pink",
+          "text": "Maybe writing with my grandfather’s pen brought comfort. The familiar hold, the familiar gold details and the shiny black body all brought some sort of immediate ease and focus to my thoughts.",
+          "comment": "nice",
+          "teacher_category": "Praise",
+          "context_left": "",
+          "context_right": ""
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "In the descriptive paragraph about your grandfather's pen, consider adding more sensory details to help readers fully understand and connect with the object. For example, you might describe the weight of the pen in your hand, the smell of the ink, or the sound it makes when you click the top to release more ink. These details will help readers better understand the significance of the pen to you and the comfort it brings.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "That clear headed space was the only space which I could find solutions. The only space where I can “see the math”. Where I can see how to solve the missing part of my equation. The space where I relate to my grandfather the most.",
+      "annotations": []
+    },
+    {
+      "body": "I admire my grandfather because the only stories my mom or my aunts tell me are stories where he sounds like the perfect, most down to earth, smartest person to ever walk. They talk about how all his patients loved him, how caring and protective he was of his family, how neighbors loved him, how mothers he helped would bring the kids he delivered to come meet him. Some of those kids are lifetime friends with my mom and aunts. Those stories continue his legacy in such an inspiring way.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "green",
+          "text": "I admire my grandfather because the only stories my mom or my aunts tell me are stories where he sounds like the perfect, most down to earth, smartest person to ever walk. They talk about how all his patients loved him, how caring and protective he was of his family, how neighbors loved him, how mothers he helped would bring the kids he delivered to come meet",
+          "comment": "lovely memories--I wonder if you could write them in more concrete and specific detail. Perhaps with a narrative?",
+          "teacher_category": "Task Constraints",
+          "context_left": "",
+          "context_right": " him. Some of those "
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "To strengthen the connection between the target paragraph and the central idea of the essay, consider explicitly stating how the stories about your grandfather's legacy relate to the concept of legacy as a whole. You might also consider incorporating the etymology of the word \"legacy\" into this paragraph to further deepen the connection. Additionally, ensure that the language and tone of this paragraph align with the overall tone and style of the essay.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "Therefore, the pen is an inspiration for me to achieve my goals of providing a comfortable life for myself and my future family. For me to have a legacy told in the same angelic narrative that my grandfather’s is told.",
+      "annotations": []
+    },
+    {
+      "body": "Would I have wanted to meet my grandfather right now, at a sentient age? Probably not, I would not take the risk of tainting the perfect idea I have of him in my head. That could be the reason why people say, “Never meet your idols”.",
+      "annotations": []
+    },
+    {
+      "body": "Either way, my grandfather’s gold ball point pen is strong, and tenacious even on its dying page, I was able to finish my thoughts all the way to the bottom right-side corner. The pen could handle stress rant writing, life planning maps and even just plain old algebra homework. It could handle anything that I used it for. If my pen can do that, then I can handle anything life throws at me.",
+      "annotations": []
+    }
+  ]
+}

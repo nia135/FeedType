@@ -1,0 +1,485 @@
+{
+  "paragraphs": [
+    {
+      "body": "Title Here",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "Title",
+          "comment": "? ",
+          "context_left": "",
+          "context_right": " Here",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your essay focuses on the conflict between Addie and her mother, but it lacks clear elaboration on Addie's motivations and justifications for her actions. Consider adding more detail to explain why Addie feels the need to prove her success to her mother and why she reacts so defensively when her mother expresses concern. This will help readers better understand Addie's perspective and the intensity of their disagreements.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\t“Addie, I’m worried about you,” my mom said. ",
+      "annotations": []
+    },
+    {
+      "body": "\t“What do you mean? My life could not be more perfect that it is right now,” I said.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "said",
+          "comment": "I read this as sarcastic so was surprised the mom took it seriously! ",
+          "context_left": "it is right now,” I ",
+          "context_right": ".",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your dialogue effectively conveys the tension between the mother and daughter in this scene. However, it would be beneficial to provide more context for the reader about the situation leading up to this conversation. Consider adding some exposition to help establish the background and motivations of both characters. This will allow the reader to better understand the significance of their words and actions.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\tMy mom sighed. “Yes, you’re right, things are going good for you, but they won’t always be that way. You’ve been pushing your luck too much recently. I know you think you’re untouchable at work, but if you make another mistake like the one last week-”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "recently",
+          "comment": "I was intrigued! ",
+          "context_left": " your luck too much ",
+          "context_right": ". I know you think y",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your mom's concern about your recent mistakes at work is an important aspect of your story. Consider elaborating on her perspective and the reasons why she is worried. This could add depth to the conflict and help the reader understand her point of view. For example, you could describe her past experiences or her relationship with you to explain why she is so concerned.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\t“That wasn’t my fault. It was a stupid first year resident’s. My attending is just mad because I didn’t catch her mistake before she killed the patient. It’s not my fault he died. I shouldn’t have to babysit other doctors. But don’t worry, nothing’s going to happen. I’m too good at what I do for them to fire me,” I interrupted. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "me",
+          "comment": "Wow, I do not like Addie! (But maybe that’s your intention!) ",
+          "context_left": "do for them to fire ",
+          "context_right": ",” I interrupted. ",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your dialogue in the target paragraph seems to lack accountability for the actions taken. Consider elaborating on the consequences of the actions and how they impact the characters involved. For example, you could explore the doctor's feelings of guilt or remorse, or the patient's family's reaction to the death. This will add depth to the story and help the reader connect with the characters.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\t“Addie, that’s what I’m talking about! You don’t take any responsibility for your actions. You are that resident’s higher up. Their mistakes are your mistakes.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "your",
+          "comment": "I was a little confused by how the mom would know so much about this situation and about how Addie is at work. It feel like a conversation she might have with a mentor or supervisor? ",
+          "context_left": "\t“Addie, that’s what I’m talking about! You don’t take any responsibility for ",
+          "context_right": " actions. You are that resident’s higher up. Their mistakes are your mistakes.”",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your mom's statement, \"Their mistakes are your mistakes,\" highlights the importance of taking responsibility for your actions as a leader. In the draft, you argue against this notion, but consider how your position as a higher-up resident makes you accountable for the mistakes of those under you. Elaborate on this concept by discussing the implications of your actions and how they affect the team dynamic and patient care.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\t“Look, I didn’t visit you just to get lectured. If you can’t talk about anything else. I’m leaving.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "g.”",
+          "comment": "The dialogue is nice. I wonder if we could see what they’re doing as well? ",
+          "context_left": "ing else. I’m leavin",
+          "context_right": "",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your dialogue in this paragraph feels stilted and unnatural. Consider revising it to reflect more authentic conversation between mother and daughter. For example, you might have your mother express her concerns more subtly, or have your protagonist respond with more emotion. This will help to deepen the relationship between the two characters and make the exchange feel more genuine.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "\t“I just know you worked so hard to get to where you are, and I’d hate to see it get taken away. These last few years have changed you, Addie. I’m so proud of you for becoming a doctor, but I’m worried it’s all gone to your head.”",
+      "annotations": []
+    },
+    {
+      "body": "\t“I can’t believe you. I’m finally successful, and it’s a bad thing to you? Goodbye mom. I have to go to the hospital,” I said.",
+      "annotations": []
+    },
+    {
+      "body": "\t“Addie, please-”",
+      "annotations": []
+    },
+    {
+      "body": "\t“No, mom, I’m leaving”",
+      "annotations": []
+    },
+    {
+      "body": "I got up off the couch and walked towards the door. I couldn’t believe she had the audacity to be mad at me for doing something good with my life. Would she rather I worked some dead-end job for years like her? She was ridiculous. I knew I shouldn’t have visited her. It always ended in some kind of argument. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "my",
+          "comment": "I’m surprised by how hostile Addie is in this situation. The mom, at least to me, seems like she’s trying to help. ",
+          "context_left": "something good with ",
+          "context_right": " life. Would she rat",
+          "teacher_category": "Concepts"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your essay focuses on the conflict between the protagonist and her mother. While the dialogue effectively conveys their differing perspectives, it would be beneficial to expand on the protagonist's thoughts and feelings towards her mother's concerns. Consider elaborating on why she dismisses her mother's warnings and how this affects her actions and eventual consequences. This will add depth to your character and strengthen the conflict.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "My mom followed after me. Of course she did. She always does.",
+      "annotations": []
+    },
+    {
+      "body": "“Adeline, I am not mad at you for being successful. I’m just saying-”",
+      "annotations": []
+    },
+    {
+      "body": "I interrupted her. “Mom, I mean this with all due respect: I don’t think I can see you anymore. Every time I visit, you find ways to drag me down, and I don’t need that in my life right now. When you’re ready to be happy for me, let me know.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "for",
+          "comment": "You have a really interesting situation here, because from my perspective, the mom seems to be correct, and Addie is overreacting (and seems incorrect and a little callous). Is that what you want? ",
+          "context_left": "e ready to be happy ",
+          "context_right": " me, let me know.”",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your dialogue effectively conveys the tension between the mother and daughter in this scene. However, it would benefit from more elaboration on the reasons behind their conflict. What specific actions or beliefs have caused this rift between them? Providing more context and detail will help deepen the reader's understanding of their relationship and the significance of this moment.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "“Addie, please be careful. You’re flying too close to the sun, and it’s a long way down,” my mom warned.",
+      "annotations": []
+    },
+    {
+      "body": "I slammed the door behind me, heading for my car. I used work as an excuse to get out of there, but maybe that’s where I needed to be. Being in the hospital always calmed down, and besides, I was on call, so I was sure I’d end up there at some point that night. Luckily, my mom lived close to the hospital, so I didn’t have a long drive. Despite the short distance, I found myself thinking about our fight.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "I",
+          "comment": "Might be helpful to give more details — name of the hospital, what she does there, etc. ",
+          "context_left": "",
+          "context_right": " slammed the door behind me, heading for my car. I used work as an excuse to get out of there, but m",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your essay focuses on the conflict between the protagonist and her mother. It would be beneficial to expand on the mother's perspective and motivations, as this will add depth to the conflict and make it more engaging for the reader. Consider elaborating on why she is worried about her daughter and what she believes is at stake. This will help the reader understand her perspective and empathize with her concerns.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "I’m the best resident in my class, and she thinks they’re going to fire me. What does she know? I’m the one with an education, she just spent her whole life cleaning houses. What an idiot. And besides, what was up with that warning? Did she practice that line in front of a mirror or something? “It’s a long way down.” What kind of bullshit is that?",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "cleaning",
+          "comment": "WOW, Addie. ",
+          "context_left": "pent her whole life ",
+          "context_right": " houses. What an idi",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "down.” ",
+          "comment": "I did enjoy this because the mom did sound a little silly saying that. ",
+          "context_left": "g? “It’s a long way ",
+          "context_right": "What kind of bullshi",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your character's defensiveness towards your mother's concerns comes across as unprofessional and dismissive. Consider elaborating on why your character feels the need to prove her success to her mother, and how this affects her interactions with her. Additionally, the repeated use of the phrase \"what does she know?\" may detract from the overall tone and maturity of the piece. Instead, try to show the complexity of your character's relationship with her mother through more nuanced dialogue and actions.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "As I pulled into the parking lot, I forced myself to stop thinking about it. It was only going to make me angrier. I walked into the hospital, heading for the on-call room, but I ran into my program director on the way there. ",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, nice to see you Dr. Graham. I was actually just about to call you,” he said. ",
+      "annotations": []
+    },
+    {
+      "body": "“Nice to see you too, Dr. Miller. What did you want to talk about?” I asked.",
+      "annotations": []
+    },
+    {
+      "body": "“Maybe it’s better if we do this somewhere private.”",
+      "annotations": []
+    },
+    {
+      "body": "“Oh, right, HIPAA. Of course. I was just heading to an on-call room, if you wanted to talk there?”",
+      "annotations": []
+    },
+    {
+      "body": "“I think my office would be better for this, Dr. Graham.”",
+      "annotations": []
+    },
+    {
+      "body": "I couldn’t stop thinking about what case Dr. Miller wanted to discuss. Even though he was the residency director, he still took on patients of his own, and he always had fascinating cases. I was still daydreaming when we sat down at his desk. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "stop thinking about ",
+          "comment": "It’s surprising that she’s so oblivious to what is about to happen. ",
+          "context_left": "I couldn’t ",
+          "context_right": "what case Dr. Miller",
+          "teacher_category": "Praise"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your description of Dr. Miller's office and the anticipation of an interesting case is engaging and sets the scene well. Consider expanding on this scene to further develop the atmosphere and build suspense for the reader.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "“Dr. Graham, do you remember that surgery you did last week on Ms. Smith? The knee replacement?” Dr. Miller asked me.",
+      "annotations": []
+    },
+    {
+      "body": "“I do. The surgery went well, as usual.”",
+      "annotations": []
+    },
+    {
+      "body": "“Ms. Smith presented to the Emergency Department today with a severe brain bleed. She died this afternoon.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "severe",
+          "comment": "Yikes. Is this a different case from the one she was talking to her mom about? ",
+          "context_left": "rtment today with a ",
+          "context_right": " brain bleed. She di",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your draft includes a clear description of the situation in the target paragraph, but it would benefit from more elaboration on the consequences of Ms. Smith's death and the impact it has on the protagonist. Consider exploring how the protagonist reacts to the news, how she processes the guilt or blame, and how it affects her relationships or future actions. This will add depth and complexity to your story.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "“Okay, I don’t see how that’s my problem. That sounds like the ED and her neurosurgeon aren’t doing their jobs.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "how that’s my problem",
+          "comment": "Do you want her to be this arrogant? (Maybe so!) ",
+          "context_left": "“Okay, I don’t see ",
+          "context_right": ". That sounds like t",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your focus on the blame game with the ED and neurosurgeon detracts from the potential depth of the situation. Consider how your character, Dr. Graham, might take responsibility for her actions and learn from the consequences.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "“Dr. Graham, we looked into her chart. You prescribed blood thinners after her surgery,” Dr. Miller told me.",
+      "annotations": []
+    },
+    {
+      "body": "“I did. I wanted to prevent any clots from forming. I didn’t want to risk her having a heart attack or stroke,” I explained.",
+      "annotations": []
+    },
+    {
+      "body": "“You didn’t discuss this with one of your attendings beforehand. If you did, you would’ve realized that Ms. Smith had uncontrolled high blood pressure, and you would’ve been told not to prescribe blood thinners. Can you tell me why Ms. Smith wouldn’t have been given blood thinners, Dr. Graham?” he asked.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "asked",
+          "comment": "As a non medical person I’m having trouble following this conversation. You might consider having Addie explain it to us a bit. ",
+          "context_left": "rs, Dr. Graham?” he ",
+          "context_right": ".",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: The doctor did not consult with an attending before prescribing blood thinners to Ms. Smith, which led to her death. It would have been important for the doctor to discuss this decision with a senior colleague to ensure the safety and well-being of the patient. This oversight could have been avoided with proper communication and collaboration.",
+          "model_category": "Mistakes"
+        }
+      ]
+    },
+    {
+      "body": "“I guess maybe if someone wanted her to have a stroke they wouldn’t prescribe them. I made the decision to prescribe medications to prevent further harm. If any attendings wouldn’t prescribe blood thinners, they shouldn’t be working here.”",
+      "annotations": []
+    },
+    {
+      "body": "“Ms. Smith’s hypertension caused weakening of the walls of her blood vessels in her brain. Prescribing blood thinners caused the vessels to rupture, which caused her brain to bleed. Her death is your fault,” Dr. Miller said. His face had turned red, but his voice remained eerily calm. “If you did what you were supposed to and talked with your attendings. She would still be alive. Instead, you have a god-complex that makes it impossible for you to do your job right. Dr. Graham, you are a good surgeon, but that makes two patient deaths in two weeks that were caused by negligence and disobedience. This hospital has no choice but to remove you from the residency program. You can go home.”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": ",” Dr. Miller ",
+          "comment": "I had trouble buying that a doctor would say this to another. Legally, is this correct? (This is where we get into my advice not to write about situations you don’t know well!) ",
+          "context_left": " death is your fault",
+          "context_right": "said. His face had t",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "with your ",
+          "comment": "I wondered how he knows she did talk to her attending? Did he talk to them? ",
+          "context_left": "posed to and talked ",
+          "context_right": "attendings. She woul",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "home",
+          "comment": "Wow. Now I bought this! But is removal the most likely step they’d take? I’d think the hospital would be worried about malpractice suits? ",
+          "context_left": "program. You can go ",
+          "context_right": ".”",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your essay focuses on the consequences of the protagonist's actions, but it lacks clear explanation of the protagonist's motivations. Consider elaborating on why the protagonist believes she is untouchable at work and why she refuses to take responsibility for her mistakes. This will help readers understand her perspective and engage more deeply with the story.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "My ears started ringing. I felt like I was going to pass out. Removed from the program? That wasn’t possible. ",
+      "annotations": []
+    },
+    {
+      "body": "“Dr. Miller, are you sure you’re talking to the right physician? I mean, I’m the best resident here. I can’t be fired. What would the hospital do without me?” I asked.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "right",
+          "comment": "You might consider why she is so sure she’s the best. Did someone say that to her? Or is it completely hubris? ",
+          "context_left": "u’re talking to the ",
+          "context_right": " physician? I mean, ",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your character, Addie, seems to believe she is invincible and untouchable in her professional life. In the target paragraph, she argues that she cannot be fired because she is the best resident in the program. This belief may be hindering her from taking responsibility for her actions and learning from her mistakes. Consider exploring how Addie's invincibility complex affects her relationships with her colleagues and her patients, and how it may lead to negative consequences.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "“Probably have fewer patient deaths caused by physician oversight. You’re good with a scalpel, Dr. Graham, but that’s about it. Being a surgeon is about more than just cutting, believe it or not. You should consider yourself lucky Ms. Smith’s family hasn’t decided to sue for malpractice. Now please, I have to get to my patients. I trust you can escort yourself out?”",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "yourself",
+          "comment": "I believed the first part of the speech but not the ending. ",
+          "context_left": "s about it. Being a surgeon is about more than just cutting, believe it or not. You should consider ",
+          "context_right": " lucky Ms. Smith’s family hasn’t decided to sue for malpractice. Now please, I have to get to my pat",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: The dialogue between Dr. Graham and Dr. Miller could benefit from more elaboration. The reader should understand the consequences of Dr.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "****",
+      "annotations": []
+    },
+    {
+      "body": "The rest of the day went by in a blur. I somehow made it home and spent the rest of the night sitting on the couch, staring at the wall. Fired? How was that even possible? Sure, a few patients died, but if they were healthier, maybe they would have had a better chance at survival. I didn’t understand why I was fired for their poor choices in life. I decided that tomorrow I’d apply to other residency programs. I figured the chances of me being accepted were slim, considering I was fired from mine, but I knew if I explained the situation, they’d understand. And I doubted they’d be able to deny me when they saw how good I was.",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "a",
+          "comment": "I wasn’t sure I needed to learn much more about the day or have this time break — I think it might be more effective to keep the scene/story continuous as you’ve done until here. ",
+          "context_left": "The rest of the d",
+          "context_right": "y went by in a blur. I somehow made it home and spent the rest of the night sitting on the couch, st",
+          "teacher_category": "Mistakes"
+        },
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "figured t",
+          "comment": "Is that even possible? Again, I feel we’re out of known territory here. ",
+          "context_left": "sidency programs. I ",
+          "context_right": "he chances of me bei",
+          "teacher_category": "Clarification"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your essay focuses on the conflict between the protagonist and her mother. However, it would be beneficial to expand on the reasons why the mother is concerned about the protagonist's actions. Providing more context or elaboration on the mother's perspective could deepen the conflict and add complexity to the story. For example, you could explore the mother's past experiences or motivations that shape her concern for her daughter.",
+          "model_category": "Elaboration"
+        }
+      ]
+    },
+    {
+      "body": "I thought back to my mom’s warning. She was right, I was close to the sun, but only because I was the best of the best. And maybe it was a long way down, but I would never know what the fall felt like. ",
+      "annotations": [
+        {
+          "type": "highlight",
+          "color": "generic",
+          "text": "felt",
+          "comment": "Waylon, you have this fascinating situation here, where a woman allllmost learns a lesson but then just doubles down on being a jerk. I wonder what happens to this story if she does actually learn the lesson — if this firing does actually break her — and then what happens? Maybe she goes back to her mom and apologizes? Maybe she tries to talk to the supervisor again? Or maybe she decides, nope, I did nothing wrong and I’ll apply elsewhere. (This is what you have now, except she never really changes or even seems like she might.) I do think you’ve at times gone beyond what makes logical sense — I couldn’t believe that a supervisor would fire his resident when she happened to wander into the hospital or that she could just apply elsewhere. So I would suggest thinking through that a bit, maybe trying to find someone’s online post about what happens when you get fired. I didn’t mind so much that I don’t much like Addie, but it was also hard to stay interested in her when she was a jerk to everyone. Is there anyone she’s nice to?Happy revising! Thanks!Grade: A",
+          "context_left": " know what the fall ",
+          "context_right": " like. ",
+          "teacher_category": "Elaboration"
+        },
+        {
+          "type": "model_feedback",
+          "model_comment": "Feedback: Your mom's warning about being close to the sun and the unknown fall resonates with the theme of overconfidence and potential consequences. Consider expanding on this metaphor to further develop the character's self-awareness and growth. How might the character react when faced with the reality of her actions and their consequences? What might she learn from this experience?",
+          "model_category": "Elaboration"
+        }
+      ]
+    }
+  ]
+}
